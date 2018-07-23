@@ -1,0 +1,1378 @@
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 2, in <module>
+    from model.ml_model.intent_ml import IntentMl
+  File "/Intent_Dtection/model/ml_model/intent_ml.py", line 1, in <module>
+    from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
+ImportError: No module named 'sklearn'
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 2, in <module>
+    from model.ml_model.intent_ml import IntentMl
+  File "/Intent_Dtection/model/ml_model/intent_ml.py", line 1, in <module>
+    from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
+ImportError: No module named 'sklearn'
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 2, in <module>
+    from model.ml_model.intent_ml import IntentMl
+  File "/Intent_Dtection/model/ml_model/intent_ml.py", line 1, in <module>
+    from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
+ImportError: No module named 'sklearn'
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 2, in <module>
+    from model.ml_model.intent_ml import IntentMl
+  File "/Intent_Dtection/model/ml_model/intent_ml.py", line 1, in <module>
+    from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
+ImportError: No module named 'sklearn'
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 2, in <module>
+    from model.ml_model.intent_ml import IntentMl
+  File "/Intent_Dtection/model/ml_model/intent_ml.py", line 1, in <module>
+    from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
+ImportError: No module named 'sklearn'
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 2, in <module>
+    from model.ml_model.intent_ml import IntentMl
+  File "/Intent_Dtection/model/ml_model/intent_ml.py", line 1, in <module>
+    from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
+ImportError: No module named 'sklearn'
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 2, in <module>
+    from model.ml_model.intent_ml import IntentMl
+  File "/Intent_Dtection/model/ml_model/intent_ml.py", line 1, in <module>
+    from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/__init__.py", line 134, in <module>
+    from .base import clone
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/base.py", line 11, in <module>
+    from scipy import sparse
+ImportError: No module named 'scipy'
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 2, in <module>
+    from model.ml_model.intent_ml import IntentMl
+  File "/Intent_Dtection/model/ml_model/intent_ml.py", line 1, in <module>
+    from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/__init__.py", line 134, in <module>
+    from .base import clone
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/base.py", line 11, in <module>
+    from scipy import sparse
+ImportError: No module named 'scipy'
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 2, in <module>
+    from model.ml_model.intent_ml import IntentMl
+  File "/Intent_Dtection/model/ml_model/intent_ml.py", line 1, in <module>
+    from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/__init__.py", line 134, in <module>
+    from .base import clone
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/base.py", line 11, in <module>
+    from scipy import sparse
+ImportError: No module named 'scipy'
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 2, in <module>
+    from model.ml_model.intent_ml import IntentMl
+  File "/Intent_Dtection/model/ml_model/intent_ml.py", line 1, in <module>
+    from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/__init__.py", line 134, in <module>
+    from .base import clone
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/base.py", line 11, in <module>
+    from scipy import sparse
+ImportError: No module named 'scipy'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:56:00 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:56:01 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 0.980 seconds.
+Fri, 13 Jul 2018 03:56:01 __init__.py[line:163] DEBUG Loading model cost 0.980 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:56:01 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 2, in <module>
+    from model.dl_model.model_lstm_wjj.data_preprocess import Intent_Slot_Data
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/data_preprocess.py", line 10, in <module>
+    from entity_recognition.ner import EntityRecognition
+  File "/Intent_Dtection/entity_recognition/ner.py", line 22, in <module>
+    ele_list=[e.replace('\n','') for e in open(PATH+'/entity_data/%s.txt'%ele,'r')]
+  File "/Intent_Dtection/entity_recognition/ner.py", line 22, in <listcomp>
+    ele_list=[e.replace('\n','') for e in open(PATH+'/entity_data/%s.txt'%ele,'r')]
+  File "/usr/lib/python3.5/encodings/ascii.py", line 26, in decode
+    return codecs.ascii_decode(input, self.errors)[0]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe5 in position 0: ordinal not in range(128)
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:56:05 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:56:05 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.728 seconds.
+Fri, 13 Jul 2018 03:56:06 __init__.py[line:163] DEBUG Loading model cost 0.728 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:56:06 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 2, in <module>
+    from model.dl_model.model_lstm_wjj.data_preprocess import Intent_Slot_Data
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/data_preprocess.py", line 10, in <module>
+    from entity_recognition.ner import EntityRecognition
+  File "/Intent_Dtection/entity_recognition/ner.py", line 22, in <module>
+    ele_list=[e.replace('\n','') for e in open(PATH+'/entity_data/%s.txt'%ele,'r')]
+  File "/Intent_Dtection/entity_recognition/ner.py", line 22, in <listcomp>
+    ele_list=[e.replace('\n','') for e in open(PATH+'/entity_data/%s.txt'%ele,'r')]
+  File "/usr/lib/python3.5/encodings/ascii.py", line 26, in decode
+    return codecs.ascii_decode(input, self.errors)[0]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe5 in position 0: ordinal not in range(128)
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:56:10 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:56:10 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.736 seconds.
+Fri, 13 Jul 2018 03:56:11 __init__.py[line:163] DEBUG Loading model cost 0.736 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:56:11 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:58:33 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:58:34 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 0.986 seconds.
+Fri, 13 Jul 2018 03:58:34 __init__.py[line:163] DEBUG Loading model cost 0.986 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:58:34 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:58:38 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:58:38 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.753 seconds.
+Fri, 13 Jul 2018 03:58:39 __init__.py[line:163] DEBUG Loading model cost 0.753 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:58:39 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:58:43 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:58:43 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.738 seconds.
+Fri, 13 Jul 2018 03:58:44 __init__.py[line:163] DEBUG Loading model cost 0.738 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:58:44 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:58:48 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:58:48 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.724 seconds.
+Fri, 13 Jul 2018 03:58:49 __init__.py[line:163] DEBUG Loading model cost 0.724 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:58:49 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:58:53 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:58:53 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.717 seconds.
+Fri, 13 Jul 2018 03:58:54 __init__.py[line:163] DEBUG Loading model cost 0.717 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:58:54 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:58:58 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:58:58 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.807 seconds.
+Fri, 13 Jul 2018 03:58:59 __init__.py[line:163] DEBUG Loading model cost 0.807 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:58:59 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:59:03 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:59:03 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.839 seconds.
+Fri, 13 Jul 2018 03:59:04 __init__.py[line:163] DEBUG Loading model cost 0.839 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:59:04 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:59:09 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:59:09 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.776 seconds.
+Fri, 13 Jul 2018 03:59:09 __init__.py[line:163] DEBUG Loading model cost 0.776 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:59:09 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:59:14 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:59:14 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.748 seconds.
+Fri, 13 Jul 2018 03:59:15 __init__.py[line:163] DEBUG Loading model cost 0.748 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:59:15 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:59:19 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:59:19 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.746 seconds.
+Fri, 13 Jul 2018 03:59:20 __init__.py[line:163] DEBUG Loading model cost 0.746 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:59:20 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:59:24 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:59:24 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.735 seconds.
+Fri, 13 Jul 2018 03:59:25 __init__.py[line:163] DEBUG Loading model cost 0.735 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:59:25 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:59:29 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:59:29 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.728 seconds.
+Fri, 13 Jul 2018 03:59:30 __init__.py[line:163] DEBUG Loading model cost 0.728 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:59:30 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:59:34 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:59:34 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.746 seconds.
+Fri, 13 Jul 2018 03:59:35 __init__.py[line:163] DEBUG Loading model cost 0.746 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:59:35 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:59:39 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:59:39 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.774 seconds.
+Fri, 13 Jul 2018 03:59:40 __init__.py[line:163] DEBUG Loading model cost 0.774 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:59:40 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+/Intent_Dtection
+Traceback (most recent call last):
+  File "api.py", line 12, in <module>
+    from pipeline import Pipeline
+  File "/Intent_Dtection/pipeline.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.pipeline_lstm import IntentDLA
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/pipeline_lstm.py", line 6, in <module>
+    from model.dl_model.model_lstm_wjj.lstm import IntentLstm,Config_lstm
+  File "/Intent_Dtection/model/dl_model/model_lstm_wjj/lstm.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named 'tensorflow'
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 03:59:44 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Fri, 13 Jul 2018 03:59:44 __init__.py[line:131] DEBUG Loading model from cache /tmp/jieba.cache
+Loading model cost 0.829 seconds.
+Fri, 13 Jul 2018 03:59:45 __init__.py[line:163] DEBUG Loading model cost 0.829 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 03:59:45 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 04:02:55 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 13 Jul 2018 04:02:56 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 0.962 seconds.
+Fri, 13 Jul 2018 04:02:56 __init__.py[line:163] DEBUG Loading model cost 0.962 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 04:02:56 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 04:04:29 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 04:04:29 pipeline.py[line:106] INFO data_deal_finish
+/Intent_Dtection
+/Intent_Dtection
+Fri, 13 Jul 2018 04:04:29 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 5.69ms
+Fri, 13 Jul 2018 04:04:53 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 04:04:53 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 04:04:53 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 3.22ms
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 04:31:42 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 13 Jul 2018 04:31:43 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.181 seconds.
+Fri, 13 Jul 2018 04:31:43 __init__.py[line:163] DEBUG Loading model cost 1.181 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 04:31:43 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 04:31:54 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 04:31:54 pipeline.py[line:106] INFO data_deal_finish
+/Intent_Dtection
+/Intent_Dtection
+Fri, 13 Jul 2018 04:31:54 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 3.31ms
+Fri, 13 Jul 2018 04:32:02 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 04:32:02 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 04:32:02 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 2.59ms
+Fri, 13 Jul 2018 04:33:10 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 04:33:10 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 04:33:10 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 2.82ms
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 04:39:29 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 13 Jul 2018 04:39:30 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.048 seconds.
+Fri, 13 Jul 2018 04:39:30 __init__.py[line:163] DEBUG Loading model cost 1.048 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 04:39:30 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 04:39:37 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 04:39:37 pipeline.py[line:106] INFO data_deal_finish
+/Intent_Dtection
+/Intent_Dtection
+Fri, 13 Jul 2018 04:39:37 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 4.25ms
+Fri, 13 Jul 2018 04:39:39 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 04:39:39 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 04:39:39 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 4.72ms
+Fri, 13 Jul 2018 04:39:42 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 04:39:42 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 04:39:42 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 5.72ms
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 04:58:38 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 13 Jul 2018 04:58:39 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.035 seconds.
+Fri, 13 Jul 2018 04:58:39 __init__.py[line:163] DEBUG Loading model cost 1.035 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 04:58:39 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 04:58:56 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 04:58:56 pipeline.py[line:106] INFO data_deal_finish
+/Intent_Dtection
+/Intent_Dtection
+Fri, 13 Jul 2018 04:58:56 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 3.01ms
+Fri, 13 Jul 2018 04:59:07 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 04:59:07 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 04:59:07 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 2.40ms
+Fri, 13 Jul 2018 05:01:58 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 05:01:58 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 05:01:58 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 2.64ms
+Fri, 13 Jul 2018 05:02:00 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 05:02:00 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 05:02:00 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 2.46ms
+Building prefix dict from the default dictionary ...
+Fri, 13 Jul 2018 05:03:19 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 13 Jul 2018 05:03:20 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.037 seconds.
+Fri, 13 Jul 2018 05:03:20 __init__.py[line:163] DEBUG Loading model cost 1.037 seconds.
+Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 05:03:20 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 13 Jul 2018 05:04:03 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 05:04:03 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 05:04:03 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['技术面分析'], dtype='<U59')}
+/Intent_Dtection
+/Intent_Dtection
+dict_keys(['万科技术面'])
+Fri, 13 Jul 2018 05:04:03 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 3.96ms
+Fri, 13 Jul 2018 05:49:09 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 05:49:09 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 05:49:09 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['技术面分析'], dtype='<U59')}
+dict_keys(['万科技术面'])
+Fri, 13 Jul 2018 05:49:09 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 9.57ms
+Fri, 13 Jul 2018 06:53:18 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 06:53:18 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 06:53:18 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析'], dtype='<U59')}
+dict_keys(['万科基本面分析'])
+Fri, 13 Jul 2018 06:53:18 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 8.33ms
+Fri, 13 Jul 2018 06:53:30 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 06:53:30 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 06:53:30 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['技术面分析'], dtype='<U59')}
+dict_keys(['万科技术面分析'])
+Fri, 13 Jul 2018 06:53:30 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 4.09ms
+Fri, 13 Jul 2018 06:53:42 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 13 Jul 2018 06:53:42 pipeline.py[line:106] INFO data_deal_finish
+Fri, 13 Jul 2018 06:53:42 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other'], dtype='<U59')}
+dict_keys(['美的技术面分析'])
+Fri, 13 Jul 2018 06:53:42 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 6.66ms
+Mon, 16 Jul 2018 07:04:44 pipeline.py[line:147] INFO RE 意图识别完成
+Mon, 16 Jul 2018 07:04:46 pipeline.py[line:106] INFO data_deal_finish
+Mon, 16 Jul 2018 07:04:46 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other'], dtype='<U59')}
+dict_keys(['技术面分析'])
+Mon, 16 Jul 2018 07:04:46 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 1906.62ms
+Mon, 16 Jul 2018 07:04:55 pipeline.py[line:147] INFO RE 意图识别完成
+Mon, 16 Jul 2018 07:04:55 pipeline.py[line:106] INFO data_deal_finish
+Mon, 16 Jul 2018 07:04:55 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['技术面分析'], dtype='<U59')}
+dict_keys(['万科技术面分析'])
+Mon, 16 Jul 2018 07:04:55 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 17.32ms
+Building prefix dict from the default dictionary ...
+Thu, 19 Jul 2018 06:40:01 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Thu, 19 Jul 2018 06:40:02 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.127 seconds.
+Thu, 19 Jul 2018 06:40:02 __init__.py[line:163] DEBUG Loading model cost 1.127 seconds.
+Prefix dict has been built succesfully.
+Thu, 19 Jul 2018 06:40:02 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Thu, 19 Jul 2018 06:41:19 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:41:19 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:41:19 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', '基本面分析', '基本面分析', '资金流向'], dtype='<U59')}
+/Intent_Dtection
+/Intent_Dtection
+dict_keys(['看下神州高铁近期的资金流向', 'stock基本面分析', '定义 stock基本面分析', '万科基本面分析'])
+Thu, 19 Jul 2018 06:41:19 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 110.18ms
+Thu, 19 Jul 2018 06:41:29 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:41:29 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:41:29 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', '基本面分析', '基本面分析', 'other'], dtype='<U59')}
+dict_keys(['stock基本面分析', '定义 stock基本面分析', '万科基本面分析', '近期的资金流向'])
+Thu, 19 Jul 2018 06:41:29 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 13.98ms
+Thu, 19 Jul 2018 06:41:33 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:41:33 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:41:33 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', '基本面分析', 'other', 'other'], dtype='<U59')}
+dict_keys(['基本面分析', '定义 stock基本面分析', '万科基本面分析', '近期的资金流向'])
+Thu, 19 Jul 2018 06:41:33 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 24.54ms
+Thu, 19 Jul 2018 06:41:39 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:41:39 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:41:39 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', 'other', 'other', 'other'], dtype='<U59')}
+dict_keys(['基本面分析', '近期的资金流向', '万科基本面分析', '定义 基本面分析'])
+Thu, 19 Jul 2018 06:41:39 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 19.79ms
+Thu, 19 Jul 2018 06:41:42 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:41:42 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:41:42 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', 'other', 'other', 'other'], dtype='<U59')}
+dict_keys(['基本面分析', '近期的资金流向', '万科基本面分析'])
+Thu, 19 Jul 2018 06:41:42 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 13.13ms
+Thu, 19 Jul 2018 06:42:04 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:42:05 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:42:05 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', 'other', '基本面分析', 'other'], dtype='<U59')}
+dict_keys(['基本面分析', '<stock>基本面分析', '万科基本面分析', '近期的资金流向'])
+Thu, 19 Jul 2018 06:42:05 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 25.22ms
+Thu, 19 Jul 2018 06:42:10 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:42:10 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:42:10 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', 'other', '基本面分析', '资金流向'], dtype='<U59')}
+dict_keys(['<stock>近期的资金流向', '基本面分析', '<stock>基本面分析', '万科基本面分析'])
+Thu, 19 Jul 2018 06:42:10 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 13.33ms
+Thu, 19 Jul 2018 06:44:18 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:44:18 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:44:18 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', 'other', '基本面分析', '资金流向'], dtype='<U59')}
+dict_keys(['<stock>近期的资金流向', '基本面分析', '<stock>基本面分析', '万科基本面分析'])
+Thu, 19 Jul 2018 06:44:18 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 19.83ms
+Thu, 19 Jul 2018 06:44:27 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:44:27 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:44:27 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', 'other', '基本面分析', '资金流向'], dtype='<U59')}
+dict_keys(['基本面分析', '<stock>基本面分析', '万科基本面分析', 'stock近期的资金流向'])
+Thu, 19 Jul 2018 06:44:27 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 20.08ms
+Thu, 19 Jul 2018 06:44:55 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:44:55 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:44:55 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', 'other', '基本面分析', 'other'], dtype='<U59')}
+dict_keys(['基本面分析', '<stock>基本面分析', '万科基本面分析', '近期的资金流向'])
+Thu, 19 Jul 2018 06:44:55 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 16.68ms
+Thu, 19 Jul 2018 06:45:00 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:45:00 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:45:00 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', 'other', '基本面分析', 'other'], dtype='<U59')}
+dict_keys(['基本面分析', '<stock>基本面分析', '万科基本面分析', '近期的资金流向 st'])
+Thu, 19 Jul 2018 06:45:00 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 12.24ms
+Thu, 19 Jul 2018 06:45:03 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:45:03 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:45:03 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', 'other', '基本面分析', 'other'], dtype='<U59')}
+dict_keys(['基本面分析', '<stock>基本面分析', '万科基本面分析', '近期的资金流向 sto'])
+Thu, 19 Jul 2018 06:45:03 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 15.10ms
+Thu, 19 Jul 2018 06:45:05 pipeline.py[line:147] INFO RE 意图识别完成
+Thu, 19 Jul 2018 06:45:05 pipeline.py[line:106] INFO data_deal_finish
+Thu, 19 Jul 2018 06:45:05 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['基本面分析', 'other', '基本面分析', '资金流向'], dtype='<U59')}
+dict_keys(['基本面分析', '近期的资金流向 stock', '<stock>基本面分析', '万科基本面分析'])
+Thu, 19 Jul 2018 06:45:05 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 14.45ms
+Building prefix dict from the default dictionary ...
+Fri, 20 Jul 2018 02:03:30 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 20 Jul 2018 02:03:33 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 4.041 seconds.
+Fri, 20 Jul 2018 02:03:34 __init__.py[line:163] DEBUG Loading model cost 4.041 seconds.
+Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 02:03:34 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Building prefix dict from the default dictionary ...
+Fri, 20 Jul 2018 02:07:47 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 20 Jul 2018 02:07:48 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.461 seconds.
+Fri, 20 Jul 2018 02:07:49 __init__.py[line:163] DEBUG Loading model cost 1.461 seconds.
+Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 02:07:49 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 02:08:00 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:08:00 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:08:00 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other', 'other', 'other', 'other'], dtype='<U59')}
+/Intent_Dtection
+/Intent_Dtection
+dict_keys(['万科基本面分析', '万科近期的资金流向', '基本面分析', '定义 s基本面分析'])
+Fri, 20 Jul 2018 02:08:00 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 90.88ms
+Fri, 20 Jul 2018 02:08:03 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:08:03 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:08:03 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other', 'other', 'other', 'other'], dtype='<U59')}
+dict_keys(['万科基本面分析', '万科近期的资金流向', '基本面分析', '定义 s基本面分析'])
+Fri, 20 Jul 2018 02:08:03 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 11.29ms
+Building prefix dict from the default dictionary ...
+Fri, 20 Jul 2018 02:16:32 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 20 Jul 2018 02:16:33 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.233 seconds.
+Fri, 20 Jul 2018 02:16:34 __init__.py[line:163] DEBUG Loading model cost 1.233 seconds.
+Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 02:16:34 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 02:16:39 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:16:39 pipeline.py[line:106] INFO data_deal_finish
+/Intent_Dtection
+/Intent_Dtection
+Fri, 20 Jul 2018 02:16:39 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 15.49ms
+Fri, 20 Jul 2018 02:16:44 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:16:44 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:16:44 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 9.10ms
+Fri, 20 Jul 2018 02:17:02 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:17:02 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:17:02 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 8.64ms
+Fri, 20 Jul 2018 02:19:17 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:19:17 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:19:17 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 9.87ms
+Fri, 20 Jul 2018 02:19:20 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:19:20 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:19:20 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 9.15ms
+Fri, 20 Jul 2018 02:19:22 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:19:22 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:19:22 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 18.63ms
+Building prefix dict from the default dictionary ...
+Fri, 20 Jul 2018 02:23:48 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 20 Jul 2018 02:23:49 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.351 seconds.
+Fri, 20 Jul 2018 02:23:49 __init__.py[line:163] DEBUG Loading model cost 1.351 seconds.
+Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 02:23:49 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 02:23:59 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:23:59 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:23:59 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+/Intent_Dtection
+/Intent_Dtection
+dict_keys(['麻烦看下西部建设', '万科近期的资金流向', '000153短线咋样', '基本面分析'])
+Fri, 20 Jul 2018 02:23:59 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 10.31ms
+Fri, 20 Jul 2018 02:24:14 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:24:14 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:24:14 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+dict_keys(['麻烦看下西部建设', '万科近期的资金流向', '000153短线咋样', '基本面分析'])
+Fri, 20 Jul 2018 02:24:14 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 9.26ms
+Fri, 20 Jul 2018 02:24:21 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:24:21 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:24:21 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+dict_keys(['麻烦看下西部建设', '万科近期的资金流向', '000153短线咋样', '基本面分析'])
+Fri, 20 Jul 2018 02:24:21 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 11.71ms
+Fri, 20 Jul 2018 02:30:18 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:30:18 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:30:18 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+dict_keys(['麻烦看下西部建设', '万科近期的资金流向', '000153短线咋样', '基本面分析'])
+Fri, 20 Jul 2018 02:30:18 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 14.52ms
+Building prefix dict from the default dictionary ...
+Fri, 20 Jul 2018 02:31:26 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 20 Jul 2018 02:31:27 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.285 seconds.
+Fri, 20 Jul 2018 02:31:27 __init__.py[line:163] DEBUG Loading model cost 1.285 seconds.
+Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 02:31:27 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 02:31:34 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:31:34 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:31:34 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+/Intent_Dtection
+/Intent_Dtection
+dict_keys(['麻烦看下西部建设', '基本面分析', '万科近期的资金流向', '000153短线咋样'])
+Fri, 20 Jul 2018 02:31:34 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 15.76ms
+Fri, 20 Jul 2018 02:31:47 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:31:47 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:31:47 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+dict_keys(['麻烦看下西部建设', '基本面分析', '万科近期的资金流向', '000153短线咋样'])
+Fri, 20 Jul 2018 02:31:47 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 14.76ms
+Fri, 20 Jul 2018 02:31:48 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:31:48 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:31:48 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+dict_keys(['麻烦看下西部建设', '基本面分析', '万科近期的资金流向', '000153短线咋样'])
+Fri, 20 Jul 2018 02:31:48 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 13.43ms
+Fri, 20 Jul 2018 02:32:35 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:32:35 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:32:35 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+dict_keys(['麻烦看下西部建设', '基本面分析', '万科近期的资金流向', '000153短线咋样'])
+Fri, 20 Jul 2018 02:32:35 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 9.95ms
+Fri, 20 Jul 2018 02:38:02 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:38:02 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:38:02 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+dict_keys(['麻烦看下西部建设', '基本面分析', '万科近期的资金流向', '000153短线咋样'])
+Fri, 20 Jul 2018 02:38:02 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 11.33ms
+Fri, 20 Jul 2018 02:38:09 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 02:38:09 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 02:38:09 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+dict_keys(['麻烦看下西部建设', '短线咋样', '万科近期的资金流向', '基本面分析'])
+Fri, 20 Jul 2018 02:38:09 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 9.82ms
+Fri, 20 Jul 2018 06:18:23 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 06:18:23 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 06:18:23 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析', '基本面分析'], dtype='<U6')}
+dict_keys(['麻烦看下西部建设', '你好', '基本面分析', '万科近期的资金流向', '000153短线咋样'])
+Fri, 20 Jul 2018 06:18:23 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 70.66ms
+Fri, 20 Jul 2018 06:39:45 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 06:39:45 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 06:39:45 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+dict_keys(['麻烦看下西部建设', '基本面分析', '万科近期的资金流向', '000153短线咋样'])
+Fri, 20 Jul 2018 06:39:45 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 18.59ms
+Fri, 20 Jul 2018 06:39:56 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 06:39:56 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 06:39:56 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+dict_keys(['麻烦看下', '万科近期的资金流向', '基本面分析', '000153短线咋样'])
+Fri, 20 Jul 2018 06:39:56 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 15.32ms
+Fri, 20 Jul 2018 06:40:02 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 06:40:02 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 06:40:02 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析'], dtype='<U6')}
+dict_keys(['基本面分析', '麻烦看下', '万科近期的资金流向', '短线'])
+Fri, 20 Jul 2018 06:40:02 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 8.83ms
+Fri, 20 Jul 2018 06:40:08 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 06:40:08 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 06:40:08 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '短期走势', '基本面分析', '技术面分析', '基本面分析'], dtype='<U6')}
+dict_keys(['你好', '基本面分析', '麻烦看下', '万科近期的资金流向', '短线'])
+Fri, 20 Jul 2018 06:40:08 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 12.17ms
+Building prefix dict from the default dictionary ...
+Fri, 20 Jul 2018 07:03:36 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 20 Jul 2018 07:03:37 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.482 seconds.
+Fri, 20 Jul 2018 07:03:38 __init__.py[line:163] DEBUG Loading model cost 1.482 seconds.
+Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 07:03:38 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 07:03:43 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 07:03:43 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 07:03:43 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other', '短期走势', '基本面分析', '技术面分析', 'other', 'other', '技术面分析'],
+      dtype='<U6')}
+/Intent_Dtection
+/Intent_Dtection
+dict_keys(['昨天天气怎么样', '麻烦看下', '技术面', '你好', '短线', '基本面分析', '资金流向'])
+Fri, 20 Jul 2018 07:03:43 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 13.21ms
+Fri, 20 Jul 2018 07:03:47 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 07:03:47 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 07:03:47 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other', '短期走势', '基本面分析', '技术面分析', 'other', 'other', '技术面分析'],
+      dtype='<U6')}
+dict_keys(['昨天天气怎么样', '麻烦看下', '技术面', '你好', '短线', '基本面分析', '资金流向'])
+Fri, 20 Jul 2018 07:03:47 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 12.90ms
+Fri, 20 Jul 2018 07:04:43 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 07:04:43 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 07:04:43 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other', '短期走势', '基本面分析', '技术面分析', 'other', 'other', '技术面分析'],
+      dtype='<U6')}
+dict_keys(['昨天天气怎么样', '麻烦看下', '技术面', '你好', '短线', '基本面分析', '资金流向'])
+Fri, 20 Jul 2018 07:04:43 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 11.78ms
+Building prefix dict from the default dictionary ...
+Fri, 20 Jul 2018 07:06:45 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 20 Jul 2018 07:06:46 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.311 seconds.
+Fri, 20 Jul 2018 07:06:46 __init__.py[line:163] DEBUG Loading model cost 1.311 seconds.
+Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 07:06:46 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 07:06:58 tf_logging.py[line:125] WARNING From /usr/local/lib/python3.5/dist-packages/tensorflow/python/ops/rnn.py:417: calling reverse_sequence (from tensorflow.python.ops.array_ops) with seq_dim is deprecated and will be removed in a future version.
+Instructions for updating:
+seq_dim is deprecated, use seq_axis instead
+Fri, 20 Jul 2018 07:06:58 tf_logging.py[line:125] WARNING From /usr/local/lib/python3.5/dist-packages/tensorflow/python/util/deprecation.py:432: calling reverse_sequence (from tensorflow.python.ops.array_ops) with batch_dim is deprecated and will be removed in a future version.
+Instructions for updating:
+batch_dim is deprecated, use batch_axis instead
+Fri, 20 Jul 2018 07:06:59 tf_logging.py[line:125] WARNING From /Intent_Dtection/model/dl_model/model_lstm_mask/model_fun.py:112: calling reduce_max (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2018-07-20 07:07:01.870690: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+Fri, 20 Jul 2018 07:07:01 tf_logging.py[line:115] INFO Restoring parameters from /Intent_Dtection/save_model/model_lstm_mask/intent_lstm_dn.ckpt
+Fri, 20 Jul 2018 07:07:12 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 07:07:12 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 07:07:12 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other', '短期走势', '基本面分析', '技术面分析', 'other', 'other', '技术面分析'],
+      dtype='<U6')}
+Fri, 20 Jul 2018 07:07:13 pipeline.py[line:166] INFO DL 意图识别完成['诊断结果', '短期走势', '技术面分析', '技术面分析', 'other', '技术面分析', '技术面分析']
+/Intent_Dtection
+/Intent_Dtection
+dict_keys(['技术面', '短线', '资金流向', '麻烦看下', '昨天天气怎么样', '你好', '基本面分析'])
+Fri, 20 Jul 2018 07:07:13 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 691.57ms
+Fri, 20 Jul 2018 07:07:48 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 07:07:48 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 07:07:48 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other', '短期走势', '基本面分析', '技术面分析', 'other', 'other', '技术面分析'],
+      dtype='<U6')}
+Fri, 20 Jul 2018 07:07:48 pipeline.py[line:166] INFO DL 意图识别完成['诊断结果', '短期走势', '技术面分析', '技术面分析', 'other', '技术面分析', '技术面分析']
+dict_keys(['技术面', '短线', '资金流向', '麻烦看下', '昨天天气怎么样', '你好', '基本面分析'])
+Fri, 20 Jul 2018 07:07:48 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 43.41ms
+Building prefix dict from the default dictionary ...
+Fri, 20 Jul 2018 07:13:33 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 20 Jul 2018 07:13:34 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.236 seconds.
+Fri, 20 Jul 2018 07:13:34 __init__.py[line:163] DEBUG Loading model cost 1.236 seconds.
+Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 07:13:34 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 07:13:42 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 07:13:42 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 07:13:42 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other', '短期走势', '基本面分析', '技术面分析', 'other', 'other', '技术面分析',
+       '行业个股列表', 'other', 'other'], dtype='<U6')}
+/Intent_Dtection
+/Intent_Dtection
+dict_keys(['技术面', '短线', '你好', '你们有哪些股票', '昨天天气怎么样', '麻烦看下', '资金流向', '基本面分析', '你是什么产品', '今天天气不错哦'])
+Fri, 20 Jul 2018 07:13:42 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 33.30ms
+Fri, 20 Jul 2018 07:13:45 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 07:13:45 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 07:13:45 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other', '短期走势', '基本面分析', '技术面分析', 'other', 'other', '技术面分析',
+       '行业个股列表', 'other', 'other'], dtype='<U6')}
+dict_keys(['技术面', '短线', '你好', '你们有哪些股票', '昨天天气怎么样', '麻烦看下', '资金流向', '基本面分析', '你是什么产品', '今天天气不错哦'])
+Fri, 20 Jul 2018 07:13:45 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 37.03ms
+Fri, 20 Jul 2018 07:13:54 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 07:13:54 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 07:13:54 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other', '短期走势', '基本面分析', '技术面分析', 'other', 'other', '技术面分析',
+       '行业个股列表', 'other', 'other', 'other'], dtype='<U6')}
+dict_keys(['技术面', '短线', '你好', '你们有哪些股票', '昨天天气怎么样', '麻烦看下', '资金流向', '基本面分析', '不买了', '你是什么产品', '今天天气不错哦'])
+Fri, 20 Jul 2018 07:13:54 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 24.35ms
+Fri, 20 Jul 2018 07:21:08 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 07:21:08 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 07:21:08 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['other', '短期走势', '基本面分析', '技术面分析', 'other', 'other', '技术面分析',
+       '行业个股列表', 'other', 'other', 'other'], dtype='<U6')}
+dict_keys(['技术面', '短线', '你好', '你们有哪些股票', '昨天天气怎么样', '麻烦看下', '资金流向', '基本面分析', '不买了', '你是什么产品', '今天天气不错哦'])
+Fri, 20 Jul 2018 07:21:08 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 26.01ms
+Fri, 20 Jul 2018 08:29:47 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 08:29:47 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 08:29:47 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['长期走势', '短期走势', '基本面分析', '技术面分析', 'other', 'other', '技术面分析',
+       '行业个股列表', 'other', 'other', 'other'], dtype='<U6')}
+dict_keys(['技术面', '短线', '你好', '你们有哪些股票', '万科长线可以进吗？ ', '昨天天气怎么样', '资金流向', '基本面分析', '不买了', '你是什么产品', '今天天气不错哦'])
+Fri, 20 Jul 2018 08:29:47 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 46.66ms
+Fri, 20 Jul 2018 08:31:57 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 08:32:03 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 08:32:03 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '诊断结果', '诊断结果', '诊断结果', '基本面分析', '诊断结果', '诊断结果', '诊断结果',
+       '诊断结果', '诊断结果', '诊断结果', 'other', '诊断结果', '基本面分析', '基本面分析', '诊断结果',
+       '诊断结果', '诊断结果', '基本面分析', '短期走势', '诊断结果', '基本面分析', '个股仓位', '诊断结果',
+       '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果',
+       '诊断结果', '诊断结果', '诊断结果', '诊断结果', '基本面分析', '诊断结果', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '技术面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '个股仓位', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', 'other', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '基本面分析', '基本面分析', '技术面分析', '技术面分析', '机构面分析', '技术面分析',
+       '技术面分析', '短期走势', '技术面分析', '技术面分析', '技术面分析', '个股仓位', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '基本面分析', '短期走势',
+       '技术面分析', '技术面分析', '基本面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '技术面分析', '机构面分析', '机构面分析', '短期走势', '短期走势', '短期走势', '短期走势',
+       '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', 'other',
+       '短期走势', '短期走势', '短期走势', '短期走势', '基本面分析', '基本面分析', '短期走势', '短期走势',
+       '短期走势', '短期走势', '诊断结果', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势',
+       '个股仓位', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势',
+       '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势',
+       '短期走势', '短期走势', '短期走势', '短期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '技术面分析', '技术面分析', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '短期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '诊断结果', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '长期走势', '长期走势', '中期走势', '长期走势', '长期走势',
+       '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势',
+       '长期走势', '长期走势', '长期走势', '技术面分析', '长期走势', '长期走势', '长期走势', '中期走势',
+       '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势',
+       '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '消息面分析', '中期走势', '消息面分析',
+       '消息面分析', '消息面分析', '消息面分析', '消息面分析', '消息面分析', '消息面分析', '消息面分析',
+       '消息面分析', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '诊断结果', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '行业诊断结果', '行业诊断结果', '行业诊断结果', '行业诊断结果', 'other', 'other', '技术面分析',
+       '行业诊断结果', '短期走势', '行业诊断结果', '行业诊断结果', '技术面分析', 'other', '行业诊断结果',
+       '行业诊断结果', '基本面分析', '短期走势', '短期走势', '技术面分析', '行业诊断结果', '行业诊断结果',
+       '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表',
+       '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表', '短期走势', '行业建议', '行业个股列表',
+       '行业建议', '行业建议', '行业建议', '行业建议', '中期走势', '行业消息面', '行业消息面', '行业消息面',
+       '行业消息面', '行业消息面', 'other', '短期走势', '个股仓位', '市场情绪', '大盘走势', '市场情绪',
+       '市场情绪', '诊断结果', '市场情绪', '市场情绪', '大盘走势', '诊断结果', '市场情绪', '大盘走势',
+       '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势',
+       '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势',
+       '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势',
+       '大盘走势', '大盘走势', '热点事件', '热点事件', '热点事件', '热点事件', '行业建议', '热点事件',
+       '热点事件', '热门个股', '行业个股列表', '热门个股', '热门个股', '热门个股', '热门个股', '热门个股',
+       '热门个股', 'other', '行业个股列表', 'ai换股', 'ai换股', 'ai换股', '条件选股', '条件选股',
+       'other', '条件选股', '条件选股', '条件选股', 'other', 'other', 'other',
+       'other', '中期走势', 'other', 'other', '基本面分析', 'other', 'other',
+       'other', '大盘走势', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', '技术面分析', 'other', 'other',
+       'other', 'other', 'other', 'other', '短期走势', '基本面分析', 'other',
+       '基本面分析', 'other', '基本面分析', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', '基本面分析', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       '基本面分析', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', '基本面分析', '机构面分析',
+       '诊断结果', '个股仓位', '中期走势', '短期走势', '技术面分析', '长期走势', 'other', 'other',
+       'other', '行业个股列表', '诊断结果', 'other', 'other', '行业建议', 'other',
+       '行业建议', '热点事件'], dtype='<U6')}
+dict_keys(['请问600020走势如何？现在可否补仓？', '持有万科的机构多吗？', '石墨烯板块有哪些股票？', '万科后期走势如何？', '今天什么政策面影响大盘飘绿', '白酒行业出利空了吗？', '万科现在建仓可以吗？', '指数又破3200，为啥总是上不去', '请各位股民朋友尽早远离中国股市', '你想多了！', '明天可以买股票吗？', '请问300526，股票做不好为什么还要做呢？停一次牌又一次，不是害人吗？！', '钢铁行业最近有什么利好吗？', '麻烦看看600512', '万科毛利率', '股票603843有特大利好可以买进吗', '不错嘛', '福建水泥今天跳空高开收假阴实阳长上影线，这种盘口怎么解读？', '600050风险大吗？要出货吗', '万科的诊断结果', '请问002431订桌不错业绩大可改善今天有追落后情况吗?', '万科这个公司有成长性吗？', '不想上班啊', '万科的营收增速下滑了吗？', '帮我看下002843', '今天创业板怎么看', '$圣阳股份(sz002580)$一直在上影线内整理，请问是否还有突破机会', '万科的EPS在行业内排名如何？', '万科市盈率是高还是低？', '银行股可否买入', '创业板今天可以入吗？这周后面的走势估计如何？', '万科机构持股比例多少？', '国投电力能进场吗？', '听说万科的资金链断了？', '请问000338为什么近期的大宗交易和龙虎榜单资料不及时更新，是疏忽还是有意为之?', '不知道买什么股好', '方大炭素资金面如何', '万科每股收益', '有哪些机构关注万科？', '帮忙看下万科的后市如何？', '最近市场热点有哪些', '$国电电力(sh600795)$可以长远投资吗，前景怎么样', '万科最近的资金流向如何？', '万科近几年的现金流稳定吗？', '600115..短线后市如何操作?', '消息面分析', '长安汽车短期如何操作，谢谢', '今天的热点事件有哪些', '大盘会有风险吗', '彩票板块还能介入吗？', '喜欢自己的工作吗？', '湖南投资一季度业绩不错，股价近期还能站上十元吗？', '有色金属最近出什么消息了吗？', '帮忙看下万科的技术面。', '不陪你聊天了，去打游戏了', '今天早上买入600029短线后市如何?', '老师，000043这股怎么操作？谢谢', '002397什么时候可以启动', '600623是不是被庄家抛弃了。', '万科近几年的EPS增速如何？', '600868梅雁吉祥可否持有', '$国投电力(sh600886)$7.4的本，继续持股？该股今年有机会吗？', '002256彩虹精化还可以继续持有吗？短线何时卖出为妥？', '证券板块怎么看？', '请问000725的潜力怎么样？', '老师，请问完美世界这2个交易日都是高开低走，我微利，请问还能拿吗', '帮忙看看601788光大证卷吗？持有亏损中，下半年行情如何？', '有没有什么股票可以推荐的啊？', '万科的估值还有上涨空间吗？', '我不认识你', '万科盈利水平怎么样？', '万科的营收增速怎么样？', '万科未来三年的盈利预测一下。', '娱乐时间到了，开始游戏了', '哈哈，有错别字哦', '请问002148的估值合适买入吗、该股今日可以买入吗、', '有多少机构持有万科？', '请帮助分析一下该股的基本面，谢谢！(002821)', '最近有什么股票值得关注？', '000806是否要卖掉换股', '双塔食品微套，需要补仓吗', '万科的EPS有什么变化吗？', '万科营业收入多少？', '请看看君正集团', '下周证券和东财的走势会受深港通利好影响吗？', '证券股最近走势怎么样', '万科的技术面怎么样？', '从长线角度来看，万科A还要拿着吗？', '有哪些行业可以买？', '请老师帮忙看一下002514是否有企稳现象，可以买入了？', '万科的成长性好吗？', '300258今天追高套着，明天是留还是走，', '西藏天路是不是要启动了', '看下万科近一周的涨跌情况。', '不是这样的', '603299目前深套，21.5入的，可否会解套能长期持有吗', '$中技控股(sh600634)$好像有资金流出', '可以给我推荐几只股票吗？', '请问603028一直跌，要选择割肉吗？', '那些机构怎么看万科？', '万科的压力位在哪？', '有多少只基金持有万科？', '万科未来的盈利会下降吗？', '000598我满仓能长期持有么', '300070碧水源，公司前景能看好吗？', '600775近期走势方向', '万科的营收增长率多少？', '万科的偿债能力强吗？', '创业板为什么最近这么弱', '沪指上周站上2050的半年线，对后市有何指导意义？', '下午茶呢', '辣条真好吃', '万科最近一个月的涨跌幅是多少？', '600775下周高点是多少？回调后低位是多少？', '请问002331短期走势如何', '万科有充裕的现金流吗？', '你是不是把我拉黑了！', '哇哈哈', '万科最近是资金净流出吗？', '万科的市场表现怎么样？', '万科盈利状况', '长期走势', '请问6003100短时间会不会上涨', '有多少家机构下调了万科的投资评级？', '机构面分析', '隧道股份怎么样？', '机构对万科的看法如何？', '看一下万科的市销率。', '看下万科有哪些技术指标发出了卖出信号', '分析一下万科的偿债能力。', '最近有哪些热门股', '中国国航现在要卖出吗，中线是否可以继续持有？', '帮忙看看西部创业，昨天买进去，今天又加仓了，老师怎么看？', '有人吗', '请问000034开通深港通对其影响', '大连友谊长线能拿吗？', '中信证券明早要卖出吗', '万科近期如何操作？', '有什么股票值得买啊？', '万科的基本面变差了吗？', '万家文化这票老师怎么看，现在是观望还是可以进场', '在', '查一下万科的净利率。', '600158这几天是不是有下跌的风险了？', '请问002239这股会倒闭吗？', '双塔食品kdj是不是要上穿金叉', '万科市净率的行业排名如何？', '000022已套了20个点，现在的位置可以补仓吗', '今天大盘上涨，这么看来昨天就是洗牌喽？', '万科市盈率多少？', '万科机构持股比例有上升吗？', '万科长线可以进吗？', '1+1=？', '万科的压力位是多少？', '万科的盈利增速会下降吗？', '万科最近有资金流入吗？', '什么时候可以下班啊', '你唱首歌呗', '万科有多少家机构持股？', '从长远的角度来看，万科怎么样？', '市场情绪', '推荐一个股票呗，老师', '帮忙看下万科的成长性。', '002057还是走回调走势吗', '万科的支撑位在哪？', '启明星辰平时上班比较忙没啥时间盯盘现在缩量调整太磨人了我是不是可以一直拿着就行了', '万科可以长线持有吗？', '万科现在应该止损吗？', '打算买医药股，有哪些股票？', '客服不在！！', '万科的机构持股情况。', '600072阻力位和支撑位在哪', '帮我看看600228啊，什么时候可以补仓啊', 'st春天怎么样', '万科最近表现如何？', '请问600868可以补仓吗，企稳没有', '万科未来的盈利情况如何？', '诊断结果', '一直有关注稀土概念现在可以买了吗', '万科可以补仓吗？', '感觉创业板反弹不动了，又要掉头下杀。', '下午股市怎么看？', '请问000511说是可以索赔，索赔会得到什么结果？', '大盘今天涨这么多，不知道明天是否会跌呢', '请问600998只有卖的，没买的，真是贻笑大方', '万科的阻力位是多少？', '干什么', '不理你了', '$司尔特(sz002538)$今天又暴跌了，从没有见过这种垃圾', '世界杯来临，足球概念股有哪些？', '有没有什么游戏板块的股票推荐', '天津港如何，有介入价值吗', '江苏银行近期能继续升高吗', '万科被高估了吗？', '机器人会有感情吗？', '万科有主力入场吗？', '请问002115走势如何？这股中线看好吗', '中期走势', '300246成本37.56从技术面帮我分析一下这个股，还有接下来的操作思路，谢谢', '创业板明天能过1900点吗？', '大盘能不能站上3200？', '万科的机构调研结果好吗？', '心情还可以', '银行股是不是出现利好了。', '请问002546是不是破位了，亏3个多点，要斩仓吗', '今天星期几？', '请问看好券商板块该买哪只股啊？', '好的', '000917电广传媒，怎么看最近的走势？可以继续持有么？', '002632，13的本，中线走势如何？', '请问600502如何看出重组失败可能性低？哪几方面？', '万科最近有资金流出吗？', '终于下班了！！哈哈~~', '万科的诊断结论', '爱你哦', '看一下万科的市净率。', '怎么看000800，适合买进吗？', '近期有谁去万科做了调研？', '万科把我套了，我要卖掉吗？', '机构对万科有什么看法？', '最近哪些行业比较好？', '600775会涨到多少啊？', '最近行情怎么样？', '万科的主力还在吗？', '请问600754在31.5买进的，后市能上升吗？', '今天森源电气突然大跌是怎么回事，此股长线如何', '我想打人！！', '你也有压力啊', '我手上现在持有首创股份600008成本价7.6.现在有13万股，应该怎么操作可以长期持有么。', '等你哦', '哪些股票最近人气高', '$中兴通讯(sz000063)$会不会一泻千里', '$爱普股份(sh603020)$该股基本面上有什么特色，产品服务有什么竞争优势', '万科还会涨吗？', '600317短期如何操作？', '万科最近的资金流向是净流入状态吗？', '请问600360可以补仓吗，我本钱11元，套了好久', '002454，成本14.5，准备中长线持有，求问走势如何', '明天我能买入吗', '万科近期的机构持股情况有什么变化吗？', '万科的基本面好不好？', '方大炭素今天好像有资金抄底', '万科的个股诊断', '这几天有没有发生什么大事', '近期有多少机构调研了万科？', '有色金属今天跌了这么多还会涨吗？', '请帮忙看一下三推股份。', '$中集集团(sz000039)$刚买的想做长线，是否可以？', '方大炭素的K线如何', '今天大盘为什么跌的这么猛？', '帮忙看一下万科的每股收益。', '最近有什么重大事件', '煤炭股还可以跟吗', 'ai换股', '分析下万科近期的表现情况。', '请问002735要不要减仓，今天刚进的', '300008天海防务25的成本可以长期持有吗？', '帮忙分析一下万科的技术面。', '双塔食品有长期投资价值吗', '600249从技术分析的角度看，什么时候可以买入？', '想不想我啊？', '今天大盘怎么样，最近一直空仓', '银行股的将来走势', '你好呀', '万科的成长性如何？', '我在万科被套了，怎么办啊？', '万科的现金流情况怎么样？', '请问002115后市如何操作？中线这股看好吗', '请问002282这股啥时上市', '万科拿长线可以吗？', '麻烦看下山鹰纸业，今天3.78买进的，短线怎样，多谢！', '请问002340的支撑位在什么价位？什么价位补仓？', '我想买入投资石油类资产的股票。请推荐一下。', '万科的机构评级如何？', '对于中国今年下半年的股市，您怎么看？', '好好做', '短线创业板，还能否继续反弹。技术上看怎么操作', '000917被套，请问现在可以加仓了吗', '万科的机构面出问题了吗？', '万科的买卖点在哪？', '热门个股', '600207的重大资产重组改变了，置换变成购买是不是本质的改变，明天复牌会有什么样的影响?', '很好啊', '万科每股收益的增长率多少？', '中粮屯河(sh600737)，国企改革概念股，后势如何，能否长期持有。', '万科近几年的毛利增长情况。', '请问600031今日是否可以买入', '万科的净利率水平如何？', '万科的阻力位在哪？', '万科现在还可以介入吗？', '请问002280联络互动不是在赢利吗？又经过了重组，怎么这么垃圾？', '000977，请问未来一个月怎么操作？', '万科的机构认同度怎么样？', '$中集集团(sz000039)$刚买的想做中长线，是否可以？', '请问002202财管计划出货没提示', '不可以把我删了！！', '$*ST黑豹(sh600760)$这只股票有潜力吗。', '请问600239云南城投怎么会这么差劲？大盘涨的时候不涨，大盘跌的时候一次不拉', '北新建材000786今天没出明天危险吗', '北方导航近期有上涨空间吗？', '中国铁建未来能不能一直持股？我想看他的潜力', '万科市销率是高还是低？', '你真逗', '帮忙分析一下000540，是冲高还是突破', '请问002701能否继续持有，持中线可以吗', '万科的评级变化情况', '000035中国天盈成本7.90短线有机会跑掉吗？', '看一下万科的盈利水平。', '600775近期如何操作', '看看方大炭素这票长线还有机会吗？', '万科现在还可以追啊？', '万科的基本面怎么样？', '不想起床肿么办？？', '万科出现了哪些买卖信号', '帮忙看一下万科的机构面。', '最近哪些股票表现抢眼', '最近短线做那个板块比较好？', '601001近期调整到位没？什么价位可做中长线？', '600074能中线持股吗？', '一点都不好玩', '000786，北新建材短线还会反弹吗？', '请问300445卖1档大单在出，买1档挂有大单，卖单卖完上冲会又直线下降，请问是庒对敲提升人气还是出货，后续咋操作，随庄起舞持仓还减仓', '诊断一下万科', '恒生电子能买不？', '万科的机构面有变化吗？', '万科未来的营收增速大概多少？', '产品质量不好', '600649是什么情况？', '军工有哪些股票可以关注？', '今天走高低收，8元进仓，下周怎么看', '看下万科有哪些技术指标发出了买入信号', '000897今天6.58买入，明天如何操作？', '好久没有晒太阳了', '下周创业板和主板会有大机会吗？若遇到调整可否入？', '请问603660还有上升空间吗？要不要减仓。', '首钢股份今天大跌，后两天怎么做', '002843怎么样？', '大盘最近有机会吗', '请问600382是否可以买入，想补仓', '万科短线能进吗？', '想进医药板块，哪个股票更好？', '603699怎么样', '分析一下万科未来三年的盈利。', '万科的技术面走坏了吗？', '$新赛股份(sh600540)$主力是不是已经出了？', '万科最近是资金净流入吗？', '人工智能明天还能追吗？', '信达地产怎么样？', '预测一下万科未来三年的盈利。', '我饿了', '万科市净率', '万科市盈率的排名情况。', '恒生电子600570短线可以参与吗？后期还会有新低吗？', '万科的机构调研情况如何？', '方大炭素的支撑位', '华北制药6.6买的，现在可以加仓吗？', '大盘什么时候出现调整？', '帮忙分析一下万科的基本面。', '我被万科套住了，现在可以加仓吗？', '最近军工不太亮眼，现在可以布局吗？', '软件类个股今日表现很好，是什么原因，后面能不能介入？', '西部建设今天涨停原因是有消息吗？', '基本面分析', '万科好不好？', '601390现在可以做短期吗？', '明后天大盘冲击3200概率有多大！', '分析下万科的资金面。', '不喜欢你了', '我想看下万科的基本面情况。', '万科的毛利水平是否有变动？', '000554觉得怎么样', '万科的毛利率高吗？', '最近有没有发生什么热门事件', '我什么都不会！！', '$东方通信(sh600776)$K线分析', '002407哪个价位可以介入？中线持股可以吗？', '帮忙看下万科近期的资金面情况。', '谢谢', '方大炭素该减仓吗', '查一下万科的EPS。', '风电行业前景如何？', '万科未来的盈利还有提升的空间吗？', '对今天的盘面怎么看？能不能抄底？', '有哪些机构推荐卖万科？', '600633怎么操作.量缩的这么很', '煤炭板块今日普遍回吐，后市怎么操作？', '有多少家机构调整了万科的投资评级', '查一下万科的机构持股。', '万科的机构评级有下降吗？', '万科的机构面怎么样？', '$华闻传媒(sz000793)$该股票如何？对中长期来说十分有上涨可能', '000425为什么大跌，帮忙看看', '大盘走势', '002183，请问这个股如何，值得长期持有吗', '麻烦看下西部建设', '还不错', '东风汽车出了那么多的有利消息可是股价一直下跌', '请问300207会掉13以下吗？', '002769能否中线持有？还有需要注意一些什么？', '300357如何操作？', '万科市盈率', '帮忙分析一下万科的后续走势。', '近期大盘开始回调，预计调整到什么点位后开始反弹。', '请问天虹商场近期会形成低价位底部双小底即W部不', '002657成本39，八成仓，拿了半年了，后面怎么操作', '行业诊断结果', '我被万科套住了，现在要继续买吗？', '你都是在家工作吗？', '请问002786现是不是破位了呀！', '请问300510复牌后能涨停几天？', '推荐几个值得关注的行业。', '000009中国宝安前景如何，可以进吗？', '有哪些机构推荐买万科？', '如何看待大名城600094', '请问600360可以补仓吗，我本钱11元，套了好久，如果补什么价位要卖', '帮忙看看和而泰调整完毕了吗', '不想工作了', '请问002102什么时候能止跌起稳', '上汽集团131415年的总资产收益率各是多少', '金科股份复牌后6.7高位买入，最近持续大跌，深套。如何操作?', '天山股份000877是怎么了，不上又不下，是回调的概率大，还是上升的概率大呢', '$康芝药业(sz300086)$好像尾盘有资金呵护？', '方大炭素被套了，该减仓吗', '如何看待万科近期的机构调研情况？', '分析一下万科的技术指标', '我最近想买点军工布局，哪个股票比较好呀', '000001已经启动了吗', '万科的机构评级情况', '这样啊…', '券商票现在能买吗？', '钢铁行业有哪些股票比较好', '万科的营收增长稳定吗？', '请老师详细说一下云天化支撑和压力', '华策传媒300133股票短期预计如何走势？', '你上班都做什么', '要不要去看电影？', '能不能上点心啊', '个股仓位', '万科还会跌吗？', '近期有机构买方大炭素吗', '条件选股', '帮我看看伊力特600197，成本在20元附近，短线企稳有上冲的可能吗。', '万科EPS多少？', '万科短线可以买吗？', '请问002645是否有高送股概念。谢谢！', '近期有哪些机构给万科评级？', '万科市销率', '分析一下万科后市。', '000880请教下怎么样？略有盈利', '今天券商的创新大会了，券商股能介入吗', '请问600596之前几天是洗盘吗？', '600415小商品城，7.9元能建底仓长线操作吗', '沪指先抑后扬，是否意味着短期调整结束？', '今天有什么热点新闻吗', '请问601908走势如何？还有冲高要求吗？阻力多少？', '今天钢铁回调，可以买进吗？', '万科的毛利率多少？', '万科的投资评级调整了？', '什么行业值得买啊？', '帮我看看大东南，4.5的本怎么操作可解套吗？', '万科现金流', '请问002562明天复牌是利好吗', '麻烦看下华映科技明天可以介入吗？后期走势怎么看？', '万科的盈利能力在下滑吗？', '$冰川网络(sz300533)$市盈率能到130吗', '热点事件', '请问002331阻力位和止盈位是多少？', '你最喜欢什么语言？', '万科的机构评级有什么变化吗？', '医药股最近可以买吗？', '万科的基本面有变化吗？', '帮忙看下万科的机构面。', '我在万科被套了，我想换个股票。', '万科估值水平', '$陕西金叶(sz000812)$这只票是否已经企稳？本周该如何操作？', '万科市净率的排名情况。', '了解一下万科的负债情况。', '000417，请问还能持有吗，短线阻力位是多少啊，谢谢', '000651目前走势会继续下滑吗', '道明光学该怎么操作？12.9的本，是否需要止损。中线拿着呢？', '请问600491一直公告各种中标利好，为什么不旦不涨反而一直跌呢！', '$中化国际(sh600500)$可否继续持有？跟中国化工合并的可能性有多大', '现在金属板块还有机会吗', '分享几只牛股给我吧。', '张家港行002839，21的成本，还会继续下跌吗？会短期会反弹吗？还能持股吗？', '但是', '请问002035做长线，需要减仓吗？', '万科的机构调研结果怎么样？', '万科估值偏低吗？', '你平常都干什么啊', '看下方大炭素的最新评级', '你四不四傻？', '有毛病吗？', '请问002102是否要换股', '万科市净率多少？', '请问000058请问这只股是什么情况，天天跌，又舍不得割肉', '帮忙看看神奇制药。', '明后两天600606绿地控股有短线机会吗？', '万科的抗风险能力强吗？', '请问002450后市如何操作？请从技术面分析分析', '创业板连续上涨三天，突破1400点，还能继续涨吗？', '长城电脑，下周三18号长城信息合并，是不是利空？', '万科的净利率水平是否有变动？', '万科毛利的行业排名', '如何看待万科的成长性。', '万科被低估了吗？', '今天大盘可以补仓吗', '万科还能涨吗？', '万科的技术面出问题了吗？', '有没有万达商业借壳四川金顶此事？', '万科盈利水平', '万科有资金出逃吗？', '万科市销率的排名情况。', '帮忙看下300226后期走势怎么样？', '600373今明几天如何把握？', '002231调整几个月了，后市怎么样啊？', '请问我持有的索菱股份002766可以中线持有吗？', '英联股份目前进好吗?', '000028这个股票短线可以买吗老师？', '帮我看一下002416，是不是有什么利空啊，为什么跌起来没完啊', '请问600917一直下跌怎么还有人买晕了', '中体产业可以中长线持有吗？', '万科应该加仓吗？', '002459集合竞价时连续三天出现几分钟涨停，但开盘后反而跌的凶，怎么回事', '看下万科近期的技术指标情况', '对未来中国股市的大行情怎么看？值得投资吗？', '002450康得新短线如何，今进明出', '600775本月向上看多少？19.8有机会没有', '有多少家机构上调了万科的投资评级？', '万科市盈率有什么变化吗？', '万科的支撑位是多少？', '长期来看，方大炭素值得买吗？', '你的学历不高吧', '今天大盘跌的这么快？接下来这几天是不是还要跌？', '早上好', '万科近三年的营收增长情况。', '请问600877已亏了4个点，可以补仓吗', '002460这股如何？', '万科净利率', '000540快11元的成本，现在补仓适合吗', '请问600570估值偏高吗?', '请问300384可以中线继续持有吗？', '最近有哪些影响比较大的消息', '请问600381今天复牌改名了', '有没有万科的操作策略', '002573下周会有什么情况？', '万科的投资评级近期有什么变动？', '请问方大炭素怎么看？', '银行股现在可以介入吗', '问000566海南海药本次调整的目标位？什么价格可以买入？', '看看600703是启动的迹象吗', '请问600608能否继续加仓', '万科的基金持股比例有多高？', '万科近几年的净利润增长情况。', '目前这个行情有什么板块可以介入吗？', 'A股今年能看高至多少点？', '请问002202到底是控制仓位还是保持仓位？', '万科现金流水平怎么样？', '万科的成长性怎么样？', '请问600926限售的小非都有那些', '600877是不是要耐心等？', '帮忙分析一下万科的近期走势。', '既怕踏空又不敢追涨怎么办', '万科的现金流稳定吗？', '000153短线咋样', '请问600392是18.1入手的，已经跌了很多了，明天该清仓么', '000776怎么了业绩各方面不差为什么连光大都不如了', '做我女朋友吧', '查一下万科的毛利率。', '万科是不是要走强了？', '万科最近的资金流向是净流出状态吗？', '云天化短期压力位是多少', '002539云图控股，可以买吗？谢谢！', '万科的机构调研情况怎么样？', '002552宝鼎科技什么时候是个底？', '请教银江股份压力位和支撑位在哪！', '帮看下通达股份002560', '看一下万科的估值情况', '万科的技术面有变化吗？', '聊天吧', '汉威电子占持仓一半，成本27，请问后市该怎么操作？', '最近有哪些人气股', '万科的评级变动情况', '000987这两天一直跌！明天出中报近期看好吗？', '600176这个股值不值的待有，未两一个月内会涨到多少钱？', '分析一下万科的盈利能力。', '通达股份如何', '$哈尔斯(sz002615)$请问这个股票还能持有吗，还有上涨的空间么，成本在17左右', '万科的技术面好不好？', '看下万科近期的资金流向。', '请问这一波行情能到多少点啊。', '002465可以后长期持有吗？', '万科市盈率的行业排名如何？', '万科现在要卖掉吗？', '现在大盘能不能进入', '万科市销率的行业排名如何？', '对万科有什么建议吗？', '尾盘买入600156，下个星期走势如何？', '终于周末了', '上海家化基本面有没有问题？怎样操作？', '请问000514渝开发现在能短线介入吗？', '浙江震元短线怎么操作', '近期有多少机构去万科调研？', '请问300445今天走势鬼异，啥情况?庄出货?', '麻烦您看看海峡环保这个股票，我已经被套20个点了，下一步如何操作哪，是割肉出来还是继续持有呀，您分析还会反弹吗？', '请问600498后市如何操作？支撑为是多少', '万科的主力出逃了吗？', '请问002821基本面如何', '奇闻趣事', '现在哪些板块比较有机会？', '请问002098002098预计什么时候会复牌？复牌后走势如何？', '下午大盘怎么看', '万科把我套了，我要割掉吗？', '行业消息面', '$华灿光电(sz300323)$帮忙分析下这家公司', '我已经试过好多次了', '万科什么价位可以买？', '请问603727的封单量怎么这么小', '今天石墨烯概念股有利好。能否追!', '万科的估值水平低了吗？', '汇金股份300368被套5个点，是走是留？怎么操作，技术面分析下', '万科的基本面出问题了吗？', '易尚展示今天从日线角度来看，算是阶段低点了吗？', '帮忙介绍一下该股，$星网宇达(sz002829)$', '$越秀金控(sz000987)$出了一些公告，是利好还是利空？', '合肥城建中长期走势如何？谢谢老师。', '我不高兴了！！', '万科跌了，我想换个股票。', '我是你爸爸', '$中国中铁(sh601390)本年走势', '请分析下红宝丽，9.11元的成本，四成仓位，明日怎么操作？', '今天又加仓格力，格力是长线持股，后市会如何？', '热门股票有哪些', '看下方大炭素的阻力位', '万科有资金入场吗？', '茅台值得长期持有吗？', '顺发恒业近期有涨的趋势吗？', '今天刚进的600497，帮忙看看是否有主力资金进场', '麻烦看看富邦股份和300375怎么样？长线行吗？', '谈谈十九大对未来市场的影响！', '污水处理板块表现强势，后市如何操作？', '600112天成控股今天是买入的时机吗？是否还会上涨？', '600376，没什么利空，咋下跌的这么厉害呢？是主力在调仓吗？', '请问300165复牌怎么走', '600487做中线的话可以拿到什么时候出？', '请问300056后市如何操作现在已经套十三个点了(', 'OK', '分析一下万科的营收情况。', '现在还能追家电吗', '300044有底仓什么价位可以加仓谢谢', '万科的估值水平怎么样？', '万科的EPS增速怎么样？', '万科的机构面如何？', '你妈喊你回家吃饭呢', '万科盈利水平高吗？', '请问000977现在成不动产了', '万科的技术面如何？', '不好听', '帮忙看下万科的基本面。', '天海防务25的成本可以长期持有吗？', '万科还有现金流吗？', '帮我上班吧', '看下万科近期的市场表现。', '万科的毛利水平如何？', '万科应该减仓吗？', '我在万科被套了，可以补仓吗？', '浙江震元中线能持有吗？', '天气很好，不错', '追高全仓买了中国中车，您看这支股票还有守着的必要吗？我想割肉出来换换其他股票', '万科市销率有什么变化吗？', '万科后续走势如何？', '请分析方大炭素这票质地如何？', '002128做中线可以吗？', '002404怎么样？还可以继续持有吗？中线怎么样？', '$中油资本(sz000617)$前景如何？', '请问000553跌到什么位置才能介入', '请问000488还有上升空间不？阻力位？', '请问000425刚完成资金招募，跟多家企业达成战略合作，复市后为什么没涨反跌？', '我生气了！！', '大盘是站上3300还是指数假突破？', '帮我看看特力A，持有还是出来，微亏，多谢', '万科的盈利水平能否继续保持？', '来句绕口令啊', '万科的净利率多少？', '万科的偿债能力怎么样？', '看一下万科的市盈率。', '万科的营收在行业内排名如何？', '推荐个股票给我。', '这只股的走势还能上涨吗，什么地方是最高点？谢谢', '镍概念现在能入吗', '万科市净率是高还是低？', '看一下万科的现金流。', '万科的基本面如何？', '周五大盘怎么没涨，是不是要调整', '请从技术面分析下怡亚通002183', '我想找个女朋友', '请问002446要不要减仓，或者可以补仓吗', '洛阳钼业近一周的走势会怎样？', '600887每天挺活跃的，还可以介入吗', '行业个股列表', '$超讯通信(sh603322)$今天突破10日线，此股后市该如何操作', '有什么股票值得关注啊？', '行业建议', '长城电脑复牌是利好吧，', '分析一下万科的每股收益情况。', '东北电气后市如何操作，适合做长线么', '万科市销率多少？', '万科现在要止盈吗？', '看下万科近期的调研情况。', '不喜欢你', '我要吃零食', '我要走了', '002562今天早上开盘进的，明天要出吗？', '今天好热啊', '现在可以重仓万科吗？', '技术面分析', '创业板重返年线，后市怎么走？', '麻烦看看300375怎么样？长线行吗？', '哪里会下雪啊', '万科净利率的行业排名', '002454，成本14.5，准备中长线持有，目前半仓，求问走势如何，大概什么位置可以加减仓？', '万科市净率有什么变化吗？', '短期走势', '中兴国际这票怎么样', '请问下慈文传媒这个股票如何', '不可以的', '万科营收情况', '请问许继电气能长期握着吗？', '万科最近一周的涨跌幅是多少？', '中国铁建未来一段时间如何操作？'])
+Fri, 20 Jul 2018 08:32:03 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 5864.19ms
+Fri, 20 Jul 2018 08:32:48 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 08:32:54 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 08:32:54 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '诊断结果', '诊断结果', '诊断结果', '基本面分析', '诊断结果', '诊断结果', '诊断结果',
+       '诊断结果', '诊断结果', '诊断结果', 'other', '诊断结果', '基本面分析', '基本面分析', '诊断结果',
+       '诊断结果', '诊断结果', '基本面分析', '短期走势', '诊断结果', '基本面分析', '个股仓位', '诊断结果',
+       '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果',
+       '诊断结果', '诊断结果', '诊断结果', '诊断结果', '基本面分析', '诊断结果', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '技术面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '个股仓位', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', 'other', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '基本面分析', '基本面分析', '技术面分析', '技术面分析', '机构面分析', '技术面分析',
+       '技术面分析', '短期走势', '技术面分析', '技术面分析', '技术面分析', '个股仓位', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '基本面分析', '短期走势',
+       '技术面分析', '技术面分析', '基本面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '技术面分析', '机构面分析', '机构面分析', '短期走势', '短期走势', '短期走势', '短期走势',
+       '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', 'other',
+       '短期走势', '短期走势', '短期走势', '短期走势', '基本面分析', '基本面分析', '短期走势', '短期走势',
+       '短期走势', '短期走势', '诊断结果', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势',
+       '个股仓位', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势',
+       '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势',
+       '短期走势', '短期走势', '短期走势', '短期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '技术面分析', '技术面分析', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '短期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '诊断结果', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '长期走势', '长期走势', '中期走势', '长期走势', '长期走势',
+       '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势',
+       '长期走势', '长期走势', '长期走势', '技术面分析', '长期走势', '长期走势', '长期走势', '中期走势',
+       '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势',
+       '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '消息面分析', '中期走势', '消息面分析',
+       '消息面分析', '消息面分析', '消息面分析', '消息面分析', '消息面分析', '消息面分析', '消息面分析',
+       '消息面分析', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '诊断结果', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '行业诊断结果', '行业诊断结果', '行业诊断结果', '行业诊断结果', 'other', 'other', '技术面分析',
+       '行业诊断结果', '短期走势', '行业诊断结果', '行业诊断结果', '技术面分析', 'other', '行业诊断结果',
+       '行业诊断结果', '基本面分析', '短期走势', '短期走势', '技术面分析', '行业诊断结果', '行业诊断结果',
+       '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表',
+       '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表', '短期走势', '行业建议', '行业个股列表',
+       '行业建议', '行业建议', '行业建议', '行业建议', '中期走势', '行业消息面', '行业消息面', '行业消息面',
+       '行业消息面', '行业消息面', 'other', '短期走势', '个股仓位', '市场情绪', '大盘走势', '市场情绪',
+       '市场情绪', '诊断结果', '市场情绪', '市场情绪', '大盘走势', '诊断结果', '市场情绪', '大盘走势',
+       '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势',
+       '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势',
+       '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势',
+       '大盘走势', '大盘走势', '热点事件', '热点事件', '热点事件', '热点事件', '行业建议', '热点事件',
+       '热点事件', '热门个股', '行业个股列表', '热门个股', '热门个股', '热门个股', '热门个股', '热门个股',
+       '热门个股', 'other', '行业个股列表', 'ai换股', 'ai换股', 'ai换股', '条件选股', '条件选股',
+       'other', '条件选股', '条件选股', '条件选股', 'other', 'other', 'other',
+       'other', '中期走势', 'other', 'other', '基本面分析', 'other', 'other',
+       'other', '大盘走势', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', '技术面分析', 'other', 'other',
+       'other', 'other', 'other', 'other', '短期走势', '基本面分析', 'other',
+       '基本面分析', 'other', '基本面分析', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', '基本面分析', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       '基本面分析', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', '基本面分析', '机构面分析',
+       '诊断结果', '个股仓位', '中期走势', '短期走势', '技术面分析', '长期走势', 'other', 'other',
+       'other', '行业个股列表', '诊断结果', 'other', 'other', '行业建议', 'other',
+       '行业建议', '热点事件'], dtype='<U6')}
+dict_keys(['请问600020走势如何？现在可否补仓？', '持有万科的机构多吗？', '石墨烯板块有哪些股票？', '万科后期走势如何？', '今天什么政策面影响大盘飘绿', '白酒行业出利空了吗？', '万科现在建仓可以吗？', '指数又破3200，为啥总是上不去', '请各位股民朋友尽早远离中国股市', '你想多了！', '明天可以买股票吗？', '请问300526，股票做不好为什么还要做呢？停一次牌又一次，不是害人吗？！', '钢铁行业最近有什么利好吗？', '麻烦看看600512', '万科毛利率', '股票603843有特大利好可以买进吗', '不错嘛', '福建水泥今天跳空高开收假阴实阳长上影线，这种盘口怎么解读？', '600050风险大吗？要出货吗', '万科的诊断结果', '请问002431订桌不错业绩大可改善今天有追落后情况吗?', '万科这个公司有成长性吗？', '不想上班啊', '万科的营收增速下滑了吗？', '帮我看下002843', '今天创业板怎么看', '$圣阳股份(sz002580)$一直在上影线内整理，请问是否还有突破机会', '万科的EPS在行业内排名如何？', '万科市盈率是高还是低？', '银行股可否买入', '创业板今天可以入吗？这周后面的走势估计如何？', '万科机构持股比例多少？', '国投电力能进场吗？', '听说万科的资金链断了？', '请问000338为什么近期的大宗交易和龙虎榜单资料不及时更新，是疏忽还是有意为之?', '不知道买什么股好', '方大炭素资金面如何', '万科每股收益', '有哪些机构关注万科？', '帮忙看下万科的后市如何？', '最近市场热点有哪些', '$国电电力(sh600795)$可以长远投资吗，前景怎么样', '万科最近的资金流向如何？', '万科近几年的现金流稳定吗？', '600115..短线后市如何操作?', '消息面分析', '长安汽车短期如何操作，谢谢', '今天的热点事件有哪些', '大盘会有风险吗', '彩票板块还能介入吗？', '喜欢自己的工作吗？', '湖南投资一季度业绩不错，股价近期还能站上十元吗？', '有色金属最近出什么消息了吗？', '帮忙看下万科的技术面。', '不陪你聊天了，去打游戏了', '今天早上买入600029短线后市如何?', '老师，000043这股怎么操作？谢谢', '002397什么时候可以启动', '600623是不是被庄家抛弃了。', '万科近几年的EPS增速如何？', '600868梅雁吉祥可否持有', '$国投电力(sh600886)$7.4的本，继续持股？该股今年有机会吗？', '002256彩虹精化还可以继续持有吗？短线何时卖出为妥？', '证券板块怎么看？', '请问000725的潜力怎么样？', '老师，请问完美世界这2个交易日都是高开低走，我微利，请问还能拿吗', '帮忙看看601788光大证卷吗？持有亏损中，下半年行情如何？', '有没有什么股票可以推荐的啊？', '万科的估值还有上涨空间吗？', '我不认识你', '万科盈利水平怎么样？', '万科的营收增速怎么样？', '万科未来三年的盈利预测一下。', '娱乐时间到了，开始游戏了', '哈哈，有错别字哦', '请问002148的估值合适买入吗、该股今日可以买入吗、', '有多少机构持有万科？', '请帮助分析一下该股的基本面，谢谢！(002821)', '最近有什么股票值得关注？', '000806是否要卖掉换股', '双塔食品微套，需要补仓吗', '万科的EPS有什么变化吗？', '万科营业收入多少？', '请看看君正集团', '下周证券和东财的走势会受深港通利好影响吗？', '证券股最近走势怎么样', '万科的技术面怎么样？', '从长线角度来看，万科A还要拿着吗？', '有哪些行业可以买？', '请老师帮忙看一下002514是否有企稳现象，可以买入了？', '万科的成长性好吗？', '300258今天追高套着，明天是留还是走，', '西藏天路是不是要启动了', '看下万科近一周的涨跌情况。', '不是这样的', '603299目前深套，21.5入的，可否会解套能长期持有吗', '$中技控股(sh600634)$好像有资金流出', '可以给我推荐几只股票吗？', '请问603028一直跌，要选择割肉吗？', '那些机构怎么看万科？', '万科的压力位在哪？', '有多少只基金持有万科？', '万科未来的盈利会下降吗？', '000598我满仓能长期持有么', '300070碧水源，公司前景能看好吗？', '600775近期走势方向', '万科的营收增长率多少？', '万科的偿债能力强吗？', '创业板为什么最近这么弱', '沪指上周站上2050的半年线，对后市有何指导意义？', '下午茶呢', '辣条真好吃', '万科最近一个月的涨跌幅是多少？', '600775下周高点是多少？回调后低位是多少？', '请问002331短期走势如何', '万科有充裕的现金流吗？', '你是不是把我拉黑了！', '哇哈哈', '万科最近是资金净流出吗？', '万科的市场表现怎么样？', '万科盈利状况', '长期走势', '请问6003100短时间会不会上涨', '有多少家机构下调了万科的投资评级？', '机构面分析', '隧道股份怎么样？', '机构对万科的看法如何？', '看一下万科的市销率。', '看下万科有哪些技术指标发出了卖出信号', '分析一下万科的偿债能力。', '最近有哪些热门股', '中国国航现在要卖出吗，中线是否可以继续持有？', '帮忙看看西部创业，昨天买进去，今天又加仓了，老师怎么看？', '有人吗', '请问000034开通深港通对其影响', '大连友谊长线能拿吗？', '中信证券明早要卖出吗', '万科近期如何操作？', '有什么股票值得买啊？', '万科的基本面变差了吗？', '万家文化这票老师怎么看，现在是观望还是可以进场', '在', '查一下万科的净利率。', '600158这几天是不是有下跌的风险了？', '请问002239这股会倒闭吗？', '双塔食品kdj是不是要上穿金叉', '万科市净率的行业排名如何？', '000022已套了20个点，现在的位置可以补仓吗', '今天大盘上涨，这么看来昨天就是洗牌喽？', '万科市盈率多少？', '万科机构持股比例有上升吗？', '万科长线可以进吗？', '1+1=？', '万科的压力位是多少？', '万科的盈利增速会下降吗？', '万科最近有资金流入吗？', '什么时候可以下班啊', '你唱首歌呗', '万科有多少家机构持股？', '从长远的角度来看，万科怎么样？', '市场情绪', '推荐一个股票呗，老师', '帮忙看下万科的成长性。', '002057还是走回调走势吗', '万科的支撑位在哪？', '启明星辰平时上班比较忙没啥时间盯盘现在缩量调整太磨人了我是不是可以一直拿着就行了', '万科可以长线持有吗？', '万科现在应该止损吗？', '打算买医药股，有哪些股票？', '客服不在！！', '万科的机构持股情况。', '600072阻力位和支撑位在哪', '帮我看看600228啊，什么时候可以补仓啊', 'st春天怎么样', '万科最近表现如何？', '请问600868可以补仓吗，企稳没有', '万科未来的盈利情况如何？', '诊断结果', '一直有关注稀土概念现在可以买了吗', '万科可以补仓吗？', '感觉创业板反弹不动了，又要掉头下杀。', '下午股市怎么看？', '请问000511说是可以索赔，索赔会得到什么结果？', '大盘今天涨这么多，不知道明天是否会跌呢', '请问600998只有卖的，没买的，真是贻笑大方', '万科的阻力位是多少？', '干什么', '不理你了', '$司尔特(sz002538)$今天又暴跌了，从没有见过这种垃圾', '世界杯来临，足球概念股有哪些？', '有没有什么游戏板块的股票推荐', '天津港如何，有介入价值吗', '江苏银行近期能继续升高吗', '万科被高估了吗？', '机器人会有感情吗？', '万科有主力入场吗？', '请问002115走势如何？这股中线看好吗', '中期走势', '300246成本37.56从技术面帮我分析一下这个股，还有接下来的操作思路，谢谢', '创业板明天能过1900点吗？', '大盘能不能站上3200？', '万科的机构调研结果好吗？', '心情还可以', '银行股是不是出现利好了。', '请问002546是不是破位了，亏3个多点，要斩仓吗', '今天星期几？', '请问看好券商板块该买哪只股啊？', '好的', '000917电广传媒，怎么看最近的走势？可以继续持有么？', '002632，13的本，中线走势如何？', '请问600502如何看出重组失败可能性低？哪几方面？', '万科最近有资金流出吗？', '终于下班了！！哈哈~~', '万科的诊断结论', '爱你哦', '看一下万科的市净率。', '怎么看000800，适合买进吗？', '近期有谁去万科做了调研？', '万科把我套了，我要卖掉吗？', '机构对万科有什么看法？', '最近哪些行业比较好？', '600775会涨到多少啊？', '最近行情怎么样？', '万科的主力还在吗？', '请问600754在31.5买进的，后市能上升吗？', '今天森源电气突然大跌是怎么回事，此股长线如何', '我想打人！！', '你也有压力啊', '我手上现在持有首创股份600008成本价7.6.现在有13万股，应该怎么操作可以长期持有么。', '等你哦', '哪些股票最近人气高', '$中兴通讯(sz000063)$会不会一泻千里', '$爱普股份(sh603020)$该股基本面上有什么特色，产品服务有什么竞争优势', '万科还会涨吗？', '600317短期如何操作？', '万科最近的资金流向是净流入状态吗？', '请问600360可以补仓吗，我本钱11元，套了好久', '002454，成本14.5，准备中长线持有，求问走势如何', '明天我能买入吗', '万科近期的机构持股情况有什么变化吗？', '万科的基本面好不好？', '方大炭素今天好像有资金抄底', '万科的个股诊断', '这几天有没有发生什么大事', '近期有多少机构调研了万科？', '有色金属今天跌了这么多还会涨吗？', '请帮忙看一下三推股份。', '$中集集团(sz000039)$刚买的想做长线，是否可以？', '方大炭素的K线如何', '今天大盘为什么跌的这么猛？', '帮忙看一下万科的每股收益。', '最近有什么重大事件', '煤炭股还可以跟吗', 'ai换股', '分析下万科近期的表现情况。', '请问002735要不要减仓，今天刚进的', '300008天海防务25的成本可以长期持有吗？', '帮忙分析一下万科的技术面。', '双塔食品有长期投资价值吗', '600249从技术分析的角度看，什么时候可以买入？', '想不想我啊？', '今天大盘怎么样，最近一直空仓', '银行股的将来走势', '你好呀', '万科的成长性如何？', '我在万科被套了，怎么办啊？', '万科的现金流情况怎么样？', '请问002115后市如何操作？中线这股看好吗', '请问002282这股啥时上市', '万科拿长线可以吗？', '麻烦看下山鹰纸业，今天3.78买进的，短线怎样，多谢！', '请问002340的支撑位在什么价位？什么价位补仓？', '我想买入投资石油类资产的股票。请推荐一下。', '万科的机构评级如何？', '对于中国今年下半年的股市，您怎么看？', '好好做', '短线创业板，还能否继续反弹。技术上看怎么操作', '000917被套，请问现在可以加仓了吗', '万科的机构面出问题了吗？', '万科的买卖点在哪？', '热门个股', '600207的重大资产重组改变了，置换变成购买是不是本质的改变，明天复牌会有什么样的影响?', '很好啊', '万科每股收益的增长率多少？', '中粮屯河(sh600737)，国企改革概念股，后势如何，能否长期持有。', '万科近几年的毛利增长情况。', '请问600031今日是否可以买入', '万科的净利率水平如何？', '万科的阻力位在哪？', '万科现在还可以介入吗？', '请问002280联络互动不是在赢利吗？又经过了重组，怎么这么垃圾？', '000977，请问未来一个月怎么操作？', '万科的机构认同度怎么样？', '$中集集团(sz000039)$刚买的想做中长线，是否可以？', '请问002202财管计划出货没提示', '不可以把我删了！！', '$*ST黑豹(sh600760)$这只股票有潜力吗。', '请问600239云南城投怎么会这么差劲？大盘涨的时候不涨，大盘跌的时候一次不拉', '北新建材000786今天没出明天危险吗', '北方导航近期有上涨空间吗？', '中国铁建未来能不能一直持股？我想看他的潜力', '万科市销率是高还是低？', '你真逗', '帮忙分析一下000540，是冲高还是突破', '请问002701能否继续持有，持中线可以吗', '万科的评级变化情况', '000035中国天盈成本7.90短线有机会跑掉吗？', '看一下万科的盈利水平。', '600775近期如何操作', '看看方大炭素这票长线还有机会吗？', '万科现在还可以追啊？', '万科的基本面怎么样？', '不想起床肿么办？？', '万科出现了哪些买卖信号', '帮忙看一下万科的机构面。', '最近哪些股票表现抢眼', '最近短线做那个板块比较好？', '601001近期调整到位没？什么价位可做中长线？', '600074能中线持股吗？', '一点都不好玩', '000786，北新建材短线还会反弹吗？', '请问300445卖1档大单在出，买1档挂有大单，卖单卖完上冲会又直线下降，请问是庒对敲提升人气还是出货，后续咋操作，随庄起舞持仓还减仓', '诊断一下万科', '恒生电子能买不？', '万科的机构面有变化吗？', '万科未来的营收增速大概多少？', '产品质量不好', '600649是什么情况？', '军工有哪些股票可以关注？', '今天走高低收，8元进仓，下周怎么看', '看下万科有哪些技术指标发出了买入信号', '000897今天6.58买入，明天如何操作？', '好久没有晒太阳了', '下周创业板和主板会有大机会吗？若遇到调整可否入？', '请问603660还有上升空间吗？要不要减仓。', '首钢股份今天大跌，后两天怎么做', '002843怎么样？', '大盘最近有机会吗', '请问600382是否可以买入，想补仓', '万科短线能进吗？', '想进医药板块，哪个股票更好？', '603699怎么样', '分析一下万科未来三年的盈利。', '万科的技术面走坏了吗？', '$新赛股份(sh600540)$主力是不是已经出了？', '万科最近是资金净流入吗？', '人工智能明天还能追吗？', '信达地产怎么样？', '预测一下万科未来三年的盈利。', '我饿了', '万科市净率', '万科市盈率的排名情况。', '恒生电子600570短线可以参与吗？后期还会有新低吗？', '万科的机构调研情况如何？', '方大炭素的支撑位', '华北制药6.6买的，现在可以加仓吗？', '大盘什么时候出现调整？', '帮忙分析一下万科的基本面。', '我被万科套住了，现在可以加仓吗？', '最近军工不太亮眼，现在可以布局吗？', '软件类个股今日表现很好，是什么原因，后面能不能介入？', '西部建设今天涨停原因是有消息吗？', '基本面分析', '万科好不好？', '601390现在可以做短期吗？', '明后天大盘冲击3200概率有多大！', '分析下万科的资金面。', '不喜欢你了', '我想看下万科的基本面情况。', '万科的毛利水平是否有变动？', '000554觉得怎么样', '万科的毛利率高吗？', '最近有没有发生什么热门事件', '我什么都不会！！', '$东方通信(sh600776)$K线分析', '002407哪个价位可以介入？中线持股可以吗？', '帮忙看下万科近期的资金面情况。', '谢谢', '方大炭素该减仓吗', '查一下万科的EPS。', '风电行业前景如何？', '万科未来的盈利还有提升的空间吗？', '对今天的盘面怎么看？能不能抄底？', '有哪些机构推荐卖万科？', '600633怎么操作.量缩的这么很', '煤炭板块今日普遍回吐，后市怎么操作？', '有多少家机构调整了万科的投资评级', '查一下万科的机构持股。', '万科的机构评级有下降吗？', '万科的机构面怎么样？', '$华闻传媒(sz000793)$该股票如何？对中长期来说十分有上涨可能', '000425为什么大跌，帮忙看看', '大盘走势', '002183，请问这个股如何，值得长期持有吗', '麻烦看下西部建设', '还不错', '东风汽车出了那么多的有利消息可是股价一直下跌', '请问300207会掉13以下吗？', '002769能否中线持有？还有需要注意一些什么？', '300357如何操作？', '万科市盈率', '帮忙分析一下万科的后续走势。', '近期大盘开始回调，预计调整到什么点位后开始反弹。', '请问天虹商场近期会形成低价位底部双小底即W部不', '002657成本39，八成仓，拿了半年了，后面怎么操作', '行业诊断结果', '我被万科套住了，现在要继续买吗？', '你都是在家工作吗？', '请问002786现是不是破位了呀！', '请问300510复牌后能涨停几天？', '推荐几个值得关注的行业。', '000009中国宝安前景如何，可以进吗？', '有哪些机构推荐买万科？', '如何看待大名城600094', '请问600360可以补仓吗，我本钱11元，套了好久，如果补什么价位要卖', '帮忙看看和而泰调整完毕了吗', '不想工作了', '请问002102什么时候能止跌起稳', '上汽集团131415年的总资产收益率各是多少', '金科股份复牌后6.7高位买入，最近持续大跌，深套。如何操作?', '天山股份000877是怎么了，不上又不下，是回调的概率大，还是上升的概率大呢', '$康芝药业(sz300086)$好像尾盘有资金呵护？', '方大炭素被套了，该减仓吗', '如何看待万科近期的机构调研情况？', '分析一下万科的技术指标', '我最近想买点军工布局，哪个股票比较好呀', '000001已经启动了吗', '万科的机构评级情况', '这样啊…', '券商票现在能买吗？', '钢铁行业有哪些股票比较好', '万科的营收增长稳定吗？', '请老师详细说一下云天化支撑和压力', '华策传媒300133股票短期预计如何走势？', '你上班都做什么', '要不要去看电影？', '能不能上点心啊', '个股仓位', '万科还会跌吗？', '近期有机构买方大炭素吗', '条件选股', '帮我看看伊力特600197，成本在20元附近，短线企稳有上冲的可能吗。', '万科EPS多少？', '万科短线可以买吗？', '请问002645是否有高送股概念。谢谢！', '近期有哪些机构给万科评级？', '万科市销率', '分析一下万科后市。', '000880请教下怎么样？略有盈利', '今天券商的创新大会了，券商股能介入吗', '请问600596之前几天是洗盘吗？', '600415小商品城，7.9元能建底仓长线操作吗', '沪指先抑后扬，是否意味着短期调整结束？', '今天有什么热点新闻吗', '请问601908走势如何？还有冲高要求吗？阻力多少？', '今天钢铁回调，可以买进吗？', '万科的毛利率多少？', '万科的投资评级调整了？', '什么行业值得买啊？', '帮我看看大东南，4.5的本怎么操作可解套吗？', '万科现金流', '请问002562明天复牌是利好吗', '麻烦看下华映科技明天可以介入吗？后期走势怎么看？', '万科的盈利能力在下滑吗？', '$冰川网络(sz300533)$市盈率能到130吗', '热点事件', '请问002331阻力位和止盈位是多少？', '你最喜欢什么语言？', '万科的机构评级有什么变化吗？', '医药股最近可以买吗？', '万科的基本面有变化吗？', '帮忙看下万科的机构面。', '我在万科被套了，我想换个股票。', '万科估值水平', '$陕西金叶(sz000812)$这只票是否已经企稳？本周该如何操作？', '万科市净率的排名情况。', '了解一下万科的负债情况。', '000417，请问还能持有吗，短线阻力位是多少啊，谢谢', '000651目前走势会继续下滑吗', '道明光学该怎么操作？12.9的本，是否需要止损。中线拿着呢？', '请问600491一直公告各种中标利好，为什么不旦不涨反而一直跌呢！', '$中化国际(sh600500)$可否继续持有？跟中国化工合并的可能性有多大', '现在金属板块还有机会吗', '分享几只牛股给我吧。', '张家港行002839，21的成本，还会继续下跌吗？会短期会反弹吗？还能持股吗？', '但是', '请问002035做长线，需要减仓吗？', '万科的机构调研结果怎么样？', '万科估值偏低吗？', '你平常都干什么啊', '看下方大炭素的最新评级', '你四不四傻？', '有毛病吗？', '请问002102是否要换股', '万科市净率多少？', '请问000058请问这只股是什么情况，天天跌，又舍不得割肉', '帮忙看看神奇制药。', '明后两天600606绿地控股有短线机会吗？', '万科的抗风险能力强吗？', '请问002450后市如何操作？请从技术面分析分析', '创业板连续上涨三天，突破1400点，还能继续涨吗？', '长城电脑，下周三18号长城信息合并，是不是利空？', '万科的净利率水平是否有变动？', '万科毛利的行业排名', '如何看待万科的成长性。', '万科被低估了吗？', '今天大盘可以补仓吗', '万科还能涨吗？', '万科的技术面出问题了吗？', '有没有万达商业借壳四川金顶此事？', '万科盈利水平', '万科有资金出逃吗？', '万科市销率的排名情况。', '帮忙看下300226后期走势怎么样？', '600373今明几天如何把握？', '002231调整几个月了，后市怎么样啊？', '请问我持有的索菱股份002766可以中线持有吗？', '英联股份目前进好吗?', '000028这个股票短线可以买吗老师？', '帮我看一下002416，是不是有什么利空啊，为什么跌起来没完啊', '请问600917一直下跌怎么还有人买晕了', '中体产业可以中长线持有吗？', '万科应该加仓吗？', '002459集合竞价时连续三天出现几分钟涨停，但开盘后反而跌的凶，怎么回事', '看下万科近期的技术指标情况', '对未来中国股市的大行情怎么看？值得投资吗？', '002450康得新短线如何，今进明出', '600775本月向上看多少？19.8有机会没有', '有多少家机构上调了万科的投资评级？', '万科市盈率有什么变化吗？', '万科的支撑位是多少？', '长期来看，方大炭素值得买吗？', '你的学历不高吧', '今天大盘跌的这么快？接下来这几天是不是还要跌？', '早上好', '万科近三年的营收增长情况。', '请问600877已亏了4个点，可以补仓吗', '002460这股如何？', '万科净利率', '000540快11元的成本，现在补仓适合吗', '请问600570估值偏高吗?', '请问300384可以中线继续持有吗？', '最近有哪些影响比较大的消息', '请问600381今天复牌改名了', '有没有万科的操作策略', '002573下周会有什么情况？', '万科的投资评级近期有什么变动？', '请问方大炭素怎么看？', '银行股现在可以介入吗', '问000566海南海药本次调整的目标位？什么价格可以买入？', '看看600703是启动的迹象吗', '请问600608能否继续加仓', '万科的基金持股比例有多高？', '万科近几年的净利润增长情况。', '目前这个行情有什么板块可以介入吗？', 'A股今年能看高至多少点？', '请问002202到底是控制仓位还是保持仓位？', '万科现金流水平怎么样？', '万科的成长性怎么样？', '请问600926限售的小非都有那些', '600877是不是要耐心等？', '帮忙分析一下万科的近期走势。', '既怕踏空又不敢追涨怎么办', '万科的现金流稳定吗？', '000153短线咋样', '请问600392是18.1入手的，已经跌了很多了，明天该清仓么', '000776怎么了业绩各方面不差为什么连光大都不如了', '做我女朋友吧', '查一下万科的毛利率。', '万科是不是要走强了？', '万科最近的资金流向是净流出状态吗？', '云天化短期压力位是多少', '002539云图控股，可以买吗？谢谢！', '万科的机构调研情况怎么样？', '002552宝鼎科技什么时候是个底？', '请教银江股份压力位和支撑位在哪！', '帮看下通达股份002560', '看一下万科的估值情况', '万科的技术面有变化吗？', '聊天吧', '汉威电子占持仓一半，成本27，请问后市该怎么操作？', '最近有哪些人气股', '万科的评级变动情况', '000987这两天一直跌！明天出中报近期看好吗？', '600176这个股值不值的待有，未两一个月内会涨到多少钱？', '分析一下万科的盈利能力。', '通达股份如何', '$哈尔斯(sz002615)$请问这个股票还能持有吗，还有上涨的空间么，成本在17左右', '万科的技术面好不好？', '看下万科近期的资金流向。', '请问这一波行情能到多少点啊。', '002465可以后长期持有吗？', '万科市盈率的行业排名如何？', '万科现在要卖掉吗？', '现在大盘能不能进入', '万科市销率的行业排名如何？', '对万科有什么建议吗？', '尾盘买入600156，下个星期走势如何？', '终于周末了', '上海家化基本面有没有问题？怎样操作？', '请问000514渝开发现在能短线介入吗？', '浙江震元短线怎么操作', '近期有多少机构去万科调研？', '请问300445今天走势鬼异，啥情况?庄出货?', '麻烦您看看海峡环保这个股票，我已经被套20个点了，下一步如何操作哪，是割肉出来还是继续持有呀，您分析还会反弹吗？', '请问600498后市如何操作？支撑为是多少', '万科的主力出逃了吗？', '请问002821基本面如何', '奇闻趣事', '现在哪些板块比较有机会？', '请问002098002098预计什么时候会复牌？复牌后走势如何？', '下午大盘怎么看', '万科把我套了，我要割掉吗？', '行业消息面', '$华灿光电(sz300323)$帮忙分析下这家公司', '我已经试过好多次了', '万科什么价位可以买？', '请问603727的封单量怎么这么小', '今天石墨烯概念股有利好。能否追!', '万科的估值水平低了吗？', '汇金股份300368被套5个点，是走是留？怎么操作，技术面分析下', '万科的基本面出问题了吗？', '易尚展示今天从日线角度来看，算是阶段低点了吗？', '帮忙介绍一下该股，$星网宇达(sz002829)$', '$越秀金控(sz000987)$出了一些公告，是利好还是利空？', '合肥城建中长期走势如何？谢谢老师。', '我不高兴了！！', '万科跌了，我想换个股票。', '我是你爸爸', '$中国中铁(sh601390)本年走势', '请分析下红宝丽，9.11元的成本，四成仓位，明日怎么操作？', '今天又加仓格力，格力是长线持股，后市会如何？', '热门股票有哪些', '看下方大炭素的阻力位', '万科有资金入场吗？', '茅台值得长期持有吗？', '顺发恒业近期有涨的趋势吗？', '今天刚进的600497，帮忙看看是否有主力资金进场', '麻烦看看富邦股份和300375怎么样？长线行吗？', '谈谈十九大对未来市场的影响！', '污水处理板块表现强势，后市如何操作？', '600112天成控股今天是买入的时机吗？是否还会上涨？', '600376，没什么利空，咋下跌的这么厉害呢？是主力在调仓吗？', '请问300165复牌怎么走', '600487做中线的话可以拿到什么时候出？', '请问300056后市如何操作现在已经套十三个点了(', 'OK', '分析一下万科的营收情况。', '现在还能追家电吗', '300044有底仓什么价位可以加仓谢谢', '万科的估值水平怎么样？', '万科的EPS增速怎么样？', '万科的机构面如何？', '你妈喊你回家吃饭呢', '万科盈利水平高吗？', '请问000977现在成不动产了', '万科的技术面如何？', '不好听', '帮忙看下万科的基本面。', '天海防务25的成本可以长期持有吗？', '万科还有现金流吗？', '帮我上班吧', '看下万科近期的市场表现。', '万科的毛利水平如何？', '万科应该减仓吗？', '我在万科被套了，可以补仓吗？', '浙江震元中线能持有吗？', '天气很好，不错', '追高全仓买了中国中车，您看这支股票还有守着的必要吗？我想割肉出来换换其他股票', '万科市销率有什么变化吗？', '万科后续走势如何？', '请分析方大炭素这票质地如何？', '002128做中线可以吗？', '002404怎么样？还可以继续持有吗？中线怎么样？', '$中油资本(sz000617)$前景如何？', '请问000553跌到什么位置才能介入', '请问000488还有上升空间不？阻力位？', '请问000425刚完成资金招募，跟多家企业达成战略合作，复市后为什么没涨反跌？', '我生气了！！', '大盘是站上3300还是指数假突破？', '帮我看看特力A，持有还是出来，微亏，多谢', '万科的盈利水平能否继续保持？', '来句绕口令啊', '万科的净利率多少？', '万科的偿债能力怎么样？', '看一下万科的市盈率。', '万科的营收在行业内排名如何？', '推荐个股票给我。', '这只股的走势还能上涨吗，什么地方是最高点？谢谢', '镍概念现在能入吗', '万科市净率是高还是低？', '看一下万科的现金流。', '万科的基本面如何？', '周五大盘怎么没涨，是不是要调整', '请从技术面分析下怡亚通002183', '我想找个女朋友', '请问002446要不要减仓，或者可以补仓吗', '洛阳钼业近一周的走势会怎样？', '600887每天挺活跃的，还可以介入吗', '行业个股列表', '$超讯通信(sh603322)$今天突破10日线，此股后市该如何操作', '有什么股票值得关注啊？', '行业建议', '长城电脑复牌是利好吧，', '分析一下万科的每股收益情况。', '东北电气后市如何操作，适合做长线么', '万科市销率多少？', '万科现在要止盈吗？', '看下万科近期的调研情况。', '不喜欢你', '我要吃零食', '我要走了', '002562今天早上开盘进的，明天要出吗？', '今天好热啊', '现在可以重仓万科吗？', '技术面分析', '创业板重返年线，后市怎么走？', '麻烦看看300375怎么样？长线行吗？', '哪里会下雪啊', '万科净利率的行业排名', '002454，成本14.5，准备中长线持有，目前半仓，求问走势如何，大概什么位置可以加减仓？', '万科市净率有什么变化吗？', '短期走势', '中兴国际这票怎么样', '请问下慈文传媒这个股票如何', '不可以的', '万科营收情况', '请问许继电气能长期握着吗？', '万科最近一周的涨跌幅是多少？', '中国铁建未来一段时间如何操作？'])
+Fri, 20 Jul 2018 08:32:54 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 6400.40ms
+Fri, 20 Jul 2018 08:33:43 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 08:33:49 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 08:33:49 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '诊断结果', '诊断结果', '诊断结果', '基本面分析', '诊断结果', '诊断结果', '诊断结果',
+       '诊断结果', '诊断结果', '诊断结果', 'other', '诊断结果', '基本面分析', '基本面分析', '诊断结果',
+       '诊断结果', '诊断结果', '基本面分析', '短期走势', '诊断结果', '基本面分析', '个股仓位', '诊断结果',
+       '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果',
+       '诊断结果', '诊断结果', '诊断结果', '诊断结果', '基本面分析', '诊断结果', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '技术面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '个股仓位', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', 'other', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '基本面分析', '基本面分析', '技术面分析', '技术面分析', '机构面分析', '技术面分析',
+       '技术面分析', '短期走势', '技术面分析', '技术面分析', '技术面分析', '个股仓位', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '基本面分析', '短期走势',
+       '技术面分析', '技术面分析', '基本面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '技术面分析', '机构面分析', '机构面分析', '短期走势', '短期走势', '短期走势', '短期走势',
+       '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', 'other',
+       '短期走势', '短期走势', '短期走势', '短期走势', '基本面分析', '基本面分析', '短期走势', '短期走势',
+       '短期走势', '短期走势', '诊断结果', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势',
+       '个股仓位', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势',
+       '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势',
+       '短期走势', '短期走势', '短期走势', '短期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '技术面分析', '技术面分析', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '短期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '诊断结果', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '长期走势', '长期走势', '中期走势', '长期走势', '长期走势',
+       '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势',
+       '长期走势', '长期走势', '长期走势', '技术面分析', '长期走势', '长期走势', '长期走势', '中期走势',
+       '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势',
+       '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '消息面分析', '中期走势', '消息面分析',
+       '消息面分析', '消息面分析', '消息面分析', '消息面分析', '消息面分析', '消息面分析', '消息面分析',
+       '消息面分析', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '诊断结果', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '行业诊断结果', '行业诊断结果', '行业诊断结果', '行业诊断结果', 'other', 'other', '技术面分析',
+       '行业诊断结果', '短期走势', '行业诊断结果', '行业诊断结果', '技术面分析', 'other', '行业诊断结果',
+       '行业诊断结果', '基本面分析', '短期走势', '短期走势', '技术面分析', '行业诊断结果', '行业诊断结果',
+       '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表',
+       '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表', '短期走势', '行业建议', '行业个股列表',
+       '行业建议', '行业建议', '行业建议', '行业建议', '中期走势', '行业消息面', '行业消息面', '行业消息面',
+       '行业消息面', '行业消息面', 'other', '短期走势', '个股仓位', '市场情绪', '大盘走势', '市场情绪',
+       '市场情绪', '诊断结果', '市场情绪', '市场情绪', '大盘走势', '诊断结果', '市场情绪', '大盘走势',
+       '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势',
+       '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势',
+       '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势',
+       '大盘走势', '大盘走势', '热点事件', '热点事件', '热点事件', '热点事件', '行业建议', '热点事件',
+       '热点事件', '热门个股', '行业个股列表', '热门个股', '热门个股', '热门个股', '热门个股', '热门个股',
+       '热门个股', 'other', '行业个股列表', 'ai换股', 'ai换股', 'ai换股', '条件选股', '条件选股',
+       'other', '条件选股', '条件选股', '条件选股', 'other', 'other', 'other',
+       'other', '中期走势', 'other', 'other', '基本面分析', 'other', 'other',
+       'other', '大盘走势', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', '技术面分析', 'other', 'other',
+       'other', 'other', 'other', 'other', '短期走势', '基本面分析', 'other',
+       '基本面分析', 'other', '基本面分析', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', '基本面分析', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       '基本面分析', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', '基本面分析', '机构面分析',
+       '诊断结果', '个股仓位', '中期走势', '短期走势', '技术面分析', '长期走势', 'other', 'other',
+       'other', '行业个股列表', '诊断结果', 'other', 'other', '行业建议', 'other',
+       '行业建议', '热点事件'], dtype='<U6')}
+dict_keys(['请问600020走势如何？现在可否补仓？', '持有万科的机构多吗？', '石墨烯板块有哪些股票？', '万科后期走势如何？', '今天什么政策面影响大盘飘绿', '白酒行业出利空了吗？', '万科现在建仓可以吗？', '指数又破3200，为啥总是上不去', '请各位股民朋友尽早远离中国股市', '你想多了！', '明天可以买股票吗？', '请问300526，股票做不好为什么还要做呢？停一次牌又一次，不是害人吗？！', '钢铁行业最近有什么利好吗？', '麻烦看看600512', '万科毛利率', '股票603843有特大利好可以买进吗', '不错嘛', '福建水泥今天跳空高开收假阴实阳长上影线，这种盘口怎么解读？', '600050风险大吗？要出货吗', '万科的诊断结果', '请问002431订桌不错业绩大可改善今天有追落后情况吗?', '万科这个公司有成长性吗？', '不想上班啊', '万科的营收增速下滑了吗？', '帮我看下002843', '今天创业板怎么看', '$圣阳股份(sz002580)$一直在上影线内整理，请问是否还有突破机会', '万科的EPS在行业内排名如何？', '万科市盈率是高还是低？', '银行股可否买入', '创业板今天可以入吗？这周后面的走势估计如何？', '万科机构持股比例多少？', '国投电力能进场吗？', '听说万科的资金链断了？', '请问000338为什么近期的大宗交易和龙虎榜单资料不及时更新，是疏忽还是有意为之?', '不知道买什么股好', '方大炭素资金面如何', '万科每股收益', '有哪些机构关注万科？', '帮忙看下万科的后市如何？', '最近市场热点有哪些', '$国电电力(sh600795)$可以长远投资吗，前景怎么样', '万科最近的资金流向如何？', '万科近几年的现金流稳定吗？', '600115..短线后市如何操作?', '消息面分析', '长安汽车短期如何操作，谢谢', '今天的热点事件有哪些', '大盘会有风险吗', '彩票板块还能介入吗？', '喜欢自己的工作吗？', '湖南投资一季度业绩不错，股价近期还能站上十元吗？', '有色金属最近出什么消息了吗？', '帮忙看下万科的技术面。', '不陪你聊天了，去打游戏了', '今天早上买入600029短线后市如何?', '老师，000043这股怎么操作？谢谢', '002397什么时候可以启动', '600623是不是被庄家抛弃了。', '万科近几年的EPS增速如何？', '600868梅雁吉祥可否持有', '$国投电力(sh600886)$7.4的本，继续持股？该股今年有机会吗？', '002256彩虹精化还可以继续持有吗？短线何时卖出为妥？', '证券板块怎么看？', '请问000725的潜力怎么样？', '老师，请问完美世界这2个交易日都是高开低走，我微利，请问还能拿吗', '帮忙看看601788光大证卷吗？持有亏损中，下半年行情如何？', '有没有什么股票可以推荐的啊？', '万科的估值还有上涨空间吗？', '我不认识你', '万科盈利水平怎么样？', '万科的营收增速怎么样？', '万科未来三年的盈利预测一下。', '娱乐时间到了，开始游戏了', '哈哈，有错别字哦', '请问002148的估值合适买入吗、该股今日可以买入吗、', '有多少机构持有万科？', '请帮助分析一下该股的基本面，谢谢！(002821)', '最近有什么股票值得关注？', '000806是否要卖掉换股', '双塔食品微套，需要补仓吗', '万科的EPS有什么变化吗？', '万科营业收入多少？', '请看看君正集团', '下周证券和东财的走势会受深港通利好影响吗？', '证券股最近走势怎么样', '万科的技术面怎么样？', '从长线角度来看，万科A还要拿着吗？', '有哪些行业可以买？', '请老师帮忙看一下002514是否有企稳现象，可以买入了？', '万科的成长性好吗？', '300258今天追高套着，明天是留还是走，', '西藏天路是不是要启动了', '看下万科近一周的涨跌情况。', '不是这样的', '603299目前深套，21.5入的，可否会解套能长期持有吗', '$中技控股(sh600634)$好像有资金流出', '可以给我推荐几只股票吗？', '请问603028一直跌，要选择割肉吗？', '那些机构怎么看万科？', '万科的压力位在哪？', '有多少只基金持有万科？', '万科未来的盈利会下降吗？', '000598我满仓能长期持有么', '300070碧水源，公司前景能看好吗？', '600775近期走势方向', '万科的营收增长率多少？', '万科的偿债能力强吗？', '创业板为什么最近这么弱', '沪指上周站上2050的半年线，对后市有何指导意义？', '下午茶呢', '辣条真好吃', '万科最近一个月的涨跌幅是多少？', '600775下周高点是多少？回调后低位是多少？', '请问002331短期走势如何', '万科有充裕的现金流吗？', '你是不是把我拉黑了！', '哇哈哈', '万科最近是资金净流出吗？', '万科的市场表现怎么样？', '万科盈利状况', '长期走势', '请问6003100短时间会不会上涨', '有多少家机构下调了万科的投资评级？', '机构面分析', '隧道股份怎么样？', '机构对万科的看法如何？', '看一下万科的市销率。', '看下万科有哪些技术指标发出了卖出信号', '分析一下万科的偿债能力。', '最近有哪些热门股', '中国国航现在要卖出吗，中线是否可以继续持有？', '帮忙看看西部创业，昨天买进去，今天又加仓了，老师怎么看？', '有人吗', '请问000034开通深港通对其影响', '大连友谊长线能拿吗？', '中信证券明早要卖出吗', '万科近期如何操作？', '有什么股票值得买啊？', '万科的基本面变差了吗？', '万家文化这票老师怎么看，现在是观望还是可以进场', '在', '查一下万科的净利率。', '600158这几天是不是有下跌的风险了？', '请问002239这股会倒闭吗？', '双塔食品kdj是不是要上穿金叉', '万科市净率的行业排名如何？', '000022已套了20个点，现在的位置可以补仓吗', '今天大盘上涨，这么看来昨天就是洗牌喽？', '万科市盈率多少？', '万科机构持股比例有上升吗？', '万科长线可以进吗？', '1+1=？', '万科的压力位是多少？', '万科的盈利增速会下降吗？', '万科最近有资金流入吗？', '什么时候可以下班啊', '你唱首歌呗', '万科有多少家机构持股？', '从长远的角度来看，万科怎么样？', '市场情绪', '推荐一个股票呗，老师', '帮忙看下万科的成长性。', '002057还是走回调走势吗', '万科的支撑位在哪？', '启明星辰平时上班比较忙没啥时间盯盘现在缩量调整太磨人了我是不是可以一直拿着就行了', '万科可以长线持有吗？', '万科现在应该止损吗？', '打算买医药股，有哪些股票？', '客服不在！！', '万科的机构持股情况。', '600072阻力位和支撑位在哪', '帮我看看600228啊，什么时候可以补仓啊', 'st春天怎么样', '万科最近表现如何？', '请问600868可以补仓吗，企稳没有', '万科未来的盈利情况如何？', '诊断结果', '一直有关注稀土概念现在可以买了吗', '万科可以补仓吗？', '感觉创业板反弹不动了，又要掉头下杀。', '下午股市怎么看？', '请问000511说是可以索赔，索赔会得到什么结果？', '大盘今天涨这么多，不知道明天是否会跌呢', '请问600998只有卖的，没买的，真是贻笑大方', '万科的阻力位是多少？', '干什么', '不理你了', '$司尔特(sz002538)$今天又暴跌了，从没有见过这种垃圾', '世界杯来临，足球概念股有哪些？', '有没有什么游戏板块的股票推荐', '天津港如何，有介入价值吗', '江苏银行近期能继续升高吗', '万科被高估了吗？', '机器人会有感情吗？', '万科有主力入场吗？', '请问002115走势如何？这股中线看好吗', '中期走势', '300246成本37.56从技术面帮我分析一下这个股，还有接下来的操作思路，谢谢', '创业板明天能过1900点吗？', '大盘能不能站上3200？', '万科的机构调研结果好吗？', '心情还可以', '银行股是不是出现利好了。', '请问002546是不是破位了，亏3个多点，要斩仓吗', '今天星期几？', '请问看好券商板块该买哪只股啊？', '好的', '000917电广传媒，怎么看最近的走势？可以继续持有么？', '002632，13的本，中线走势如何？', '请问600502如何看出重组失败可能性低？哪几方面？', '万科最近有资金流出吗？', '终于下班了！！哈哈~~', '万科的诊断结论', '爱你哦', '看一下万科的市净率。', '怎么看000800，适合买进吗？', '近期有谁去万科做了调研？', '万科把我套了，我要卖掉吗？', '机构对万科有什么看法？', '最近哪些行业比较好？', '600775会涨到多少啊？', '最近行情怎么样？', '万科的主力还在吗？', '请问600754在31.5买进的，后市能上升吗？', '今天森源电气突然大跌是怎么回事，此股长线如何', '我想打人！！', '你也有压力啊', '我手上现在持有首创股份600008成本价7.6.现在有13万股，应该怎么操作可以长期持有么。', '等你哦', '哪些股票最近人气高', '$中兴通讯(sz000063)$会不会一泻千里', '$爱普股份(sh603020)$该股基本面上有什么特色，产品服务有什么竞争优势', '万科还会涨吗？', '600317短期如何操作？', '万科最近的资金流向是净流入状态吗？', '请问600360可以补仓吗，我本钱11元，套了好久', '002454，成本14.5，准备中长线持有，求问走势如何', '明天我能买入吗', '万科近期的机构持股情况有什么变化吗？', '万科的基本面好不好？', '方大炭素今天好像有资金抄底', '万科的个股诊断', '这几天有没有发生什么大事', '近期有多少机构调研了万科？', '有色金属今天跌了这么多还会涨吗？', '请帮忙看一下三推股份。', '$中集集团(sz000039)$刚买的想做长线，是否可以？', '方大炭素的K线如何', '今天大盘为什么跌的这么猛？', '帮忙看一下万科的每股收益。', '最近有什么重大事件', '煤炭股还可以跟吗', 'ai换股', '分析下万科近期的表现情况。', '请问002735要不要减仓，今天刚进的', '300008天海防务25的成本可以长期持有吗？', '帮忙分析一下万科的技术面。', '双塔食品有长期投资价值吗', '600249从技术分析的角度看，什么时候可以买入？', '想不想我啊？', '今天大盘怎么样，最近一直空仓', '银行股的将来走势', '你好呀', '万科的成长性如何？', '我在万科被套了，怎么办啊？', '万科的现金流情况怎么样？', '请问002115后市如何操作？中线这股看好吗', '请问002282这股啥时上市', '万科拿长线可以吗？', '麻烦看下山鹰纸业，今天3.78买进的，短线怎样，多谢！', '请问002340的支撑位在什么价位？什么价位补仓？', '我想买入投资石油类资产的股票。请推荐一下。', '万科的机构评级如何？', '对于中国今年下半年的股市，您怎么看？', '好好做', '短线创业板，还能否继续反弹。技术上看怎么操作', '000917被套，请问现在可以加仓了吗', '万科的机构面出问题了吗？', '万科的买卖点在哪？', '热门个股', '600207的重大资产重组改变了，置换变成购买是不是本质的改变，明天复牌会有什么样的影响?', '很好啊', '万科每股收益的增长率多少？', '中粮屯河(sh600737)，国企改革概念股，后势如何，能否长期持有。', '万科近几年的毛利增长情况。', '请问600031今日是否可以买入', '万科的净利率水平如何？', '万科的阻力位在哪？', '万科现在还可以介入吗？', '请问002280联络互动不是在赢利吗？又经过了重组，怎么这么垃圾？', '000977，请问未来一个月怎么操作？', '万科的机构认同度怎么样？', '$中集集团(sz000039)$刚买的想做中长线，是否可以？', '请问002202财管计划出货没提示', '不可以把我删了！！', '$*ST黑豹(sh600760)$这只股票有潜力吗。', '请问600239云南城投怎么会这么差劲？大盘涨的时候不涨，大盘跌的时候一次不拉', '北新建材000786今天没出明天危险吗', '北方导航近期有上涨空间吗？', '中国铁建未来能不能一直持股？我想看他的潜力', '万科市销率是高还是低？', '你真逗', '帮忙分析一下000540，是冲高还是突破', '请问002701能否继续持有，持中线可以吗', '万科的评级变化情况', '000035中国天盈成本7.90短线有机会跑掉吗？', '看一下万科的盈利水平。', '600775近期如何操作', '看看方大炭素这票长线还有机会吗？', '万科现在还可以追啊？', '万科的基本面怎么样？', '不想起床肿么办？？', '万科出现了哪些买卖信号', '帮忙看一下万科的机构面。', '最近哪些股票表现抢眼', '最近短线做那个板块比较好？', '601001近期调整到位没？什么价位可做中长线？', '600074能中线持股吗？', '一点都不好玩', '000786，北新建材短线还会反弹吗？', '请问300445卖1档大单在出，买1档挂有大单，卖单卖完上冲会又直线下降，请问是庒对敲提升人气还是出货，后续咋操作，随庄起舞持仓还减仓', '诊断一下万科', '恒生电子能买不？', '万科的机构面有变化吗？', '万科未来的营收增速大概多少？', '产品质量不好', '600649是什么情况？', '军工有哪些股票可以关注？', '今天走高低收，8元进仓，下周怎么看', '看下万科有哪些技术指标发出了买入信号', '000897今天6.58买入，明天如何操作？', '好久没有晒太阳了', '下周创业板和主板会有大机会吗？若遇到调整可否入？', '请问603660还有上升空间吗？要不要减仓。', '首钢股份今天大跌，后两天怎么做', '002843怎么样？', '大盘最近有机会吗', '请问600382是否可以买入，想补仓', '万科短线能进吗？', '想进医药板块，哪个股票更好？', '603699怎么样', '分析一下万科未来三年的盈利。', '万科的技术面走坏了吗？', '$新赛股份(sh600540)$主力是不是已经出了？', '万科最近是资金净流入吗？', '人工智能明天还能追吗？', '信达地产怎么样？', '预测一下万科未来三年的盈利。', '我饿了', '万科市净率', '万科市盈率的排名情况。', '恒生电子600570短线可以参与吗？后期还会有新低吗？', '万科的机构调研情况如何？', '方大炭素的支撑位', '华北制药6.6买的，现在可以加仓吗？', '大盘什么时候出现调整？', '帮忙分析一下万科的基本面。', '我被万科套住了，现在可以加仓吗？', '最近军工不太亮眼，现在可以布局吗？', '软件类个股今日表现很好，是什么原因，后面能不能介入？', '西部建设今天涨停原因是有消息吗？', '基本面分析', '万科好不好？', '601390现在可以做短期吗？', '明后天大盘冲击3200概率有多大！', '分析下万科的资金面。', '不喜欢你了', '我想看下万科的基本面情况。', '万科的毛利水平是否有变动？', '000554觉得怎么样', '万科的毛利率高吗？', '最近有没有发生什么热门事件', '我什么都不会！！', '$东方通信(sh600776)$K线分析', '002407哪个价位可以介入？中线持股可以吗？', '帮忙看下万科近期的资金面情况。', '谢谢', '方大炭素该减仓吗', '查一下万科的EPS。', '风电行业前景如何？', '万科未来的盈利还有提升的空间吗？', '对今天的盘面怎么看？能不能抄底？', '有哪些机构推荐卖万科？', '600633怎么操作.量缩的这么很', '煤炭板块今日普遍回吐，后市怎么操作？', '有多少家机构调整了万科的投资评级', '查一下万科的机构持股。', '万科的机构评级有下降吗？', '万科的机构面怎么样？', '$华闻传媒(sz000793)$该股票如何？对中长期来说十分有上涨可能', '000425为什么大跌，帮忙看看', '大盘走势', '002183，请问这个股如何，值得长期持有吗', '麻烦看下西部建设', '还不错', '东风汽车出了那么多的有利消息可是股价一直下跌', '请问300207会掉13以下吗？', '002769能否中线持有？还有需要注意一些什么？', '300357如何操作？', '万科市盈率', '帮忙分析一下万科的后续走势。', '近期大盘开始回调，预计调整到什么点位后开始反弹。', '请问天虹商场近期会形成低价位底部双小底即W部不', '002657成本39，八成仓，拿了半年了，后面怎么操作', '行业诊断结果', '我被万科套住了，现在要继续买吗？', '你都是在家工作吗？', '请问002786现是不是破位了呀！', '请问300510复牌后能涨停几天？', '推荐几个值得关注的行业。', '000009中国宝安前景如何，可以进吗？', '有哪些机构推荐买万科？', '如何看待大名城600094', '请问600360可以补仓吗，我本钱11元，套了好久，如果补什么价位要卖', '帮忙看看和而泰调整完毕了吗', '不想工作了', '请问002102什么时候能止跌起稳', '上汽集团131415年的总资产收益率各是多少', '金科股份复牌后6.7高位买入，最近持续大跌，深套。如何操作?', '天山股份000877是怎么了，不上又不下，是回调的概率大，还是上升的概率大呢', '$康芝药业(sz300086)$好像尾盘有资金呵护？', '方大炭素被套了，该减仓吗', '如何看待万科近期的机构调研情况？', '分析一下万科的技术指标', '我最近想买点军工布局，哪个股票比较好呀', '000001已经启动了吗', '万科的机构评级情况', '这样啊…', '券商票现在能买吗？', '钢铁行业有哪些股票比较好', '万科的营收增长稳定吗？', '请老师详细说一下云天化支撑和压力', '华策传媒300133股票短期预计如何走势？', '你上班都做什么', '要不要去看电影？', '能不能上点心啊', '个股仓位', '万科还会跌吗？', '近期有机构买方大炭素吗', '条件选股', '帮我看看伊力特600197，成本在20元附近，短线企稳有上冲的可能吗。', '万科EPS多少？', '万科短线可以买吗？', '请问002645是否有高送股概念。谢谢！', '近期有哪些机构给万科评级？', '万科市销率', '分析一下万科后市。', '000880请教下怎么样？略有盈利', '今天券商的创新大会了，券商股能介入吗', '请问600596之前几天是洗盘吗？', '600415小商品城，7.9元能建底仓长线操作吗', '沪指先抑后扬，是否意味着短期调整结束？', '今天有什么热点新闻吗', '请问601908走势如何？还有冲高要求吗？阻力多少？', '今天钢铁回调，可以买进吗？', '万科的毛利率多少？', '万科的投资评级调整了？', '什么行业值得买啊？', '帮我看看大东南，4.5的本怎么操作可解套吗？', '万科现金流', '请问002562明天复牌是利好吗', '麻烦看下华映科技明天可以介入吗？后期走势怎么看？', '万科的盈利能力在下滑吗？', '$冰川网络(sz300533)$市盈率能到130吗', '热点事件', '请问002331阻力位和止盈位是多少？', '你最喜欢什么语言？', '万科的机构评级有什么变化吗？', '医药股最近可以买吗？', '万科的基本面有变化吗？', '帮忙看下万科的机构面。', '我在万科被套了，我想换个股票。', '万科估值水平', '$陕西金叶(sz000812)$这只票是否已经企稳？本周该如何操作？', '万科市净率的排名情况。', '了解一下万科的负债情况。', '000417，请问还能持有吗，短线阻力位是多少啊，谢谢', '000651目前走势会继续下滑吗', '道明光学该怎么操作？12.9的本，是否需要止损。中线拿着呢？', '请问600491一直公告各种中标利好，为什么不旦不涨反而一直跌呢！', '$中化国际(sh600500)$可否继续持有？跟中国化工合并的可能性有多大', '现在金属板块还有机会吗', '分享几只牛股给我吧。', '张家港行002839，21的成本，还会继续下跌吗？会短期会反弹吗？还能持股吗？', '但是', '请问002035做长线，需要减仓吗？', '万科的机构调研结果怎么样？', '万科估值偏低吗？', '你平常都干什么啊', '看下方大炭素的最新评级', '你四不四傻？', '有毛病吗？', '请问002102是否要换股', '万科市净率多少？', '请问000058请问这只股是什么情况，天天跌，又舍不得割肉', '帮忙看看神奇制药。', '明后两天600606绿地控股有短线机会吗？', '万科的抗风险能力强吗？', '请问002450后市如何操作？请从技术面分析分析', '创业板连续上涨三天，突破1400点，还能继续涨吗？', '长城电脑，下周三18号长城信息合并，是不是利空？', '万科的净利率水平是否有变动？', '万科毛利的行业排名', '如何看待万科的成长性。', '万科被低估了吗？', '今天大盘可以补仓吗', '万科还能涨吗？', '万科的技术面出问题了吗？', '有没有万达商业借壳四川金顶此事？', '万科盈利水平', '万科有资金出逃吗？', '万科市销率的排名情况。', '帮忙看下300226后期走势怎么样？', '600373今明几天如何把握？', '002231调整几个月了，后市怎么样啊？', '请问我持有的索菱股份002766可以中线持有吗？', '英联股份目前进好吗?', '000028这个股票短线可以买吗老师？', '帮我看一下002416，是不是有什么利空啊，为什么跌起来没完啊', '请问600917一直下跌怎么还有人买晕了', '中体产业可以中长线持有吗？', '万科应该加仓吗？', '002459集合竞价时连续三天出现几分钟涨停，但开盘后反而跌的凶，怎么回事', '看下万科近期的技术指标情况', '对未来中国股市的大行情怎么看？值得投资吗？', '002450康得新短线如何，今进明出', '600775本月向上看多少？19.8有机会没有', '有多少家机构上调了万科的投资评级？', '万科市盈率有什么变化吗？', '万科的支撑位是多少？', '长期来看，方大炭素值得买吗？', '你的学历不高吧', '今天大盘跌的这么快？接下来这几天是不是还要跌？', '早上好', '万科近三年的营收增长情况。', '请问600877已亏了4个点，可以补仓吗', '002460这股如何？', '万科净利率', '000540快11元的成本，现在补仓适合吗', '请问600570估值偏高吗?', '请问300384可以中线继续持有吗？', '最近有哪些影响比较大的消息', '请问600381今天复牌改名了', '有没有万科的操作策略', '002573下周会有什么情况？', '万科的投资评级近期有什么变动？', '请问方大炭素怎么看？', '银行股现在可以介入吗', '问000566海南海药本次调整的目标位？什么价格可以买入？', '看看600703是启动的迹象吗', '请问600608能否继续加仓', '万科的基金持股比例有多高？', '万科近几年的净利润增长情况。', '目前这个行情有什么板块可以介入吗？', 'A股今年能看高至多少点？', '请问002202到底是控制仓位还是保持仓位？', '万科现金流水平怎么样？', '万科的成长性怎么样？', '请问600926限售的小非都有那些', '600877是不是要耐心等？', '帮忙分析一下万科的近期走势。', '既怕踏空又不敢追涨怎么办', '万科的现金流稳定吗？', '000153短线咋样', '请问600392是18.1入手的，已经跌了很多了，明天该清仓么', '000776怎么了业绩各方面不差为什么连光大都不如了', '做我女朋友吧', '查一下万科的毛利率。', '万科是不是要走强了？', '万科最近的资金流向是净流出状态吗？', '云天化短期压力位是多少', '002539云图控股，可以买吗？谢谢！', '万科的机构调研情况怎么样？', '002552宝鼎科技什么时候是个底？', '请教银江股份压力位和支撑位在哪！', '帮看下通达股份002560', '看一下万科的估值情况', '万科的技术面有变化吗？', '聊天吧', '汉威电子占持仓一半，成本27，请问后市该怎么操作？', '最近有哪些人气股', '万科的评级变动情况', '000987这两天一直跌！明天出中报近期看好吗？', '600176这个股值不值的待有，未两一个月内会涨到多少钱？', '分析一下万科的盈利能力。', '通达股份如何', '$哈尔斯(sz002615)$请问这个股票还能持有吗，还有上涨的空间么，成本在17左右', '万科的技术面好不好？', '看下万科近期的资金流向。', '请问这一波行情能到多少点啊。', '002465可以后长期持有吗？', '万科市盈率的行业排名如何？', '万科现在要卖掉吗？', '现在大盘能不能进入', '万科市销率的行业排名如何？', '对万科有什么建议吗？', '尾盘买入600156，下个星期走势如何？', '终于周末了', '上海家化基本面有没有问题？怎样操作？', '请问000514渝开发现在能短线介入吗？', '浙江震元短线怎么操作', '近期有多少机构去万科调研？', '请问300445今天走势鬼异，啥情况?庄出货?', '麻烦您看看海峡环保这个股票，我已经被套20个点了，下一步如何操作哪，是割肉出来还是继续持有呀，您分析还会反弹吗？', '请问600498后市如何操作？支撑为是多少', '万科的主力出逃了吗？', '请问002821基本面如何', '奇闻趣事', '现在哪些板块比较有机会？', '请问002098002098预计什么时候会复牌？复牌后走势如何？', '下午大盘怎么看', '万科把我套了，我要割掉吗？', '行业消息面', '$华灿光电(sz300323)$帮忙分析下这家公司', '我已经试过好多次了', '万科什么价位可以买？', '请问603727的封单量怎么这么小', '今天石墨烯概念股有利好。能否追!', '万科的估值水平低了吗？', '汇金股份300368被套5个点，是走是留？怎么操作，技术面分析下', '万科的基本面出问题了吗？', '易尚展示今天从日线角度来看，算是阶段低点了吗？', '帮忙介绍一下该股，$星网宇达(sz002829)$', '$越秀金控(sz000987)$出了一些公告，是利好还是利空？', '合肥城建中长期走势如何？谢谢老师。', '我不高兴了！！', '万科跌了，我想换个股票。', '我是你爸爸', '$中国中铁(sh601390)本年走势', '请分析下红宝丽，9.11元的成本，四成仓位，明日怎么操作？', '今天又加仓格力，格力是长线持股，后市会如何？', '热门股票有哪些', '看下方大炭素的阻力位', '万科有资金入场吗？', '茅台值得长期持有吗？', '顺发恒业近期有涨的趋势吗？', '今天刚进的600497，帮忙看看是否有主力资金进场', '麻烦看看富邦股份和300375怎么样？长线行吗？', '谈谈十九大对未来市场的影响！', '污水处理板块表现强势，后市如何操作？', '600112天成控股今天是买入的时机吗？是否还会上涨？', '600376，没什么利空，咋下跌的这么厉害呢？是主力在调仓吗？', '请问300165复牌怎么走', '600487做中线的话可以拿到什么时候出？', '请问300056后市如何操作现在已经套十三个点了(', 'OK', '分析一下万科的营收情况。', '现在还能追家电吗', '300044有底仓什么价位可以加仓谢谢', '万科的估值水平怎么样？', '万科的EPS增速怎么样？', '万科的机构面如何？', '你妈喊你回家吃饭呢', '万科盈利水平高吗？', '请问000977现在成不动产了', '万科的技术面如何？', '不好听', '帮忙看下万科的基本面。', '天海防务25的成本可以长期持有吗？', '万科还有现金流吗？', '帮我上班吧', '看下万科近期的市场表现。', '万科的毛利水平如何？', '万科应该减仓吗？', '我在万科被套了，可以补仓吗？', '浙江震元中线能持有吗？', '天气很好，不错', '追高全仓买了中国中车，您看这支股票还有守着的必要吗？我想割肉出来换换其他股票', '万科市销率有什么变化吗？', '万科后续走势如何？', '请分析方大炭素这票质地如何？', '002128做中线可以吗？', '002404怎么样？还可以继续持有吗？中线怎么样？', '$中油资本(sz000617)$前景如何？', '请问000553跌到什么位置才能介入', '请问000488还有上升空间不？阻力位？', '请问000425刚完成资金招募，跟多家企业达成战略合作，复市后为什么没涨反跌？', '我生气了！！', '大盘是站上3300还是指数假突破？', '帮我看看特力A，持有还是出来，微亏，多谢', '万科的盈利水平能否继续保持？', '来句绕口令啊', '万科的净利率多少？', '万科的偿债能力怎么样？', '看一下万科的市盈率。', '万科的营收在行业内排名如何？', '推荐个股票给我。', '这只股的走势还能上涨吗，什么地方是最高点？谢谢', '镍概念现在能入吗', '万科市净率是高还是低？', '看一下万科的现金流。', '万科的基本面如何？', '周五大盘怎么没涨，是不是要调整', '请从技术面分析下怡亚通002183', '我想找个女朋友', '请问002446要不要减仓，或者可以补仓吗', '洛阳钼业近一周的走势会怎样？', '600887每天挺活跃的，还可以介入吗', '行业个股列表', '$超讯通信(sh603322)$今天突破10日线，此股后市该如何操作', '有什么股票值得关注啊？', '行业建议', '长城电脑复牌是利好吧，', '分析一下万科的每股收益情况。', '东北电气后市如何操作，适合做长线么', '万科市销率多少？', '万科现在要止盈吗？', '看下万科近期的调研情况。', '不喜欢你', '我要吃零食', '我要走了', '002562今天早上开盘进的，明天要出吗？', '今天好热啊', '现在可以重仓万科吗？', '技术面分析', '创业板重返年线，后市怎么走？', '麻烦看看300375怎么样？长线行吗？', '哪里会下雪啊', '万科净利率的行业排名', '002454，成本14.5，准备中长线持有，目前半仓，求问走势如何，大概什么位置可以加减仓？', '万科市净率有什么变化吗？', '短期走势', '中兴国际这票怎么样', '请问下慈文传媒这个股票如何', '不可以的', '万科营收情况', '请问许继电气能长期握着吗？', '万科最近一周的涨跌幅是多少？', '中国铁建未来一段时间如何操作？'])
+Fri, 20 Jul 2018 08:33:49 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 6478.34ms
+Fri, 20 Jul 2018 08:33:57 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 08:34:04 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 08:34:04 pipeline.py[line:163] INFO ML 意图识别完成{'SVM': array(['诊断结果', '诊断结果', '诊断结果', '诊断结果', '基本面分析', '诊断结果', '诊断结果', '诊断结果',
+       '诊断结果', '诊断结果', '诊断结果', 'other', '诊断结果', '基本面分析', '基本面分析', '诊断结果',
+       '诊断结果', '诊断结果', '基本面分析', '短期走势', '诊断结果', '基本面分析', '个股仓位', '诊断结果',
+       '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果', '诊断结果',
+       '诊断结果', '诊断结果', '诊断结果', '诊断结果', '基本面分析', '诊断结果', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '技术面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析',
+       '基本面分析', '基本面分析', '基本面分析', '基本面分析', '基本面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '个股仓位', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', 'other', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '基本面分析', '基本面分析', '技术面分析', '技术面分析', '机构面分析', '技术面分析',
+       '技术面分析', '短期走势', '技术面分析', '技术面分析', '技术面分析', '个股仓位', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析', '基本面分析', '短期走势',
+       '技术面分析', '技术面分析', '基本面分析', '技术面分析', '技术面分析', '技术面分析', '技术面分析',
+       '技术面分析', '技术面分析', '技术面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析', '机构面分析',
+       '机构面分析', '技术面分析', '机构面分析', '机构面分析', '短期走势', '短期走势', '短期走势', '短期走势',
+       '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', 'other',
+       '短期走势', '短期走势', '短期走势', '短期走势', '基本面分析', '基本面分析', '短期走势', '短期走势',
+       '短期走势', '短期走势', '诊断结果', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势',
+       '个股仓位', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势',
+       '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势', '短期走势',
+       '短期走势', '短期走势', '短期走势', '短期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '技术面分析', '技术面分析', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '中期走势', '短期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '诊断结果', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势', '中期走势',
+       '中期走势', '中期走势', '中期走势', '长期走势', '长期走势', '中期走势', '长期走势', '长期走势',
+       '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势',
+       '长期走势', '长期走势', '长期走势', '技术面分析', '长期走势', '长期走势', '长期走势', '中期走势',
+       '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '长期走势',
+       '长期走势', '长期走势', '长期走势', '长期走势', '长期走势', '消息面分析', '中期走势', '消息面分析',
+       '消息面分析', '消息面分析', '消息面分析', '消息面分析', '消息面分析', '消息面分析', '消息面分析',
+       '消息面分析', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '诊断结果', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位', '个股仓位',
+       '行业诊断结果', '行业诊断结果', '行业诊断结果', '行业诊断结果', 'other', 'other', '技术面分析',
+       '行业诊断结果', '短期走势', '行业诊断结果', '行业诊断结果', '技术面分析', 'other', '行业诊断结果',
+       '行业诊断结果', '基本面分析', '短期走势', '短期走势', '技术面分析', '行业诊断结果', '行业诊断结果',
+       '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表',
+       '行业个股列表', '行业个股列表', '行业个股列表', '行业个股列表', '短期走势', '行业建议', '行业个股列表',
+       '行业建议', '行业建议', '行业建议', '行业建议', '中期走势', '行业消息面', '行业消息面', '行业消息面',
+       '行业消息面', '行业消息面', 'other', '短期走势', '个股仓位', '市场情绪', '大盘走势', '市场情绪',
+       '市场情绪', '诊断结果', '市场情绪', '市场情绪', '大盘走势', '诊断结果', '市场情绪', '大盘走势',
+       '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势',
+       '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势',
+       '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势', '大盘走势',
+       '大盘走势', '大盘走势', '热点事件', '热点事件', '热点事件', '热点事件', '行业建议', '热点事件',
+       '热点事件', '热门个股', '行业个股列表', '热门个股', '热门个股', '热门个股', '热门个股', '热门个股',
+       '热门个股', 'other', '行业个股列表', 'ai换股', 'ai换股', 'ai换股', '条件选股', '条件选股',
+       'other', '条件选股', '条件选股', '条件选股', 'other', 'other', 'other',
+       'other', '中期走势', 'other', 'other', '基本面分析', 'other', 'other',
+       'other', '大盘走势', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', '技术面分析', 'other', 'other',
+       'other', 'other', 'other', 'other', '短期走势', '基本面分析', 'other',
+       '基本面分析', 'other', '基本面分析', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', '基本面分析', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       '基本面分析', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', 'other', 'other',
+       'other', 'other', 'other', 'other', 'other', '基本面分析', '机构面分析',
+       '诊断结果', '个股仓位', '中期走势', '短期走势', '技术面分析', '长期走势', 'other', 'other',
+       'other', '行业个股列表', '诊断结果', 'other', 'other', '行业建议', 'other',
+       '行业建议', '热点事件'], dtype='<U6')}
+dict_keys(['请问600020走势如何？现在可否补仓？', '持有万科的机构多吗？', '石墨烯板块有哪些股票？', '万科后期走势如何？', '今天什么政策面影响大盘飘绿', '白酒行业出利空了吗？', '万科现在建仓可以吗？', '指数又破3200，为啥总是上不去', '请各位股民朋友尽早远离中国股市', '你想多了！', '明天可以买股票吗？', '请问300526，股票做不好为什么还要做呢？停一次牌又一次，不是害人吗？！', '钢铁行业最近有什么利好吗？', '麻烦看看600512', '万科毛利率', '股票603843有特大利好可以买进吗', '不错嘛', '福建水泥今天跳空高开收假阴实阳长上影线，这种盘口怎么解读？', '600050风险大吗？要出货吗', '万科的诊断结果', '请问002431订桌不错业绩大可改善今天有追落后情况吗?', '万科这个公司有成长性吗？', '不想上班啊', '万科的营收增速下滑了吗？', '帮我看下002843', '今天创业板怎么看', '$圣阳股份(sz002580)$一直在上影线内整理，请问是否还有突破机会', '万科的EPS在行业内排名如何？', '万科市盈率是高还是低？', '银行股可否买入', '创业板今天可以入吗？这周后面的走势估计如何？', '万科机构持股比例多少？', '国投电力能进场吗？', '听说万科的资金链断了？', '请问000338为什么近期的大宗交易和龙虎榜单资料不及时更新，是疏忽还是有意为之?', '不知道买什么股好', '方大炭素资金面如何', '万科每股收益', '有哪些机构关注万科？', '帮忙看下万科的后市如何？', '最近市场热点有哪些', '$国电电力(sh600795)$可以长远投资吗，前景怎么样', '万科最近的资金流向如何？', '万科近几年的现金流稳定吗？', '600115..短线后市如何操作?', '消息面分析', '长安汽车短期如何操作，谢谢', '今天的热点事件有哪些', '大盘会有风险吗', '彩票板块还能介入吗？', '喜欢自己的工作吗？', '湖南投资一季度业绩不错，股价近期还能站上十元吗？', '有色金属最近出什么消息了吗？', '帮忙看下万科的技术面。', '不陪你聊天了，去打游戏了', '今天早上买入600029短线后市如何?', '老师，000043这股怎么操作？谢谢', '002397什么时候可以启动', '600623是不是被庄家抛弃了。', '万科近几年的EPS增速如何？', '600868梅雁吉祥可否持有', '$国投电力(sh600886)$7.4的本，继续持股？该股今年有机会吗？', '002256彩虹精化还可以继续持有吗？短线何时卖出为妥？', '证券板块怎么看？', '请问000725的潜力怎么样？', '老师，请问完美世界这2个交易日都是高开低走，我微利，请问还能拿吗', '帮忙看看601788光大证卷吗？持有亏损中，下半年行情如何？', '有没有什么股票可以推荐的啊？', '万科的估值还有上涨空间吗？', '我不认识你', '万科盈利水平怎么样？', '万科的营收增速怎么样？', '万科未来三年的盈利预测一下。', '娱乐时间到了，开始游戏了', '哈哈，有错别字哦', '请问002148的估值合适买入吗、该股今日可以买入吗、', '有多少机构持有万科？', '请帮助分析一下该股的基本面，谢谢！(002821)', '最近有什么股票值得关注？', '000806是否要卖掉换股', '双塔食品微套，需要补仓吗', '万科的EPS有什么变化吗？', '万科营业收入多少？', '请看看君正集团', '下周证券和东财的走势会受深港通利好影响吗？', '证券股最近走势怎么样', '万科的技术面怎么样？', '从长线角度来看，万科A还要拿着吗？', '有哪些行业可以买？', '请老师帮忙看一下002514是否有企稳现象，可以买入了？', '万科的成长性好吗？', '300258今天追高套着，明天是留还是走，', '西藏天路是不是要启动了', '看下万科近一周的涨跌情况。', '不是这样的', '603299目前深套，21.5入的，可否会解套能长期持有吗', '$中技控股(sh600634)$好像有资金流出', '可以给我推荐几只股票吗？', '请问603028一直跌，要选择割肉吗？', '那些机构怎么看万科？', '万科的压力位在哪？', '有多少只基金持有万科？', '万科未来的盈利会下降吗？', '000598我满仓能长期持有么', '300070碧水源，公司前景能看好吗？', '600775近期走势方向', '万科的营收增长率多少？', '万科的偿债能力强吗？', '创业板为什么最近这么弱', '沪指上周站上2050的半年线，对后市有何指导意义？', '下午茶呢', '辣条真好吃', '万科最近一个月的涨跌幅是多少？', '600775下周高点是多少？回调后低位是多少？', '请问002331短期走势如何', '万科有充裕的现金流吗？', '你是不是把我拉黑了！', '哇哈哈', '万科最近是资金净流出吗？', '万科的市场表现怎么样？', '万科盈利状况', '长期走势', '请问6003100短时间会不会上涨', '有多少家机构下调了万科的投资评级？', '机构面分析', '隧道股份怎么样？', '机构对万科的看法如何？', '看一下万科的市销率。', '看下万科有哪些技术指标发出了卖出信号', '分析一下万科的偿债能力。', '最近有哪些热门股', '中国国航现在要卖出吗，中线是否可以继续持有？', '帮忙看看西部创业，昨天买进去，今天又加仓了，老师怎么看？', '有人吗', '请问000034开通深港通对其影响', '大连友谊长线能拿吗？', '中信证券明早要卖出吗', '万科近期如何操作？', '有什么股票值得买啊？', '万科的基本面变差了吗？', '万家文化这票老师怎么看，现在是观望还是可以进场', '在', '查一下万科的净利率。', '600158这几天是不是有下跌的风险了？', '请问002239这股会倒闭吗？', '双塔食品kdj是不是要上穿金叉', '万科市净率的行业排名如何？', '000022已套了20个点，现在的位置可以补仓吗', '今天大盘上涨，这么看来昨天就是洗牌喽？', '万科市盈率多少？', '万科机构持股比例有上升吗？', '万科长线可以进吗？', '1+1=？', '万科的压力位是多少？', '万科的盈利增速会下降吗？', '万科最近有资金流入吗？', '什么时候可以下班啊', '你唱首歌呗', '万科有多少家机构持股？', '从长远的角度来看，万科怎么样？', '市场情绪', '推荐一个股票呗，老师', '帮忙看下万科的成长性。', '002057还是走回调走势吗', '万科的支撑位在哪？', '启明星辰平时上班比较忙没啥时间盯盘现在缩量调整太磨人了我是不是可以一直拿着就行了', '万科可以长线持有吗？', '万科现在应该止损吗？', '打算买医药股，有哪些股票？', '客服不在！！', '万科的机构持股情况。', '600072阻力位和支撑位在哪', '帮我看看600228啊，什么时候可以补仓啊', 'st春天怎么样', '万科最近表现如何？', '请问600868可以补仓吗，企稳没有', '万科未来的盈利情况如何？', '诊断结果', '一直有关注稀土概念现在可以买了吗', '万科可以补仓吗？', '感觉创业板反弹不动了，又要掉头下杀。', '下午股市怎么看？', '请问000511说是可以索赔，索赔会得到什么结果？', '大盘今天涨这么多，不知道明天是否会跌呢', '请问600998只有卖的，没买的，真是贻笑大方', '万科的阻力位是多少？', '干什么', '不理你了', '$司尔特(sz002538)$今天又暴跌了，从没有见过这种垃圾', '世界杯来临，足球概念股有哪些？', '有没有什么游戏板块的股票推荐', '天津港如何，有介入价值吗', '江苏银行近期能继续升高吗', '万科被高估了吗？', '机器人会有感情吗？', '万科有主力入场吗？', '请问002115走势如何？这股中线看好吗', '中期走势', '300246成本37.56从技术面帮我分析一下这个股，还有接下来的操作思路，谢谢', '创业板明天能过1900点吗？', '大盘能不能站上3200？', '万科的机构调研结果好吗？', '心情还可以', '银行股是不是出现利好了。', '请问002546是不是破位了，亏3个多点，要斩仓吗', '今天星期几？', '请问看好券商板块该买哪只股啊？', '好的', '000917电广传媒，怎么看最近的走势？可以继续持有么？', '002632，13的本，中线走势如何？', '请问600502如何看出重组失败可能性低？哪几方面？', '万科最近有资金流出吗？', '终于下班了！！哈哈~~', '万科的诊断结论', '爱你哦', '看一下万科的市净率。', '怎么看000800，适合买进吗？', '近期有谁去万科做了调研？', '万科把我套了，我要卖掉吗？', '机构对万科有什么看法？', '最近哪些行业比较好？', '600775会涨到多少啊？', '最近行情怎么样？', '万科的主力还在吗？', '请问600754在31.5买进的，后市能上升吗？', '今天森源电气突然大跌是怎么回事，此股长线如何', '我想打人！！', '你也有压力啊', '我手上现在持有首创股份600008成本价7.6.现在有13万股，应该怎么操作可以长期持有么。', '等你哦', '哪些股票最近人气高', '$中兴通讯(sz000063)$会不会一泻千里', '$爱普股份(sh603020)$该股基本面上有什么特色，产品服务有什么竞争优势', '万科还会涨吗？', '600317短期如何操作？', '万科最近的资金流向是净流入状态吗？', '请问600360可以补仓吗，我本钱11元，套了好久', '002454，成本14.5，准备中长线持有，求问走势如何', '明天我能买入吗', '万科近期的机构持股情况有什么变化吗？', '万科的基本面好不好？', '方大炭素今天好像有资金抄底', '万科的个股诊断', '这几天有没有发生什么大事', '近期有多少机构调研了万科？', '有色金属今天跌了这么多还会涨吗？', '请帮忙看一下三推股份。', '$中集集团(sz000039)$刚买的想做长线，是否可以？', '方大炭素的K线如何', '今天大盘为什么跌的这么猛？', '帮忙看一下万科的每股收益。', '最近有什么重大事件', '煤炭股还可以跟吗', 'ai换股', '分析下万科近期的表现情况。', '请问002735要不要减仓，今天刚进的', '300008天海防务25的成本可以长期持有吗？', '帮忙分析一下万科的技术面。', '双塔食品有长期投资价值吗', '600249从技术分析的角度看，什么时候可以买入？', '想不想我啊？', '今天大盘怎么样，最近一直空仓', '银行股的将来走势', '你好呀', '万科的成长性如何？', '我在万科被套了，怎么办啊？', '万科的现金流情况怎么样？', '请问002115后市如何操作？中线这股看好吗', '请问002282这股啥时上市', '万科拿长线可以吗？', '麻烦看下山鹰纸业，今天3.78买进的，短线怎样，多谢！', '请问002340的支撑位在什么价位？什么价位补仓？', '我想买入投资石油类资产的股票。请推荐一下。', '万科的机构评级如何？', '对于中国今年下半年的股市，您怎么看？', '好好做', '短线创业板，还能否继续反弹。技术上看怎么操作', '000917被套，请问现在可以加仓了吗', '万科的机构面出问题了吗？', '万科的买卖点在哪？', '热门个股', '600207的重大资产重组改变了，置换变成购买是不是本质的改变，明天复牌会有什么样的影响?', '很好啊', '万科每股收益的增长率多少？', '中粮屯河(sh600737)，国企改革概念股，后势如何，能否长期持有。', '万科近几年的毛利增长情况。', '请问600031今日是否可以买入', '万科的净利率水平如何？', '万科的阻力位在哪？', '万科现在还可以介入吗？', '请问002280联络互动不是在赢利吗？又经过了重组，怎么这么垃圾？', '000977，请问未来一个月怎么操作？', '万科的机构认同度怎么样？', '$中集集团(sz000039)$刚买的想做中长线，是否可以？', '请问002202财管计划出货没提示', '不可以把我删了！！', '$*ST黑豹(sh600760)$这只股票有潜力吗。', '请问600239云南城投怎么会这么差劲？大盘涨的时候不涨，大盘跌的时候一次不拉', '北新建材000786今天没出明天危险吗', '北方导航近期有上涨空间吗？', '中国铁建未来能不能一直持股？我想看他的潜力', '万科市销率是高还是低？', '你真逗', '帮忙分析一下000540，是冲高还是突破', '请问002701能否继续持有，持中线可以吗', '万科的评级变化情况', '000035中国天盈成本7.90短线有机会跑掉吗？', '看一下万科的盈利水平。', '600775近期如何操作', '看看方大炭素这票长线还有机会吗？', '万科现在还可以追啊？', '万科的基本面怎么样？', '不想起床肿么办？？', '万科出现了哪些买卖信号', '帮忙看一下万科的机构面。', '最近哪些股票表现抢眼', '最近短线做那个板块比较好？', '601001近期调整到位没？什么价位可做中长线？', '600074能中线持股吗？', '一点都不好玩', '000786，北新建材短线还会反弹吗？', '请问300445卖1档大单在出，买1档挂有大单，卖单卖完上冲会又直线下降，请问是庒对敲提升人气还是出货，后续咋操作，随庄起舞持仓还减仓', '诊断一下万科', '恒生电子能买不？', '万科的机构面有变化吗？', '万科未来的营收增速大概多少？', '产品质量不好', '600649是什么情况？', '军工有哪些股票可以关注？', '今天走高低收，8元进仓，下周怎么看', '看下万科有哪些技术指标发出了买入信号', '000897今天6.58买入，明天如何操作？', '好久没有晒太阳了', '下周创业板和主板会有大机会吗？若遇到调整可否入？', '请问603660还有上升空间吗？要不要减仓。', '首钢股份今天大跌，后两天怎么做', '002843怎么样？', '大盘最近有机会吗', '请问600382是否可以买入，想补仓', '万科短线能进吗？', '想进医药板块，哪个股票更好？', '603699怎么样', '分析一下万科未来三年的盈利。', '万科的技术面走坏了吗？', '$新赛股份(sh600540)$主力是不是已经出了？', '万科最近是资金净流入吗？', '人工智能明天还能追吗？', '信达地产怎么样？', '预测一下万科未来三年的盈利。', '我饿了', '万科市净率', '万科市盈率的排名情况。', '恒生电子600570短线可以参与吗？后期还会有新低吗？', '万科的机构调研情况如何？', '方大炭素的支撑位', '华北制药6.6买的，现在可以加仓吗？', '大盘什么时候出现调整？', '帮忙分析一下万科的基本面。', '我被万科套住了，现在可以加仓吗？', '最近军工不太亮眼，现在可以布局吗？', '软件类个股今日表现很好，是什么原因，后面能不能介入？', '西部建设今天涨停原因是有消息吗？', '基本面分析', '万科好不好？', '601390现在可以做短期吗？', '明后天大盘冲击3200概率有多大！', '分析下万科的资金面。', '不喜欢你了', '我想看下万科的基本面情况。', '万科的毛利水平是否有变动？', '000554觉得怎么样', '万科的毛利率高吗？', '最近有没有发生什么热门事件', '我什么都不会！！', '$东方通信(sh600776)$K线分析', '002407哪个价位可以介入？中线持股可以吗？', '帮忙看下万科近期的资金面情况。', '谢谢', '方大炭素该减仓吗', '查一下万科的EPS。', '风电行业前景如何？', '万科未来的盈利还有提升的空间吗？', '对今天的盘面怎么看？能不能抄底？', '有哪些机构推荐卖万科？', '600633怎么操作.量缩的这么很', '煤炭板块今日普遍回吐，后市怎么操作？', '有多少家机构调整了万科的投资评级', '查一下万科的机构持股。', '万科的机构评级有下降吗？', '万科的机构面怎么样？', '$华闻传媒(sz000793)$该股票如何？对中长期来说十分有上涨可能', '000425为什么大跌，帮忙看看', '大盘走势', '002183，请问这个股如何，值得长期持有吗', '麻烦看下西部建设', '还不错', '东风汽车出了那么多的有利消息可是股价一直下跌', '请问300207会掉13以下吗？', '002769能否中线持有？还有需要注意一些什么？', '300357如何操作？', '万科市盈率', '帮忙分析一下万科的后续走势。', '近期大盘开始回调，预计调整到什么点位后开始反弹。', '请问天虹商场近期会形成低价位底部双小底即W部不', '002657成本39，八成仓，拿了半年了，后面怎么操作', '行业诊断结果', '我被万科套住了，现在要继续买吗？', '你都是在家工作吗？', '请问002786现是不是破位了呀！', '请问300510复牌后能涨停几天？', '推荐几个值得关注的行业。', '000009中国宝安前景如何，可以进吗？', '有哪些机构推荐买万科？', '如何看待大名城600094', '请问600360可以补仓吗，我本钱11元，套了好久，如果补什么价位要卖', '帮忙看看和而泰调整完毕了吗', '不想工作了', '请问002102什么时候能止跌起稳', '上汽集团131415年的总资产收益率各是多少', '金科股份复牌后6.7高位买入，最近持续大跌，深套。如何操作?', '天山股份000877是怎么了，不上又不下，是回调的概率大，还是上升的概率大呢', '$康芝药业(sz300086)$好像尾盘有资金呵护？', '方大炭素被套了，该减仓吗', '如何看待万科近期的机构调研情况？', '分析一下万科的技术指标', '我最近想买点军工布局，哪个股票比较好呀', '000001已经启动了吗', '万科的机构评级情况', '这样啊…', '券商票现在能买吗？', '钢铁行业有哪些股票比较好', '万科的营收增长稳定吗？', '请老师详细说一下云天化支撑和压力', '华策传媒300133股票短期预计如何走势？', '你上班都做什么', '要不要去看电影？', '能不能上点心啊', '个股仓位', '万科还会跌吗？', '近期有机构买方大炭素吗', '条件选股', '帮我看看伊力特600197，成本在20元附近，短线企稳有上冲的可能吗。', '万科EPS多少？', '万科短线可以买吗？', '请问002645是否有高送股概念。谢谢！', '近期有哪些机构给万科评级？', '万科市销率', '分析一下万科后市。', '000880请教下怎么样？略有盈利', '今天券商的创新大会了，券商股能介入吗', '请问600596之前几天是洗盘吗？', '600415小商品城，7.9元能建底仓长线操作吗', '沪指先抑后扬，是否意味着短期调整结束？', '今天有什么热点新闻吗', '请问601908走势如何？还有冲高要求吗？阻力多少？', '今天钢铁回调，可以买进吗？', '万科的毛利率多少？', '万科的投资评级调整了？', '什么行业值得买啊？', '帮我看看大东南，4.5的本怎么操作可解套吗？', '万科现金流', '请问002562明天复牌是利好吗', '麻烦看下华映科技明天可以介入吗？后期走势怎么看？', '万科的盈利能力在下滑吗？', '$冰川网络(sz300533)$市盈率能到130吗', '热点事件', '请问002331阻力位和止盈位是多少？', '你最喜欢什么语言？', '万科的机构评级有什么变化吗？', '医药股最近可以买吗？', '万科的基本面有变化吗？', '帮忙看下万科的机构面。', '我在万科被套了，我想换个股票。', '万科估值水平', '$陕西金叶(sz000812)$这只票是否已经企稳？本周该如何操作？', '万科市净率的排名情况。', '了解一下万科的负债情况。', '000417，请问还能持有吗，短线阻力位是多少啊，谢谢', '000651目前走势会继续下滑吗', '道明光学该怎么操作？12.9的本，是否需要止损。中线拿着呢？', '请问600491一直公告各种中标利好，为什么不旦不涨反而一直跌呢！', '$中化国际(sh600500)$可否继续持有？跟中国化工合并的可能性有多大', '现在金属板块还有机会吗', '分享几只牛股给我吧。', '张家港行002839，21的成本，还会继续下跌吗？会短期会反弹吗？还能持股吗？', '但是', '请问002035做长线，需要减仓吗？', '万科的机构调研结果怎么样？', '万科估值偏低吗？', '你平常都干什么啊', '看下方大炭素的最新评级', '你四不四傻？', '有毛病吗？', '请问002102是否要换股', '万科市净率多少？', '请问000058请问这只股是什么情况，天天跌，又舍不得割肉', '帮忙看看神奇制药。', '明后两天600606绿地控股有短线机会吗？', '万科的抗风险能力强吗？', '请问002450后市如何操作？请从技术面分析分析', '创业板连续上涨三天，突破1400点，还能继续涨吗？', '长城电脑，下周三18号长城信息合并，是不是利空？', '万科的净利率水平是否有变动？', '万科毛利的行业排名', '如何看待万科的成长性。', '万科被低估了吗？', '今天大盘可以补仓吗', '万科还能涨吗？', '万科的技术面出问题了吗？', '有没有万达商业借壳四川金顶此事？', '万科盈利水平', '万科有资金出逃吗？', '万科市销率的排名情况。', '帮忙看下300226后期走势怎么样？', '600373今明几天如何把握？', '002231调整几个月了，后市怎么样啊？', '请问我持有的索菱股份002766可以中线持有吗？', '英联股份目前进好吗?', '000028这个股票短线可以买吗老师？', '帮我看一下002416，是不是有什么利空啊，为什么跌起来没完啊', '请问600917一直下跌怎么还有人买晕了', '中体产业可以中长线持有吗？', '万科应该加仓吗？', '002459集合竞价时连续三天出现几分钟涨停，但开盘后反而跌的凶，怎么回事', '看下万科近期的技术指标情况', '对未来中国股市的大行情怎么看？值得投资吗？', '002450康得新短线如何，今进明出', '600775本月向上看多少？19.8有机会没有', '有多少家机构上调了万科的投资评级？', '万科市盈率有什么变化吗？', '万科的支撑位是多少？', '长期来看，方大炭素值得买吗？', '你的学历不高吧', '今天大盘跌的这么快？接下来这几天是不是还要跌？', '早上好', '万科近三年的营收增长情况。', '请问600877已亏了4个点，可以补仓吗', '002460这股如何？', '万科净利率', '000540快11元的成本，现在补仓适合吗', '请问600570估值偏高吗?', '请问300384可以中线继续持有吗？', '最近有哪些影响比较大的消息', '请问600381今天复牌改名了', '有没有万科的操作策略', '002573下周会有什么情况？', '万科的投资评级近期有什么变动？', '请问方大炭素怎么看？', '银行股现在可以介入吗', '问000566海南海药本次调整的目标位？什么价格可以买入？', '看看600703是启动的迹象吗', '请问600608能否继续加仓', '万科的基金持股比例有多高？', '万科近几年的净利润增长情况。', '目前这个行情有什么板块可以介入吗？', 'A股今年能看高至多少点？', '请问002202到底是控制仓位还是保持仓位？', '万科现金流水平怎么样？', '万科的成长性怎么样？', '请问600926限售的小非都有那些', '600877是不是要耐心等？', '帮忙分析一下万科的近期走势。', '既怕踏空又不敢追涨怎么办', '万科的现金流稳定吗？', '000153短线咋样', '请问600392是18.1入手的，已经跌了很多了，明天该清仓么', '000776怎么了业绩各方面不差为什么连光大都不如了', '做我女朋友吧', '查一下万科的毛利率。', '万科是不是要走强了？', '万科最近的资金流向是净流出状态吗？', '云天化短期压力位是多少', '002539云图控股，可以买吗？谢谢！', '万科的机构调研情况怎么样？', '002552宝鼎科技什么时候是个底？', '请教银江股份压力位和支撑位在哪！', '帮看下通达股份002560', '看一下万科的估值情况', '万科的技术面有变化吗？', '聊天吧', '汉威电子占持仓一半，成本27，请问后市该怎么操作？', '最近有哪些人气股', '万科的评级变动情况', '000987这两天一直跌！明天出中报近期看好吗？', '600176这个股值不值的待有，未两一个月内会涨到多少钱？', '分析一下万科的盈利能力。', '通达股份如何', '$哈尔斯(sz002615)$请问这个股票还能持有吗，还有上涨的空间么，成本在17左右', '万科的技术面好不好？', '看下万科近期的资金流向。', '请问这一波行情能到多少点啊。', '002465可以后长期持有吗？', '万科市盈率的行业排名如何？', '万科现在要卖掉吗？', '现在大盘能不能进入', '万科市销率的行业排名如何？', '对万科有什么建议吗？', '尾盘买入600156，下个星期走势如何？', '终于周末了', '上海家化基本面有没有问题？怎样操作？', '请问000514渝开发现在能短线介入吗？', '浙江震元短线怎么操作', '近期有多少机构去万科调研？', '请问300445今天走势鬼异，啥情况?庄出货?', '麻烦您看看海峡环保这个股票，我已经被套20个点了，下一步如何操作哪，是割肉出来还是继续持有呀，您分析还会反弹吗？', '请问600498后市如何操作？支撑为是多少', '万科的主力出逃了吗？', '请问002821基本面如何', '奇闻趣事', '现在哪些板块比较有机会？', '请问002098002098预计什么时候会复牌？复牌后走势如何？', '下午大盘怎么看', '万科把我套了，我要割掉吗？', '行业消息面', '$华灿光电(sz300323)$帮忙分析下这家公司', '我已经试过好多次了', '万科什么价位可以买？', '请问603727的封单量怎么这么小', '今天石墨烯概念股有利好。能否追!', '万科的估值水平低了吗？', '汇金股份300368被套5个点，是走是留？怎么操作，技术面分析下', '万科的基本面出问题了吗？', '易尚展示今天从日线角度来看，算是阶段低点了吗？', '帮忙介绍一下该股，$星网宇达(sz002829)$', '$越秀金控(sz000987)$出了一些公告，是利好还是利空？', '合肥城建中长期走势如何？谢谢老师。', '我不高兴了！！', '万科跌了，我想换个股票。', '我是你爸爸', '$中国中铁(sh601390)本年走势', '请分析下红宝丽，9.11元的成本，四成仓位，明日怎么操作？', '今天又加仓格力，格力是长线持股，后市会如何？', '热门股票有哪些', '看下方大炭素的阻力位', '万科有资金入场吗？', '茅台值得长期持有吗？', '顺发恒业近期有涨的趋势吗？', '今天刚进的600497，帮忙看看是否有主力资金进场', '麻烦看看富邦股份和300375怎么样？长线行吗？', '谈谈十九大对未来市场的影响！', '污水处理板块表现强势，后市如何操作？', '600112天成控股今天是买入的时机吗？是否还会上涨？', '600376，没什么利空，咋下跌的这么厉害呢？是主力在调仓吗？', '请问300165复牌怎么走', '600487做中线的话可以拿到什么时候出？', '请问300056后市如何操作现在已经套十三个点了(', 'OK', '分析一下万科的营收情况。', '现在还能追家电吗', '300044有底仓什么价位可以加仓谢谢', '万科的估值水平怎么样？', '万科的EPS增速怎么样？', '万科的机构面如何？', '你妈喊你回家吃饭呢', '万科盈利水平高吗？', '请问000977现在成不动产了', '万科的技术面如何？', '不好听', '帮忙看下万科的基本面。', '天海防务25的成本可以长期持有吗？', '万科还有现金流吗？', '帮我上班吧', '看下万科近期的市场表现。', '万科的毛利水平如何？', '万科应该减仓吗？', '我在万科被套了，可以补仓吗？', '浙江震元中线能持有吗？', '天气很好，不错', '追高全仓买了中国中车，您看这支股票还有守着的必要吗？我想割肉出来换换其他股票', '万科市销率有什么变化吗？', '万科后续走势如何？', '请分析方大炭素这票质地如何？', '002128做中线可以吗？', '002404怎么样？还可以继续持有吗？中线怎么样？', '$中油资本(sz000617)$前景如何？', '请问000553跌到什么位置才能介入', '请问000488还有上升空间不？阻力位？', '请问000425刚完成资金招募，跟多家企业达成战略合作，复市后为什么没涨反跌？', '我生气了！！', '大盘是站上3300还是指数假突破？', '帮我看看特力A，持有还是出来，微亏，多谢', '万科的盈利水平能否继续保持？', '来句绕口令啊', '万科的净利率多少？', '万科的偿债能力怎么样？', '看一下万科的市盈率。', '万科的营收在行业内排名如何？', '推荐个股票给我。', '这只股的走势还能上涨吗，什么地方是最高点？谢谢', '镍概念现在能入吗', '万科市净率是高还是低？', '看一下万科的现金流。', '万科的基本面如何？', '周五大盘怎么没涨，是不是要调整', '请从技术面分析下怡亚通002183', '我想找个女朋友', '请问002446要不要减仓，或者可以补仓吗', '洛阳钼业近一周的走势会怎样？', '600887每天挺活跃的，还可以介入吗', '行业个股列表', '$超讯通信(sh603322)$今天突破10日线，此股后市该如何操作', '有什么股票值得关注啊？', '行业建议', '长城电脑复牌是利好吧，', '分析一下万科的每股收益情况。', '东北电气后市如何操作，适合做长线么', '万科市销率多少？', '万科现在要止盈吗？', '看下万科近期的调研情况。', '不喜欢你', '我要吃零食', '我要走了', '002562今天早上开盘进的，明天要出吗？', '今天好热啊', '现在可以重仓万科吗？', '技术面分析', '创业板重返年线，后市怎么走？', '麻烦看看300375怎么样？长线行吗？', '哪里会下雪啊', '万科净利率的行业排名', '002454，成本14.5，准备中长线持有，目前半仓，求问走势如何，大概什么位置可以加减仓？', '万科市净率有什么变化吗？', '短期走势', '中兴国际这票怎么样', '请问下慈文传媒这个股票如何', '不可以的', '万科营收情况', '请问许继电气能长期握着吗？', '万科最近一周的涨跌幅是多少？', '中国铁建未来一段时间如何操作？'])
+Fri, 20 Jul 2018 08:34:04 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 6524.59ms
+Building prefix dict from the default dictionary ...
+Fri, 20 Jul 2018 08:49:33 __init__.py[line:111] DEBUG Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Fri, 20 Jul 2018 08:49:34 __init__.py[line:145] DEBUG Dumping model to file cache /tmp/jieba.cache
+Loading model cost 1.294 seconds.
+Fri, 20 Jul 2018 08:49:34 __init__.py[line:163] DEBUG Loading model cost 1.294 seconds.
+Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 08:49:34 __init__.py[line:164] DEBUG Prefix dict has been built succesfully.
+Fri, 20 Jul 2018 08:49:39 pipeline.py[line:147] INFO RE 意图识别完成
+/Intent_Dtection
+/Intent_Dtection
+['<stock>怎么样', '<stock>怎么样', '<stock>好不好', '请问<stock>怎么看', '<stock>是什么情况', '请帮忙看一下三推股份', '帮忙看看<stock>', '<stock>的诊断结果', '<stock>的诊断结论', '<stock>的个股诊断', '诊断一下<stock>', '帮我看下<stock>', '<stock>请教下怎么样略有盈利', '<stock>如何', '帮看下<stock><stock>', '<stock>怎么样', '老师<stock>这股怎么操作谢谢', '<stock><stock>可否持有', '<stock>能买不', '<stock>如何操作', '帮忙介绍一下该股<stock><stock>', '<stock>这股如何', '<stock><stock>可以买吗谢谢！', '帮忙看看<stock>昨天买进去今天又加仓了老师怎么看', '<stock>目前进好吗?', '<stock>如何有介入价值吗', '<stock><stock>帮忙分析下这家公司', 'st春天怎么样', '<stock>怎么样', '麻烦看下<stock>', '请问下<stock>这个股票如何', '麻烦看看<stock>', '中兴国际这票怎么样', '请看看<stock>', '怎么看<stock>适合买进吗', '<stock>觉得怎么样', '如何看待<stock><stock>', '万家文化这票老师怎么看现在是观望还是可以进场', '<stock>的毛利率高吗', '<stock>净利率', '查一下<stock>的净利率', '<stock>的基本面怎么样', '<stock>的基本面出问题了吗', '<stock>的基本面有变化吗', '帮忙看下<stock>的基本面', '<stock>的基本面好不好', '帮忙分析一下<stock>的基本面', '我想看下<stock>的基本面情况', '<stock>的基本面如何', '<stock>的基本面变差了吗', '请帮助分析一下该股的基本面谢谢！(<stock>)', '请问<stock>基本面如何', '请问<stock>估值偏高吗?', '<stock>的成长性怎么样', '<stock>的成长性好吗', '<stock>的成长性如何', '<stock>这个公司有成长性吗', '帮忙看下<stock>的成长性', '如何看待<stock>的成长性', '<stock>盈利水平怎么样', '<stock>盈利水平', '<stock>盈利状况', '<stock>盈利水平高吗', '<stock>的盈利能力在下滑吗', '分析一下<stock>的盈利能力', '看一下<stock>的盈利水平', '<stock>的偿债能力怎么样', '了解一下<stock>的负债情况', '分析一下<stock>的偿债能力', '<stock>的抗风险能力强吗', '<stock>的偿债能力强吗', '<stock>的现金流情况怎么样', '<stock>现金流', '<stock>的现金流稳定吗', '<stock>现金流水平怎么样', '<stock>有充裕的现金流吗', '<stock>还有现金流吗', '听说<stock>的资金链断了', '看一下<stock>的现金流', '<stock>近几年的现金流稳定吗', '<stock>的估值水平怎么样', '<stock>被低估了吗', '<stock>被高估了吗', '<stock>估值水平', '<stock>估值偏低吗', '看一下<stock>的估值情况', '<stock>的估值水平低了吗', '<stock>的估值还有上涨空间吗', '<stock>营收情况', '<stock>近三年的营收增长情况', '<stock>营业收入多少', '<stock>的营收增长率多少', '<stock>的营收在行业内排名如何', '<stock>的营收增速怎么样', '<stock>的营收增速下滑了吗', '分析一下<stock>的营收情况', '<stock>未来的营收增速大概多少', '<stock>的营收增长稳定吗', '<stock>每股收益', '<stock>近几年的EPS增速如何', '<stock>EPS多少', '<stock>每股收益的增长率多少', '<stock>的EPS在行业内排名如何', '<stock>的EPS增速怎么样', '<stock>的EPS有什么变化吗', '分析一下<stock>的每股收益情况', '帮忙看一下<stock>的每股收益', '查一下<stock>的EPS', '分析一下<stock>未来三年的盈利', '<stock>未来三年的盈利预测一下', '<stock>未来的盈利情况如何', '预测一下<stock>未来三年的盈利', '<stock>未来的盈利还有提升的空间吗', '<stock>未来的盈利会下降吗', '<stock>的盈利增速会下降吗', '<stock>的盈利水平能否继续保持', '<stock>的毛利率多少', '<stock>近几年的毛利增长情况', '<stock>毛利的行业排名', '<stock>的毛利水平如何', '<stock>的毛利水平是否有变动', '<stock>的毛利率高吗', '<stock>毛利率', '查一下<stock>的毛利率', '<stock>的净利率多少', '<stock>近几年的净利润增长情况', '<stock>净利率的行业排名', '<stock>的净利率水平如何', '<stock>的净利率水平是否有变动', '<stock>市净率多少', '<stock>市净率有什么变化吗', '<stock>市净率的行业排名如何', '<stock>市净率的排名情况', '<stock>市净率是高还是低', '看一下<stock>的市净率', '<stock>市净率', '<stock>市盈率多少', '<stock>市盈率有什么变化吗', '<stock>市盈率的行业排名如何', '<stock>市盈率的排名情况', '<stock>市盈率是高还是低', '看一下<stock>的市盈率', '<stock>市盈率', '<stock>市销率多少', '<stock>市销率有什么变化吗', '<stock>市销率的行业排名如何', '<stock>市销率的排名情况', '<stock>市销率是高还是低', '看一下<stock>的市销率', '<stock>市销率', '<stock><stock>公司前景能看好吗', '*ST黑豹<stock>这只股票有潜力吗', '<stock>怎么了业绩各方面不差为什么连光大都不如了', '<stock>一季度业绩不错股价近期还能站上十元吗', '<stock>基本面有没有问题怎样操作', '<stock>这两天一直跌！明天出中报近期看好吗', '<stock><stock>年的总资产收益率各是多少', '<stock><stock>市盈率能到130吗', '请问<stock>的估值合适买入吗、该股今日可以买入吗、', '<stock><stock>该股基本面上有什么特色产品服务有什么竞争优势', '请问<stock>的潜力怎么样', '<stock>未来能不能一直持股我想看他的潜力', '<stock><stock>前景如何', '请分析<stock>这票质地如何', '<stock>的技术面怎么样', '<stock>的技术面出问题了吗', '<stock>的技术面有变化吗', '帮忙看下<stock>的技术面', '<stock>的技术面好不好', '帮忙分析一下<stock>的技术面', '<stock>的技术面走坏了吗', '<stock>的技术面如何', '<stock>现在要卖掉吗', '分析一下<stock>的技术指标', '看下<stock>有哪些技术指标发出了买入信号', '看下<stock>有哪些技术指标发出了卖出信号', '<stock>出现了哪些买卖信号', '看下<stock>近期的技术指标情况', '<stock>最近表现如何', '<stock>的市场表现怎么样', '分析下<stock>近期的表现情况', '看下<stock>近期的市场表现', '看下<stock>近一周的涨跌情况', '<stock>最近一周的涨跌幅是多少', '<stock>最近一个月的涨跌幅是多少', '分析下<stock>的资金面', '看下<stock>近期的资金流向', '<stock>最近有资金流入吗', '<stock>最近有资金流出吗', '帮忙看下<stock>近期的资金面情况', '<stock>最近的资金流向是净流入状态吗', '<stock>最近的资金流向是净流出状态吗', '<stock>最近的资金流向如何', '<stock>有资金入场吗', '<stock>有资金出逃吗', '<stock>最近是资金净流入吗', '<stock>最近是资金净流出吗', '中技控股<stock>好像有资金流出', '问<stock><stock>本次调整的目标位什么价格可以买入', '请问<stock>阻力位和止盈位是多少', '请问<stock>什么时候能止跌起稳', '<stock>从技术分析的角度看什么时候可以买入', '请从技术面分析下<stock><stock>', '请问<stock>现是不是破位了呀！', '<stock>阻力位和支撑位在哪', '请老师详细说一下<stock>支撑和压力', '请教<stock>压力位和支撑位在哪！', '请问<stock>还有上升空间不阻力位', '中技控股<stock>好像有资金流出', '<stock>的支撑位在哪', '<stock>的阻力位在哪', '<stock>的支撑位是多少', '<stock>的阻力位是多少', '<stock>的压力位在哪', '<stock>的压力位是多少', '<stock>会涨到多少啊', '<stock>下周高点是多少回调后低位是多少', '<stock>能进场吗', '<stock>现在还可以追啊', '<stock>的主力出逃了吗', '<stock>的主力还在吗', '<stock>有主力入场吗', '<stock>现在还可以介入吗', '<stock>近期如何操作', '<stock>的买卖点在哪', '有没有<stock>的操作策略', '对<stock>有什么建议吗', '<stock>什么价位可以买', '<stock>现在要止盈吗', '请问<stock>一直跌要选择割肉吗', '<stock>现在应该止损吗', '<stock>现在建仓可以吗', '<stock>今天好像有资金抄底', '<stock>资金面如何', '<stock>的支撑位', '看下<stock>的阻力位', '<stock>每天挺活跃的还可以介入吗', '<stock>成本37.56从技术面帮我分析一下这个股还有接下来的操作思路谢谢', '<stock><stock>今天突破10日线此股后市该如何操作', '帮忙看看<stock>调整完毕了吗', '帮忙分析一下<stock>是冲高还是突破', '<stock>宝鼎科技什么时候是个底', '<stock>今天跳空高开收假阴实阳长上影线这种盘口怎么解读', '<stock><stock>一直在上影线内整理请问是否还有突破机会', '<stock><stock>K线分析', '<stock>的K线如何', '请问天虹商场近期会形成低价位底部双小底即W部不', '<stock>怎么操作.量缩的这么很', '<stock>今天从日线角度来看算是阶段低点了吗', '<stock>kdj是不是要上穿金叉', '看看<stock>是启动的迹象吗', '<stock>请问还能持有吗短线阻力位是多少啊谢谢', '<stock>短期压力位是多少', '<stock>的机构面怎么样', '<stock>的机构面出问题了吗', '<stock>的机构面有变化吗', '帮忙看下<stock>的机构面', '<stock>的机构认同度怎么样', '帮忙看一下<stock>的机构面', '<stock>的机构面如何', '那些机构怎么看<stock>', '机构对<stock>的看法如何', '机构对<stock>有什么看法', '<stock>的机构评级如何', '近期有机构买<stock>吗', '看下<stock>的最新评级', '近期有哪些机构给<stock>评级', '<stock>的机构评级情况', '有哪些机构推荐买<stock>', '有哪些机构推荐卖<stock>', '有哪些机构关注<stock>', '看下<stock>近期的调研情况', '近期有谁去<stock>做了调研', '近期有多少机构调研了<stock>', '近期有多少机构去<stock>调研', '<stock>的机构调研情况如何', '<stock>的机构调研情况怎么样', '<stock>的机构调研结果好吗', '<stock>的机构调研结果怎么样', '如何看待<stock>近期的机构调研情况', '<stock>有多少家机构持股', '<stock>机构持股比例多少', '<stock>机构持股比例有上升吗', '<stock>的机构持股情况', '查一下<stock>的机构持股', '有多少只基金持有<stock>', '有多少机构持有<stock>', '<stock>的基金持股比例有多高', '持有<stock>的机构多吗', '<stock>近期的机构持股情况有什么变化吗', '<stock>的机构评级有什么变化吗', '<stock>的投资评级调整了', '<stock>的投资评级近期有什么变动', '有多少家机构调整了<stock>的投资评级', '有多少家机构上调了<stock>的投资评级', '<stock>没什么利空咋下跌的这么厉害呢是主力在调仓吗', '有多少家机构下调了<stock>的投资评级', '<stock>的机构评级有下降吗', '<stock>的评级变动情况', '<stock>的评级变化情况', '<stock><stock>好像尾盘有资金呵护', '<stock><stock>主力是不是已经出了', '今天刚进的<stock>帮忙看看是否有主力资金进场', '<stock>短线能进吗', '<stock>短线可以买吗', '<stock>目前走势会继续下滑吗', '帮我看看<stock><stock>成本在20元附近短线企稳有上冲的可能吗', '老师请问<stock>这2个交易日都是高开低走我微利请问还能拿吗', '<stock>风险大吗要出货吗', '请问<stock>短期走势如何', '今天走高低收8元进仓下周怎么看', '<stock>中国天盈成本7.90短线有机会跑掉吗', '<stock>短线怎么操作', '请问<stock>今日是否可以买入', '请问<stock>0短时间会不会上涨', '<stock>今明几天如何把握', '<stock>短期如何操作', '<stock><stock>怎么看最近的走势可以继续持有么', '<stock>还会涨吗', '<stock>还会跌吗', '<stock>还能涨吗', '<stock>这几天是不是有下跌的风险了', '华策传媒<stock>股票短期预计如何走势', '麻烦看下<stock>明天可以介入吗后期走势怎么看', '<stock><stock>短线可以参与吗后期还会有新低吗', '<stock><stock>是怎么了不上又不下是回调的概率大还是上升的概率大呢', '<stock><stock>21的成本还会继续下跌吗会短期会反弹吗还能持股吗', '<stock>近期有上涨空间吗', '麻烦看下<stock>今天3.78买进的短线怎样多谢！', '<stock><stock>今天没出明天危险吗', '<stock>明早要卖出吗', '<stock><stock>这只票是否已经企稳本周该如何操作', '<stock>今天追高套着明天是留还是走', '<stock><stock>短线还会反弹吗', '<stock>今天早上开盘进的明天要出吗', '<stock>彩虹精化还可以继续持有吗短线何时卖出为妥', '<stock>..短线后市如何操作?', '<stock>这个股票短线可以买吗老师', '<stock><stock>今天是买入的时机吗是否还会上涨', '今天早上买入<stock>短线后市如何?', '<stock><stock>短线如何今进明出', '<stock>今天大跌后两天怎么做', '明后两天<stock><stock>有短线机会吗', '<stock>现在可以做短期吗', '<stock>短线咋样', '<stock>短期如何操作谢谢', '请分析下<stock>9.11元的成本四成仓位明日怎么操作', '请问<stock><stock>现在能短线介入吗', '<stock>今天6.58买入明天如何操作', '尾盘买入<stock>下个星期走势如何', '<stock>近期如何操作', '<stock>本月向上看多少19.8有机会没有', '<stock>中线能持有吗', '这只股的走势还能上涨吗什么地方是最高点谢谢', '请问<stock>后市如何操作支撑为是多少', '请问<stock>后市如何操作请从技术面分析分析', '<stock><stock>被套5个点是走是留怎么操作技术面分析下', '请问<stock>走势如何这股中线看好吗', '请问<stock>在31.5买进的后市能上升吗', '请问<stock>后市如何操作中线这股看好吗', '请问<stock>还有上升空间吗要不要减仓', '请问<stock>能否继续持有持中线可以吗', '请问<stock>会掉13以下吗', '请问<stock>走势如何还有冲高要求吗阻力多少', '<stock>近期能继续升高吗', '<stock>还是走回调走势吗', '<stock><stock>请问这个股票还能持有吗还有上涨的空间么成本在17左右', '请问<stock>是不是破位了亏3个多点要斩仓吗', '<stock>近期有涨的趋势吗', '<stock>可以中长线持有吗', '<stock>做中线的话可以拿到什么时候出', '<stock>怎么样还可以继续持有吗中线怎么样', '请老师帮忙看一下<stock>是否有企稳现象可以买入了', '请问<stock>跌到什么位置才能介入', '<stock>现在要卖出吗中线是否可以继续持有', '<stock>后续走势如何', '<stock>后期走势如何', '帮忙看下<stock>的后市如何', '帮忙分析一下<stock>的后续走势', '帮忙分析一下<stock>的近期走势', '分析一下<stock>后市', '<stock>什么时候可以启动', '<stock>是不是要启动了', '<stock>已经启动了吗', '<stock>是不是要走强了', '<stock>近期走势方向', '<stock>该怎么操作12.9的本是否需要止损中线拿着呢', '请问我持有的<stock><stock>可以中线持有吗', '<stock><stock>该股票如何对中长期来说十分有上涨可能', '<stock>能否中线持有还有需要注意一些什么', '<stock>调整几个月了后市怎么样啊', '<stock>请问未来一个月怎么操作', '<stock><stock>刚买的想做中长线是否可以', '<stock>能中线持股吗', '<stock>未来一段时间如何操作', '帮忙看下<stock>后期走势怎么样', '帮忙看看<stock>光大证卷吗持有亏损中下半年行情如何', '<stock>哪个价位可以介入中线持股可以吗', '<stock>这个股值不值的待有未两一个月内会涨到多少钱', '<stock>13的本中线走势如何', '<stock>近期调整到位没什么价位可做中长线', '请问<stock>可以中线继续持有吗', '<stock>成本39八成仓拿了半年了后面怎么操作', '<stock>中长期走势如何谢谢老师', '<stock>做中线可以吗', '<stock>近一周的走势会怎样', '请问<stock>做长线需要减仓吗', '麻烦看看<stock>怎么样长线行吗', '<stock>成本14.5准备中长线持有求问走势如何', '<stock>请问这个股如何值得长期持有吗', '<stock>可以长线持有吗', '<stock>拿长线可以吗', '<stock>长线可以进吗', '从长线角度来看<stock>还要拿着吗', '长期来看<stock>值得买吗', '茅台值得长期持有吗', '<stock><stock>刚买的想做长线是否可以', '<stock><stock>7.4的本继续持股该股今年有机会吗', '从长远的角度来看<stock>怎么样', '<stock><stock>前景如何可以进吗', '<stock>平时上班比较忙没啥时间盯盘现在缩量调整太磨人了我是不是可以一直拿着就行了', '<stock>长线能拿吗', '<stock>是不是要耐心等', '<stock><stock>可以长远投资吗前景怎么样', '今天又加仓格力格力是长线持股后市会如何', '<stock><stock>7.9元能建底仓长线操作吗', '<stock><stock>本年走势', '<stock>25的成本可以长期持有吗', '中粮屯河<stock>国企改革概念股后势如何能否长期持有', '<stock>后市如何操作适合做长线么', '我手上现在持有<stock><stock>成本价7.6.现在有13万股应该怎么操作可以长期持有么', '看看<stock>这票长线还有机会吗', '麻烦看看<stock>和<stock>怎么样长线行吗', '<stock>可以后长期持有吗', '<stock>有长期投资价值吗', '请问<stock>能长期握着吗', '<stock>我满仓能长期持有么', '<stock>目前深套21.5入的可否会解套能长期持有吗', '<stock><stock>25的成本可以长期持有吗', '今天<stock>突然大跌是怎么回事此股长线如何', '有没有<stock>借壳<stock>此事', '股票<stock>有特大利好可以买进吗', '<stock>的重大资产重组改变了置换变成购买是不是本质的改变明天复牌会有什么样的影响?', '长城电脑下周三18号<stock>合并是不是利空', '<stock>出了那么多的有利消息可是股价一直下跌', '<stock><stock>出了一些公告是利好还是利空', '<stock><stock>可否继续持有跟中国化工合并的可能性有多大', '<stock>为什么大跌帮忙看看', '<stock>今天涨停原因是有消息吗', '长城电脑复牌是利好吧', '帮我看一下<stock>是不是有什么利空啊为什么跌起来没完啊', '帮我看看<stock>啊什么时候可以补仓啊', '<stock>微套需要补仓吗', '请问<stock>要不要减仓今天刚进的', '请问<stock>可以补仓吗企稳没有', '请问<stock>已亏了4个点可以补仓吗', '请问<stock>请问这只股是什么情况天天跌又舍不得割肉', '请问<stock>的支撑位在什么价位什么价位补仓', '请问<stock>走势如何现在可否补仓', '请问<stock>是否可以买入想补仓', '请问<stock>后市如何操作现在已经套十三个点了(', '请问<stock>到底是控制仓位还是保持仓位', '请问<stock>能否继续加仓', '请问<stock>要不要减仓或者可以补仓吗', '<stock>有底仓什么价位可以加仓谢谢', '帮我看看<stock>持有还是出来微亏多谢', '请问<stock>是18.1入手的已经跌了很多了明天该清仓么', '麻烦您看看<stock>这个股票我已经被套20个点了下一步如何操作哪是割肉出来还是继续持有呀您分析还会反弹吗', '汉威电子占持仓一半成本27请问后市该怎么操作', '<stock>快11元的成本现在补仓适合吗', '<stock>6.6买的现在可以加仓吗', '<stock>被套了该减仓吗', '<stock>该减仓吗', '<stock>已套了20个点现在的位置可以补仓吗', '请问<stock>可以补仓吗我本钱11元套了好久如果补什么价位要卖', '帮我看看大东南4.5的本怎么操作可解套吗', '<stock>应该减仓吗', '<stock>应该加仓吗', '<stock>可以补仓吗', '现在可以重仓<stock>吗', '我在<stock>被套了怎么办啊', '我在<stock>被套了可以补仓吗', '<stock>把我套了我要割掉吗', '<stock>把我套了我要卖掉吗', '我被<stock>套住了现在可以加仓吗', '我被<stock>套住了现在要继续买吗', '<stock>复牌后6.7高位买入最近持续大跌深套如何操作?', '<stock>成本14.5准备中长线持有目前半仓求问走势如何大概什么位置可以加减仓', '请问<stock>可以补仓吗我本钱11元套了好久', '<stock>被套请问现在可以加仓了吗', '污水处理板块表现强势后市如何操作', '彩票板块还能介入吗', '医药股最近可以买吗', '证券板块怎么看', '镍概念现在能入吗', '煤炭股还可以跟吗', '软件类个股今日表现很好是什么原因后面能不能介入', '银行股的将来走势', '人工智能明天还能追吗', '现在还能追家电吗', '银行股现在可以介入吗', '券商票现在能买吗', '银行股可否买入', '一直有关注稀土概念现在可以买了吗', '最近军工不太亮眼现在可以布局吗', '风电行业前景如何', '煤炭板块今日普遍回吐后市怎么操作', '今天钢铁回调可以买进吗', '有色金属今天跌了这么多还会涨吗', '现在金属板块还有机会吗', '证券股最近走势怎么样', '想进医药板块哪个股票更好', '打算买医药股有哪些股票', '石墨烯板块有哪些股票', '我最近想买点军工布局哪个股票比较好呀', '请问看好券商板块该买哪只股啊', '军工有哪些股票可以关注', '我想买入投资石油类资产的股票请推荐一下', '有没有什么游戏板块的股票推荐', '世界杯来临足球概念股有哪些', '钢铁行业有哪些股票比较好', '最近短线做那个板块比较好', '目前这个行情有什么板块可以介入吗', '现在哪些板块比较有机会', '什么行业值得买啊', '有哪些行业可以买', '推荐几个值得关注的行业', '最近哪些行业比较好', '下周证券和东财的走势会受深港通利好影响吗', '今天石墨烯概念股有利好能否追!', '今天券商的创新大会了券商股能介入吗', '钢铁行业最近有什么利好吗', '白酒行业出利空了吗', '有色金属最近出什么消息了吗', '银行股是不是出现利好了', '明天可以买股票吗', '今天大盘可以补仓吗', '下午大盘怎么看', '今天大盘为什么跌的这么猛', '大盘会有风险吗', '沪指上周站上2050的半年线对后市有何指导意义', '下午股市怎么看', '既怕踏空又不敢追涨怎么办', '明天我能买入吗', '今天创业板怎么看', '最近行情怎么样', '今天大盘怎么样最近一直空仓', '今天什么政策面影响大盘飘绿', '对未来中国股市的大行情怎么看值得投资吗', '指数又破3200为啥总是上不去', '创业板为什么最近这么弱', '周五大盘怎么没涨是不是要调整', '对今天的盘面怎么看能不能抄底', '大盘能不能站上3200', '近期大盘开始回调预计调整到什么点位后开始反弹', '创业板今天可以入吗这周后面的走势估计如何', '创业板重返年线后市怎么走', '明后天大盘冲击3200概率有多大！', '短线创业板还能否继续反弹技术上看怎么操作', '今天大盘上涨这么看来昨天就是洗牌喽', '感觉创业板反弹不动了又要掉头下杀', '大盘今天涨这么多不知道明天是否会跌呢', '对于中国今年下半年的股市您怎么看', 'A股今年能看高至多少点', '大盘什么时候出现调整', '创业板明天能过1900点吗', '沪指先抑后扬是否意味着短期调整结束', '大盘最近有机会吗', '下周创业板和主板会有大机会吗若遇到调整可否入', '大盘是站上3300还是指数假突破', '创业板连续上涨三天突破1400点还能继续涨吗', '今天大盘跌的这么快接下来这几天是不是还要跌', '请问这一波行情能到多少点啊', '现在大盘能不能进入', '今天有什么热点新闻吗', '最近有没有发生什么热门事件', '今天的热点事件有哪些', '最近市场热点有哪些', '最近有哪些影响比较大的消息', '这几天有没有发生什么大事', '最近有什么重大事件', '最近哪些股票表现抢眼', '热门股票有哪些', '不知道买什么股好', '有什么股票值得关注啊', '最近有什么股票值得关注', '最近有哪些热门股', '哪些股票最近人气高', '最近有哪些人气股', '请问<stock>是否要换股', '追高全仓买了<stock>您看这支股票还有守着的必要吗我想割肉出来换换其他股票', '<stock>跌了我想换个股票', '我在<stock>被套了我想换个股票', '<stock>是否要卖掉换股', '有没有什么股票可以推荐的啊', '可以给我推荐几只股票吗', '分享几只牛股给我吧', '推荐个股票给我', '有什么股票值得买啊', '推荐一个股票呗老师', '请问<stock>是否有高送股概念谢谢！', '请问<stock>卖1档大单在出买1档挂有大单卖单卖完上冲会又直线下降请问是庒对敲提升人气还是出货后续咋操作随庄起舞持仓还减仓', '请问<stock>这股啥时上市', '请问<stock>只有卖的没买的真是贻笑大方', '请问<stock><stock>预计什么时候会复牌复牌后走势如何', '请问<stock>这股会倒闭吗', '请问<stock>现在成不动产了', '请问<stock>股票做不好为什么还要做呢停一次牌又一次不是害人吗！', '请问<stock>如何看出重组失败可能性低哪几方面', '请问<stock>刚完成资金招募跟多家企业达成战略合作复市后为什么没涨反跌', '请问<stock>一直公告各种中标利好为什么不旦不涨反而一直跌呢！', '请问<stock><stock>怎么会这么差劲大盘涨的时候不涨大盘跌的时候一次不拉', '请问<stock>的封单量怎么这么小', '请问<stock>为什么近期的大宗交易和龙虎榜单资料不及时更新是疏忽还是有意为之?', '请各位股民朋友尽早远离中国股市', '请问<stock>订桌不错业绩大可改善今天有追落后情况吗?', '请问<stock>复牌怎么走', '请问<stock>明天复牌是利好吗', '请问<stock>之前几天是洗盘吗', '请问<stock>复牌后能涨停几天', '请问<stock>说是可以索赔索赔会得到什么结果', '请问<stock><stock>不是在赢利吗又经过了重组怎么这么垃圾', '请问<stock>今天走势鬼异啥情况?庄出货?', '请问<stock>今天复牌改名了', '请问<stock>开通深港通对其影响', '请问<stock>财管计划出货没提示', '请问<stock>一直下跌怎么还有人买晕了', '请问<stock>限售的小非都有那些', '<stock><stock>今天又暴跌了从没有见过这种垃圾', '<stock>下周会有什么情况', '<stock>是不是被庄家抛弃了', '<stock>集合竞价时连续三天出现几分钟涨停但开盘后反而跌的凶怎么回事', '谈谈十九大对未来市场的影响！', '<stock><stock>会不会一泻千里', '你好呀', '有人吗', '早上好', '在', '奇闻趣事', '不理你了', '不喜欢你了', '我饿了', '我要吃零食', '辣条真好吃', '下午茶呢', '娱乐时间到了开始游戏了', '不陪你聊天了去打游戏了', '你的学历不高吧', '1+1=', '你最喜欢什么语言', '心情还可以', '哪里会下雪啊', '好的', '谢谢', '我不高兴了！！', '我生气了！！', '我想打人！！', '我要走了', '不喜欢你', '天气很好不错', '好久没有晒太阳了', '今天好热啊', '很好啊', '不错嘛', '你也有压力啊', '帮我上班吧', '不想上班啊', '不想工作了', '你上班都做什么', '不是这样的', '但是', '什么时候可以下班啊', '终于下班了！！哈哈~~', '你都是在家工作吗', '这样啊…', '我是你爸爸', '<stock>会有感情吗', '来句绕口令啊', '你唱首歌呗', '不好听', '还不错', '一点都不好玩', '喜欢自己的工作吗', '我什么都不会！！', '你想多了！', '你真逗', '你平常都干什么啊', '不想起床肿么办', '客服不在！！', '我想找个女朋友', '做我女朋友吧', '你是不是把我拉黑了！', '不可以把我删了！！', '我不认识你', '你妈喊你回家吃饭呢', '干什么', '哈哈有错别字哦', '哇哈哈', '你四不四傻', '爱你哦', '能不能上点心啊', '产品质量不好', '我已经试过好多次了', '有毛病吗', '等你哦', 'OK', '聊天吧', '今天星期几', '终于周末了', '好好做', '想不想我啊', '要不要去看电影', '不可以的', '基本面分析', '机构面分析', '诊断结果', '个股仓位', '中期走势', '短期走势', '技术面分析', '长期走势', 'ai换股', '消息面分析', '条件选股', '行业个股列表', '行业诊断结果', '热门个股', '市场情绪', '行业消息面', '大盘走势', '行业建议', '热点事件']Fri, 20 Jul 2018 08:49:43 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 08:49:43 pipeline.py[line:165] INFO ML 意图识别完成{'SVM': array(['诊断结果', '基本面分析', '短期走势', '短期走势', '消息面分析', '个股仓位', 'other', 'other',
+       'other'], dtype='<U6')}
+
+dict_keys(['现在大盘能不能进入', '请问300445今天走势鬼异，啥情况?庄出货?', '万科的净利率水平如何？', '万科近三年的营收增长情况。', '不可以的', '万科市销率是高还是低？', '看看方大炭素这票长线还有机会吗？', '$*ST黑豹(sh600760)$这只股票有潜力吗。', '万科市盈率的排名情况。', '今天大盘可以补仓吗', '000001已经启动了吗', '万科现金流', '万科的技术面如何？', '601001近期调整到位没？什么价位可做中长线？', '近期有哪些机构给万科评级？', '万科市销率', '天海防务25的成本可以长期持有吗？', '万科市销率多少？', '$中兴通讯(sz000063)$会不会一泻千里', '彩票板块还能介入吗？', '今天大盘为什么跌的这么猛？', '万科的盈利能力在下滑吗？', '000806是否要卖掉换股', '北方导航近期有上涨空间吗？', '很好啊', '万科的营收增长率多少？', '002843怎么样？', '请问002202财管计划出货没提示', '请问002282这股啥时上市', '看一下万科的市净率。', '万科可以补仓吗？', '请问600502如何看出重组失败可能性低？哪几方面？', '煤炭板块今日普遍回吐，后市怎么操作？', '你好呀', '华北制药6.6买的，现在可以加仓吗？', '万科的估值水平低了吗？', '你四不四傻？', '000009中国宝安前景如何，可以进吗？', '请问603660还有上升空间吗？要不要减仓。', '$超讯通信(sh603322)$今天突破10日线，此股后市该如何操作', '有色金属最近出什么消息了吗？', '万科的评级变动情况', '大盘最近有机会吗', '请问下慈文传媒这个股票如何', '万科的主力出逃了吗？', '万科的市场表现怎么样？', '万科的毛利率高吗？', '002459集合竞价时连续三天出现几分钟涨停，但开盘后反而跌的凶，怎么回事', '请问002202到底是控制仓位还是保持仓位？', '茅台值得长期持有吗？', '创业板为什么最近这么弱', '请问我持有的索菱股份002766可以中线持有吗？', '万科现在建仓可以吗？', '万科的EPS有什么变化吗？', '万科近几年的EPS增速如何？', '爱你哦', '今天走高低收，8元进仓，下周怎么看', '请问600570估值偏高吗?', '万科市盈率的行业排名如何？', '煤炭股还可以跟吗', '长安汽车短期如何操作，谢谢', '万科的基金持股比例有多高？', '万科的净利率水平是否有变动？', '中期走势', '请问002431订桌不错业绩大可改善今天有追落后情况吗?', '请问600239云南城投怎么会这么差劲？大盘涨的时候不涨，大盘跌的时候一次不拉', '请问002331短期走势如何', '002450康得新短线如何，今进明出', '万科跌了，我想换个股票。', '不想工作了', '尾盘买入600156，下个星期走势如何？', '哪些股票最近人气高', '我想买入投资石油类资产的股票。请推荐一下。', '消息面分析', '下午股市怎么看？', '有哪些机构推荐卖万科？', '请老师帮忙看一下002514是否有企稳现象，可以买入了？', '券商票现在能买吗？', '心情还可以', '我想找个女朋友', '近期有谁去万科做了调研？', '请问002280联络互动不是在赢利吗？又经过了重组，怎么这么垃圾？', '双塔食品微套，需要补仓吗', '万科的现金流情况怎么样？', '万科的营收在行业内排名如何？', '002465可以后长期持有吗？', '想进医药板块，哪个股票更好？', '帮忙看下万科近期的资金面情况。', '方大炭素的K线如何', '万科的抗风险能力强吗？', '请问002102什么时候能止跌起稳', '风电行业前景如何？', '请问000725的潜力怎么样？', '分析一下万科未来三年的盈利。', '帮我看看伊力特600197，成本在20元附近，短线企稳有上冲的可能吗。', '$华灿光电(sz300323)$帮忙分析下这家公司', '今天森源电气突然大跌是怎么回事，此股长线如何', '查一下万科的EPS。', '请从技术面分析下怡亚通002183', '最近有哪些热门股', '002454，成本14.5，准备中长线持有，求问走势如何', '分析一下万科的营收情况。', '分析一下万科的盈利能力。', '大盘是站上3300还是指数假突破？', '万家文化这票老师怎么看，现在是观望还是可以进场', '万科营收情况', '帮我上班吧', '持有万科的机构多吗？', '000917被套，请问现在可以加仓了吗', '东风汽车出了那么多的有利消息可是股价一直下跌', '帮忙看一下万科的机构面。', '有哪些行业可以买？', '中兴国际这票怎么样', '000651目前走势会继续下滑吗', '万科有充裕的现金流吗？', '看下方大炭素的阻力位', '请问600491一直公告各种中标利好，为什么不旦不涨反而一直跌呢！', '万科净利率', '请问600754在31.5买进的，后市能上升吗？', '万科近几年的毛利增长情况。', '万科的压力位是多少？', '我什么都不会！！', '有多少家机构上调了万科的投资评级？', '万科盈利水平高吗？', '不喜欢你了', '万科有多少家机构持股？', '最近哪些股票表现抢眼', '一直有关注稀土概念现在可以买了吗', '请问002115后市如何操作？中线这股看好吗', '有什么股票值得买啊？', '污水处理板块表现强势，后市如何操作？', '方大炭素的支撑位', '万科的毛利水平如何？', '帮忙分析一下万科的后续走势。', '哈哈，有错别字哦', 'OK', '福建水泥今天跳空高开收假阴实阳长上影线，这种盘口怎么解读？', '看下万科近期的调研情况。', '请问300526，股票做不好为什么还要做呢？停一次牌又一次，不是害人吗？！', '002397什么时候可以启动', '000022已套了20个点，现在的位置可以补仓吗', '600868梅雁吉祥可否持有', '看下万科有哪些技术指标发出了买入信号', '002769能否中线持有？还有需要注意一些什么？', '600373今明几天如何把握？', '万科把我套了，我要割掉吗？', '请帮忙看一下三推股份。', '$中油资本(sz000617)$前景如何？', '明后天大盘冲击3200概率有多大！', '不喜欢你', '万科后期走势如何？', '帮忙看下万科的机构面。', '有多少家机构下调了万科的投资评级？', '请问600031今日是否可以买入', '万科近几年的净利润增长情况。', '万科最近表现如何？', '万科的主力还在吗？', '有没有什么游戏板块的股票推荐', '600158这几天是不是有下跌的风险了？', '万科的机构评级有下降吗？', '万科市销率的排名情况。', '我想看下万科的基本面情况。', '帮我看下002843', '请问000488还有上升空间不？阻力位？', '万科最近的资金流向是净流出状态吗？', '双塔食品kdj是不是要上穿金叉', '万科的成长性好吗？', '分析一下万科的偿债能力。', '万科近期的机构持股情况有什么变化吗？', '请问这一波行情能到多少点啊。', '你最喜欢什么语言？', '有色金属今天跌了这么多还会涨吗？', '创业板重返年线，后市怎么走？', '中国铁建未来能不能一直持股？我想看他的潜力', '短期走势', '不想上班啊', '600877是不是要耐心等？', '万科还会跌吗？', '机构面分析', '天津港如何，有介入价值吗', '万科最近的资金流向是净流入状态吗？', '现在金属板块还有机会吗', '002256彩虹精化还可以继续持有吗？短线何时卖出为妥？', '万科每股收益', '谢谢', '万科的机构评级如何？', '600249从技术分析的角度看，什么时候可以买入？', '行业建议', '北新建材000786今天没出明天危险吗', '$越秀金控(sz000987)$出了一些公告，是利好还是利空？', '聊天吧', '万科可以长线持有吗？', '万科EPS多少？', '今天刚进的600497，帮忙看看是否有主力资金进场', '喜欢自己的工作吗？', '看看600703是启动的迹象吗', '听说万科的资金链断了？', '白酒行业出利空了吗？', '老师，000043这股怎么操作？谢谢', '万科的阻力位在哪？', '请问300445卖1档大单在出，买1档挂有大单，卖单卖完上冲会又直线下降，请问是庒对敲提升人气还是出货，后续咋操作，随庄起舞持仓还减仓', '看下万科近一周的涨跌情况。', '条件选股', '辣条真好吃', '中国国航现在要卖出吗，中线是否可以继续持有？', '万科现在还可以追啊？', '今天什么政策面影响大盘飘绿', '钢铁行业有哪些股票比较好', '$陕西金叶(sz000812)$这只票是否已经企稳？本周该如何操作？', '万科长线可以进吗？', '麻烦看看600512', '万科市销率有什么变化吗？', '分析一下万科后市。', '万科未来的盈利情况如何？', '万科的机构认同度怎么样？', '请问600596之前几天是洗盘吗？', '万科盈利水平', '等你哦', '600487做中线的话可以拿到什么时候出？', '600775近期走势方向', '万科现金流水平怎么样？', '分析一下万科的技术指标', '看下万科近期的市场表现。', '万科的机构调研结果好吗？', '请看看君正集团', '现在还能追家电吗', '万科短线能进吗？', '万科估值水平', '我不认识你', '最近行情怎么样？', '万科这个公司有成长性吗？', '看下万科有哪些技术指标发出了卖出信号', '请问方大炭素怎么看？', '$司尔特(sz002538)$今天又暴跌了，从没有见过这种垃圾', '600649是什么情况？', '追高全仓买了中国中车，您看这支股票还有守着的必要吗？我想割肉出来换换其他股票', '万科应该减仓吗？', '万科毛利率', '600775下周高点是多少？回调后低位是多少？', '请问002562明天复牌是利好吗', '000880请教下怎么样？略有盈利', '这只股的走势还能上涨吗，什么地方是最高点？谢谢', '请问天虹商场近期会形成低价位底部双小底即W部不', '请问000553跌到什么位置才能介入', '$冰川网络(sz300533)$市盈率能到130吗', '来句绕口令啊', '万科把我套了，我要卖掉吗？', '万科毛利的行业排名', '干什么', '哇哈哈', '对万科有什么建议吗？', '今天大盘上涨，这么看来昨天就是洗牌喽？', '预测一下万科未来三年的盈利。', '银行股可否买入', '天山股份000877是怎么了，不上又不下，是回调的概率大，还是上升的概率大呢', '万科市盈率有什么变化吗？', '恒生电子能买不？', '看下万科近期的技术指标情况', '$圣阳股份(sz002580)$一直在上影线内整理，请问是否还有突破机会', '不错嘛', '$中集集团(sz000039)$刚买的想做长线，是否可以？', '中体产业可以中长线持有吗？', '万科被低估了吗？', '万科净利率的行业排名', '打算买医药股，有哪些股票？', '创业板连续上涨三天，突破1400点，还能继续涨吗？', '$东方通信(sh600776)$K线分析', '万科的支撑位是多少？', '不好听', '金科股份复牌后6.7高位买入，最近持续大跌，深套。如何操作?', '万科的评级变化情况', '明天我能买入吗', '中信证券明早要卖出吗', '002404怎么样？还可以继续持有吗？中线怎么样？', '002454，成本14.5，准备中长线持有，目前半仓，求问走势如何，大概什么位置可以加减仓？', '英联股份目前进好吗?', '请问600392是18.1入手的，已经跌了很多了，明天该清仓么', '你平常都干什么啊', '明后两天600606绿地控股有短线机会吗？', '002573下周会有什么情况？', '万科还会涨吗？', '万科的估值还有上涨空间吗？', '上海家化基本面有没有问题？怎样操作？', '万科市净率多少？', '从长远的角度来看，万科怎么样？', '不可以把我删了！！', '浙江震元中线能持有吗？', '大盘什么时候出现调整？', '$中化国际(sh600500)$可否继续持有？跟中国化工合并的可能性有多大', '600415小商品城，7.9元能建底仓长线操作吗', '军工有哪些股票可以关注？', '医药股最近可以买吗？', '通达股份如何', '请问600360可以补仓吗，我本钱11元，套了好久', '做我女朋友吧', '我不高兴了！！', '有多少家机构调整了万科的投资评级', '002231调整几个月了，后市怎么样啊？', '万科的现金流稳定吗？', '什么行业值得买啊？', '请问002098002098预计什么时候会复牌？复牌后走势如何？', '下午茶呢', '今天大盘跌的这么快？接下来这几天是不是还要跌？', '请问002115走势如何？这股中线看好吗', '技术面分析', '万科的技术面走坏了吗？', '$华闻传媒(sz000793)$该股票如何？对中长期来说十分有上涨可能', '我是你爸爸', '万科的成长性怎么样？', '请问600926限售的小非都有那些', '万科的盈利增速会下降吗？', '隧道股份怎么样？', '300044有底仓什么价位可以加仓谢谢', '对于中国今年下半年的股市，您怎么看？', '请帮助分析一下该股的基本面，谢谢！(002821)', '$中集集团(sz000039)$刚买的想做中长线，是否可以？', '谈谈十九大对未来市场的影响！', '信达地产怎么样？', '我最近想买点军工布局，哪个股票比较好呀', '洛阳钼业近一周的走势会怎样？', '万科最近有资金流出吗？', '汇金股份300368被套5个点，是走是留？怎么操作，技术面分析下', '请问600608能否继续加仓', '基本面分析', '能不能上点心啊', '行业消息面', '有没有万达商业借壳四川金顶此事？', '大盘能不能站上3200？', '601390现在可以做短期吗？', '万科未来三年的盈利预测一下。', '万科最近是资金净流出吗？', '万科机构持股比例有上升吗？', '000598我满仓能长期持有么', '请问601908走势如何？还有冲高要求吗？阻力多少？', '万科被高估了吗？', '300357如何操作？', '000417，请问还能持有吗，短线阻力位是多少啊，谢谢', '行业诊断结果', '万科的毛利率多少？', 'st春天怎么样', '指数又破3200，为啥总是上不去', '请问603028一直跌，要选择割肉吗？', '万科有主力入场吗？', '万科市净率有什么变化吗？', '帮忙看看神奇制药。', '证券股最近走势怎么样', '请问002148的估值合适买入吗、该股今日可以买入吗、', '帮看下通达股份002560', '万科现在要止盈吗？', '帮忙看下万科的成长性。', '请问300510复牌后能涨停几天？', '万科有资金入场吗？', '最近有没有发生什么热门事件', '股票603843有特大利好可以买进吗', '请问000034开通深港通对其影响', '万科应该加仓吗？', '浙江震元短线怎么操作', '有人吗', '请问300056后市如何操作现在已经套十三个点了(', '万科的偿债能力强吗？', '万科的机构评级情况', '张家港行002839，21的成本，还会继续下跌吗？会短期会反弹吗？还能持股吗？', '短线创业板，还能否继续反弹。技术上看怎么操作', '帮忙看下300226后期走势怎么样？', '明天可以买股票吗？', '万科最近一个月的涨跌幅是多少？', '万科市净率的行业排名如何？', '如何看待大名城600094', '有多少只基金持有万科？', '万科未来的盈利还有提升的空间吗？', '002407哪个价位可以介入？中线持股可以吗？', '麻烦看下山鹰纸业，今天3.78买进的，短线怎样，多谢！', '看一下万科的市盈率。', '帮忙分析一下万科的技术面。', '万科好不好？', '万科的技术面好不好？', '帮忙看下万科的基本面。', '600050风险大吗？要出货吗', '$康芝药业(sz300086)$好像尾盘有资金呵护？', '请问看好券商板块该买哪只股啊？', '分析下万科的资金面。', '万科未来的营收增速大概多少？', '万科市净率是高还是低？', '天气很好，不错', 'ai换股', '我生气了！！', '万科的诊断结果', '诊断结果', '请问002035做长线，需要减仓吗？', '最近市场热点有哪些', '诊断一下万科', '万科是不是要走强了？', '长期来看，方大炭素值得买吗？', '个股仓位', '那些机构怎么看万科？', '600887每天挺活跃的，还可以介入吗', '你想多了！', '热门个股', '600317短期如何操作？', '300246成本37.56从技术面帮我分析一下这个股，还有接下来的操作思路，谢谢', '还不错', '600072阻力位和支撑位在哪', '万科的机构调研情况如何？', '万科的支撑位在哪？', '000897今天6.58买入，明天如何操作？', '我想打人！！', '今天钢铁回调，可以买进吗？', '万科的营收增速怎么样？', '最近有什么股票值得关注？', '推荐几个值得关注的行业。', '方大炭素该减仓吗', '分析下万科近期的表现情况。', '$爱普股份(sh603020)$该股基本面上有什么特色，产品服务有什么竞争优势', '万科市净率的排名情况。', '请问600382是否可以买入，想补仓', '好的', '万科什么价位可以买？', '万科的盈利水平能否继续保持？', '帮忙分析一下万科的基本面。', '帮忙看下万科的技术面。', '你是不是把我拉黑了！', '最近有什么重大事件', '请教银江股份压力位和支撑位在哪！', '万科未来的盈利会下降吗？', '上汽集团131415年的总资产收益率各是多少', '近期有机构买方大炭素吗', '万科估值偏低吗？', '603299目前深套，21.5入的，可否会解套能长期持有吗', '万科的机构调研结果怎么样？', '西藏天路是不是要启动了', '首钢股份今天大跌，后两天怎么做', '万科最近一周的涨跌幅是多少？', '创业板明天能过1900点吗？', '可以给我推荐几只股票吗？', '了解一下万科的负债情况。', '查一下万科的净利率。', '看一下万科的盈利水平。', '请问300384可以中线继续持有吗？', '麻烦您看看海峡环保这个股票，我已经被套20个点了，下一步如何操作哪，是割肉出来还是继续持有呀，您分析还会反弹吗？', '软件类个股今日表现很好，是什么原因，后面能不能介入？', '机器人会有感情吗？', '万科的机构评级有什么变化吗？', '想不想我啊？', '国投电力能进场吗？', '万科的基本面出问题了吗？', '方大炭素资金面如何', '帮我看看600228啊，什么时候可以补仓啊', '你的学历不高吧', '请问600360可以补仓吗，我本钱11元，套了好久，如果补什么价位要卖', '万科的毛利水平是否有变动？', '万科的阻力位是多少？', '请问002786现是不是破位了呀！', '机构对万科的看法如何？', '600623是不是被庄家抛弃了。', '万科的估值水平怎么样？', '最近军工不太亮眼，现在可以布局吗？', '钢铁行业最近有什么利好吗？', '近期有多少机构调研了万科？', '易尚展示今天从日线角度来看，算是阶段低点了吗？', '行业个股列表', '万科现在应该止损吗？', '方大炭素被套了，该减仓吗', '万科还能涨吗？', '你上班都做什么', '请问000977现在成不动产了', '从长线角度来看，万科A还要拿着吗？', '万科的净利率多少？', '看一下万科的市销率。', '查一下万科的毛利率。', '今天好热啊', '帮忙看看601788光大证卷吗？持有亏损中，下半年行情如何？', '最近有哪些影响比较大的消息', '$中技控股(sh600634)$好像有资金流出', '我被万科套住了，现在可以加仓吗？', '既怕踏空又不敢追涨怎么办', '终于周末了', '中国铁建未来一段时间如何操作？', '002057还是走回调走势吗', '万科近期如何操作？', '请问002102是否要换股', '我饿了', '请问002450后市如何操作？请从技术面分析分析', '方大炭素今天好像有资金抄底', '这样啊…', '万科有资金出逃吗？', '沪指先抑后扬，是否意味着短期调整结束？', '要不要去看电影？', '000540快11元的成本，现在补仓适合吗', '000786，北新建材短线还会反弹吗？', '我被万科套住了，现在要继续买吗？', '现在可以重仓万科吗？', '你真逗', '万科市净率', '对今天的盘面怎么看？能不能抄底？', '在', '600207的重大资产重组改变了，置换变成购买是不是本质的改变，明天复牌会有什么样的影响?', '万科的诊断结论', '中粮屯河(sh600737)，国企改革概念股，后势如何，能否长期持有。', '我在万科被套了，我想换个股票。', '600112天成控股今天是买入的时机吗？是否还会上涨？', '麻烦看下华映科技明天可以介入吗？后期走势怎么看？', '周五大盘怎么没涨，是不是要调整', '有多少机构持有万科？', '请问000425刚完成资金招募，跟多家企业达成战略合作，复市后为什么没涨反跌？', '分析一下万科的每股收益情况。', '万科机构持股比例多少？', '石墨烯板块有哪些股票？', '000554觉得怎么样', '这几天有没有发生什么大事', '但是', '002632，13的本，中线走势如何？', '合肥城建中长期走势如何？谢谢老师。', '下午大盘怎么看', '有哪些机构推荐买万科？', '请问002446要不要减仓，或者可以补仓吗', '万科的机构面怎么样？', '不知道买什么股好', '000917电广传媒，怎么看最近的走势？可以继续持有么？', '1+1=？', '西部建设今天涨停原因是有消息吗？', '万科现在要卖掉吗？', '请问002331阻力位和止盈位是多少？', '帮忙看下万科的后市如何？', '帮我看看特力A，持有还是出来，微亏，多谢', '请问002735要不要减仓，今天刚进的', '推荐一个股票呗，老师', '长城电脑复牌是利好吧，', '万科最近的资金流向如何？', '万科的EPS在行业内排名如何？', '请问000514渝开发现在能短线介入吗？', '道明光学该怎么操作？12.9的本，是否需要止损。中线拿着呢？', '热点事件', '万科的个股诊断', '热门股票有哪些', '怎么看000800，适合买进吗？', '麻烦看看300375怎么样？长线行吗？', '002657成本39，八成仓，拿了半年了，后面怎么操作', '000987这两天一直跌！明天出中报近期看好吗？', '$中国中铁(sh601390)本年走势', '现在哪些板块比较有机会？', '我要走了', '下周创业板和主板会有大机会吗？若遇到调整可否入？', '推荐个股票给我。', '帮忙看看西部创业，昨天买进去，今天又加仓了，老师怎么看？', '万科出现了哪些买卖信号', '近期有多少机构去万科调研？', '600176这个股值不值的待有，未两一个月内会涨到多少钱？', '请问300165复牌怎么走', '请问002701能否继续持有，持中线可以吗', '万科的机构面如何？', '今天又加仓格力，格力是长线持股，后市会如何？', '不是这样的', '江苏银行近期能继续升高吗', '看一下万科的现金流。', '万科市盈率多少？', '请问6003100短时间会不会上涨', '有哪些机构关注万科？', '万科的偿债能力怎么样？', '请问002340的支撑位在什么价位？什么价位补仓？', '请问000058请问这只股是什么情况，天天跌，又舍不得割肉', 'A股今年能看高至多少点？', '如何看待万科的成长性。', '600633怎么操作.量缩的这么很', '老师，请问完美世界这2个交易日都是高开低走，我微利，请问还能拿吗', '创业板今天可以入吗？这周后面的走势估计如何？', '银行股现在可以介入吗', '请问000338为什么近期的大宗交易和龙虎榜单资料不及时更新，是疏忽还是有意为之?', '002460这股如何？', '不陪你聊天了，去打游戏了', '娱乐时间到了，开始游戏了', '300070碧水源，公司前景能看好吗？', '帮忙看看和而泰调整完毕了吗', '请问600868可以补仓吗，企稳没有', '不理你了', '万科市销率的行业排名如何？', '请问002546是不是破位了，亏3个多点，要斩仓吗', '近期大盘开始回调，预计调整到什么点位后开始反弹。', '我已经试过好多次了', '你唱首歌呗', '万科盈利水平怎么样？', '终于下班了！！哈哈~~', '市场情绪', '我在万科被套了，可以补仓吗？', '东北电气后市如何操作，适合做长线么', '请问600877已亏了4个点，可以补仓吗', '万科的EPS增速怎么样？', '大盘会有风险吗', '我在万科被套了，怎么办啊？', '请问002821基本面如何', '问000566海南海药本次调整的目标位？什么价格可以买入？', '万科的基本面变差了吗？', '万科市盈率', '帮忙介绍一下该股，$星网宇达(sz002829)$', '万科每股收益的增长率多少？', '万科的技术面有变化吗？', '华策传媒300133股票短期预计如何走势？', '万科的技术面出问题了吗？', '长期走势', '世界杯来临，足球概念股有哪些？', '湖南投资一季度业绩不错，股价近期还能站上十元吗？', '产品质量不好', '万科后续走势如何？', '$国电电力(sh600795)$可以长远投资吗，前景怎么样', '机构对万科有什么看法？', '人工智能明天还能追吗？', '万科的技术面怎么样？', '万科最近有资金流入吗？', '请问603727的封单量怎么这么小', '002552宝鼎科技什么时候是个底？', '今天星期几？', '帮忙看一下万科的每股收益。', '看一下万科的估值情况', '002183，请问这个股如何，值得长期持有吗', '000153短线咋样', '有毛病吗？', '银行股的将来走势', '有没有万科的操作策略', '最近短线做那个板块比较好？', '证券板块怎么看？', '万科的投资评级近期有什么变动？', '万科的基本面有变化吗？', '客服不在！！', '万科的机构面出问题了吗？', '不想起床肿么办？？', '万科现在还可以介入吗？', '$国投电力(sh600886)$7.4的本，继续持股？该股今年有机会吗？', '600376，没什么利空，咋下跌的这么厉害呢？是主力在调仓吗？', '万科的机构持股情况。', '大盘走势', '600775本月向上看多少？19.8有机会没有', '镍概念现在能入吗', '今天创业板怎么看', '好久没有晒太阳了', '600775近期如何操作', '最近哪些行业比较好？', '大连友谊长线能拿吗？', '请问002645是否有高送股概念。谢谢！', '万科拿长线可以吗？', '奇闻趣事', '今天石墨烯概念股有利好。能否追!', '今天有什么热点新闻吗', '请问600998只有卖的，没买的，真是贻笑大方', '顺发恒业近期有涨的趋势吗？', '分享几只牛股给我吧。', '万科还有现金流吗？', '600775会涨到多少啊？', '最近有哪些人气股', '万科盈利状况', '002562今天早上开盘进的，明天要出吗？', '002539云图控股，可以买吗？谢谢！', '查一下万科的机构持股。', '万科近几年的现金流稳定吗？', '请分析方大炭素这票质地如何？', '长城电脑，下周三18号长城信息合并，是不是利空？', '请各位股民朋友尽早远离中国股市', '请问600498后市如何操作？支撑为是多少', '今天大盘怎么样，最近一直空仓', '双塔食品有长期投资价值吗', '我要吃零食', '万科市盈率是高还是低？', '600074能中线持股吗？', '启明星辰平时上班比较忙没啥时间盯盘现在缩量调整太磨人了我是不是可以一直拿着就行了', '万科的压力位在哪？', '万科营业收入多少？', '万科的营收增速下滑了吗？', '$新赛股份(sh600540)$主力是不是已经出了？', '请问000511说是可以索赔，索赔会得到什么结果？', '000977，请问未来一个月怎么操作？', '002128做中线可以吗？', '600115..短线后市如何操作?', '帮忙分析一下万科的近期走势。', '万科的成长性如何？', '000035中国天盈成本7.90短线有机会跑掉吗？', '帮我看看大东南，4.5的本怎么操作可解套吗？', '请问600381今天复牌改名了', '万科的基本面如何？', '万科短线可以买吗？', '万科的基本面怎么样？', '请老师详细说一下云天化支撑和压力', '300258今天追高套着，明天是留还是走，', '云天化短期压力位是多少', '麻烦看下西部建设', '$哈尔斯(sz002615)$请问这个股票还能持有吗，还有上涨的空间么，成本在17左右', '感觉创业板反弹不动了，又要掉头下杀。', '看下方大炭素的最新评级', '300008天海防务25的成本可以长期持有吗？', '有什么股票值得关注啊？', '今天券商的创新大会了，券商股能介入吗', '万科的机构面有变化吗？', '000425为什么大跌，帮忙看看', '一点都不好玩', '万科的投资评级调整了？', '看下万科近期的资金流向。', '000776怎么了业绩各方面不差为什么连光大都不如了', '好好做', '你都是在家工作吗？', '麻烦看看富邦股份和300375怎么样？长线行吗？', '请问300207会掉13以下吗？', '今天早上买入600029短线后市如何?', '下周证券和东财的走势会受深港通利好影响吗？', '银行股是不是出现利好了。', '万科的基本面好不好？', '603699怎么样', '请问600917一直下跌怎么还有人买晕了', '万科的营收增长稳定吗？', '万科的机构调研情况怎么样？', '帮我看一下002416，是不是有什么利空啊，为什么跌起来没完啊', '早上好', '汉威电子占持仓一半，成本27，请问后市该怎么操作？', '请问600020走势如何？现在可否补仓？', '我手上现在持有首创股份600008成本价7.6.现在有13万股，应该怎么操作可以长期持有么。', '你妈喊你回家吃饭呢', '请问002239这股会倒闭吗？', '你也有压力啊', '万科最近是资金净流入吗？', '沪指上周站上2050的半年线，对后市有何指导意义？', '哪里会下雪啊', '请问许继电气能长期握着吗？', '什么时候可以下班啊', '如何看待万科近期的机构调研情况？', '目前这个行情有什么板块可以介入吗？', '今天的热点事件有哪些', '对未来中国股市的大行情怎么看？值得投资吗？', '有没有什么股票可以推荐的啊？', '大盘今天涨这么多，不知道明天是否会跌呢', '帮忙分析一下000540，是冲高还是突破', '000028这个股票短线可以买吗老师？', '恒生电子600570短线可以参与吗？后期还会有新低吗？', '请分析下红宝丽，9.11元的成本，四成仓位，明日怎么操作？', '万科的买卖点在哪？'])
+Fri, 20 Jul 2018 08:49:43 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 3976.05ms
+Fri, 20 Jul 2018 08:50:02 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 08:50:02 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 08:50:02 pipeline.py[line:165] INFO ML 意图识别完成{'SVM': array(['长期走势', '短期走势', '技术面分析', 'other', 'other', '技术面分析', '行业个股列表',
+       'other', 'other', 'other'], dtype='<U6')}
+['<stock>长线可以进吗 ', '短线', '基本面分析', '资金流向', '你好', '昨天天气怎么样', '技术面', '你们有哪些股票', '你是什么产品', '今天天气不错哦', '不买了']
+dict_keys(['不买了', '昨天天气怎么样', '资金流向', '万科长线可以进吗？ ', '今天天气不错哦', '你是什么产品', '基本面分析', '你们有哪些股票', '技术面', '短线', '你好'])
+Fri, 20 Jul 2018 08:50:02 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 62.83ms
+Fri, 20 Jul 2018 09:38:50 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 09:38:50 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 09:38:50 pipeline.py[line:165] INFO ML 意图识别完成{'SVM': array(['other', '技术面分析'], dtype='<U6')}
+['<stock>可以买吗', '<stock>短线咋样', '基本面分析', '<stock>近期的资金流向']
+dict_keys(['基本面分析', '000153短线咋样', '万科近期的资金流向', '万科A可以买吗'])
+Fri, 20 Jul 2018 09:38:50 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 61.40ms
+Fri, 20 Jul 2018 09:39:01 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 09:39:01 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 09:39:01 pipeline.py[line:165] INFO ML 意图识别完成{'SVM': array(['other', '技术面分析'], dtype='<U6')}
+['<stock>可以买吗', '<stock>短线咋样', '基本面分析', '<stock>近期的资金流向']
+dict_keys(['基本面分析', '000153短线咋样', '万科近期的资金流向', '万科可以买吗'])
+Fri, 20 Jul 2018 09:39:01 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 18.20ms
+Fri, 20 Jul 2018 09:39:57 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 09:39:57 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 09:39:57 pipeline.py[line:165] INFO ML 意图识别完成{'SVM': array(['技术面分析'], dtype='<U6')}
+['请问<stock>可以补仓吗我本钱11元套了好久如果补什么价位要卖', '<stock>短线咋样', '基本面分析', '<stock>近期的资金流向']
+dict_keys(['基本面分析', '000153短线咋样', '万科近期的资金流向', '请问600360可以补仓吗，我本钱11元，套了好久，如果补什么价位要卖'])
+Fri, 20 Jul 2018 09:39:57 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 48.63ms
+Fri, 20 Jul 2018 09:40:21 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 09:40:21 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 09:40:21 pipeline.py[line:165] INFO ML 意图识别完成{'SVM': array(['other', '技术面分析'], dtype='<U6')}
+['<stock>十大股东', '<stock>短线咋样', '基本面分析', '<stock>近期的资金流向']
+dict_keys(['基本面分析', '000153短线咋样', '万科近期的资金流向', '万科十大股东'])
+Fri, 20 Jul 2018 09:40:21 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 16.47ms
+Fri, 20 Jul 2018 09:43:53 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 09:43:53 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 09:43:53 pipeline.py[line:165] INFO ML 意图识别完成{'SVM': array(['大盘走势', '技术面分析'], dtype='<U6')}
+['大盘最近走势如何', '<stock>短线咋样', '基本面分析', '<stock>近期的资金流向']
+dict_keys(['基本面分析', '000153短线咋样', '大盘最近走势如何', '万科近期的资金流向'])
+Fri, 20 Jul 2018 09:43:53 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 21.53ms
+Fri, 20 Jul 2018 09:45:44 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 09:45:44 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 09:45:44 pipeline.py[line:165] INFO ML 意图识别完成{'SVM': array(['大盘走势', '技术面分析'], dtype='<U6')}
+['大盘最近走势如何', '<stock>短线咋样', '基本面分析', '<stock>近期的资金流向']
+dict_keys(['基本面分析', '000153短线咋样', '大盘最近走势如何', '万科近期的资金流向'])
+Fri, 20 Jul 2018 09:45:44 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 21.79ms
+Fri, 20 Jul 2018 09:46:23 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 09:46:23 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 09:46:23 pipeline.py[line:165] INFO ML 意图识别完成{'SVM': array(['other', '技术面分析'], dtype='<U6')}
+['<stock>可以买吗', '<stock>短线咋样', '基本面分析', '<stock>近期的资金流向']
+dict_keys(['基本面分析', '000153短线咋样', '万科近期的资金流向', '万科可以买吗'])
+Fri, 20 Jul 2018 09:46:23 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 18.49ms
+Fri, 20 Jul 2018 09:46:42 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 09:46:42 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 09:46:42 pipeline.py[line:165] INFO ML 意图识别完成{'SVM': array(['other', '技术面分析'], dtype='<U6')}
+['<stock>十大股东', '<stock>短线咋样', '基本面分析', '<stock>近期的资金流向']
+dict_keys(['基本面分析', '000153短线咋样', '万科近期的资金流向', '万科十大股东'])
+Fri, 20 Jul 2018 09:46:42 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 17.31ms
+Fri, 20 Jul 2018 09:47:51 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 09:47:51 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 09:47:51 pipeline.py[line:165] INFO ML 意图识别完成{'SVM': array(['other', '技术面分析', 'other'], dtype='<U6')}
+['<stock>十大股东', '<stock>短线咋样', '基本面分析', '<stock>近期的资金流向', '<stock>可以买吗']
+dict_keys(['基本面分析', '000153短线咋样', '<stock>可以买吗', '万科近期的资金流向', '万科十大股东'])
+Fri, 20 Jul 2018 09:47:51 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 29.85ms
+Fri, 20 Jul 2018 09:48:01 pipeline.py[line:147] INFO RE 意图识别完成
+Fri, 20 Jul 2018 09:48:01 pipeline.py[line:106] INFO data_deal_finish
+Fri, 20 Jul 2018 09:48:01 pipeline.py[line:165] INFO ML 意图识别完成{'SVM': array(['other', '技术面分析', 'other'], dtype='<U6')}
+['<stock>十大股东', '<stock>短线咋样', '基本面分析', '<stock>近期的资金流向', '<stock>可以买吗']
+dict_keys(['基本面分析', '000153短线咋样', '<stock>可以买吗', '万科近期的资金流向', '<stock>十大股东'])
+Fri, 20 Jul 2018 09:48:01 web.py[line:2162] INFO 200 POST /nlp/intent (192.168.3.190) 46.40ms
